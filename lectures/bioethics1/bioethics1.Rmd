@@ -10,10 +10,14 @@ output:
 ## Brainstorm: When you hear bioethics, what comes to mind?  
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:800px; HEIGHT:450px" SRC="images/brainstorm.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/brainstorm.png">
 
 ## When you hear bioethics, what comes to mind?  
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
 * **Morality**
 <br/>
@@ -31,105 +35,168 @@ output:
 <br/>
 * **Reproductive decisions**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/should!.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:800px; HEIGHT:400px" SRC="images/shouldI.jpg">
 
 ## Ethics: The basics
 <hr>
+<br/>
 
-* **Ethics is a field of study that looks at the moral basis of human behavior…  
+* **Ethics is a field of study that looks at the moral basis of human behavior…**  
 
-Why do we act as we do?
+<br/>
+
+<span style="color:blue">**Why do we act as we do?**</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 * **…and attempts to determine the best course of action in the face of conflicting choices…and provides reasons why.**
 
-How do we decide what to do when people disagree about a complex issue?
+<br/>
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/should!.png">
+<span style="color:blue">**How do we decide what to do when people disagree about a complex issue?**</span>
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:650px; WIDTH:250px; HEIGHT:175px" SRC="images/depends.jpg">
 
 ## Bioethics
 <hr>
+<br/>
 
 * **The subfield of ethics applied to the life sciences**
 
+<br/>
+
 * **Scientific breakthroughs and new biomedical technologies have brought great benefits to society, but they also raise difficult questions about when and how they should be used.  **
+
+<br/>
 
 * **Helps us, as a society, make decisions about:**
     * How best to use new scientific knowledge
     * How to make policy decisions regarding medicines or therapies
     * How we should behave toward each other
 
+<br/>
+
 * **YOU will face ethical questions that your parents and grandparents never had to contend with**
 
-## What is an ethical question?
+## Ethical decisions: Key questions to ask yourself
+<hr>
+<br/>
 
-* **Often involve words like “should” or “ought” implying that a difficult decision must be made.**
+* **What is an ethical question?**
+    + involve words like *ought* or *should*
+    + several alternate solutions (all w/ challenges)
+    + contain conflicting moral choices
+    + likely no answer that satisfies all parties
+    
+<span style="color:green">*Ethical questions can be distinguished from questions about personal preference, legal, and scientific questions*</span>
 
-* **There are several alternate solutions, none of which are without some problematic or challenging aspect**
-
-* **Contain conflicting moral choices and dilemmas, and the underlying values of the people involved may clash**
-
-* **They have no right or wrong answer which satisfies all parties, but better or worse answers based on well-reasoned justifications**
-
-* **Ethical questions can be distinguished from questions about personal preference, legal, and scientific questions**
+<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/question.jpg">
 
 ## Ethical, legal, scientific, or personal preference?  
 <hr>
 
-Which sport is the most exciting?
-Whom should you marry?
-How are embryonic stem cells different from adult stem cells?
-Should embryonic stem cells be used in biomedical research?
-Can scientists patent genes?
-Should people be allowed to patent genes?
-Should you lie to protect the safety of your family?
-Do you need to credit another scientist who worked with you on your paper?
+**Which sport is the most exciting?**
+
+<br/>
+
+**Whom should you marry?**
+
+<br/>
+
+**How are embryonic stem cells different from adult stem cells?**
+
+<br/>
+
+**Should embryonic stem cells be used in biomedical research?**
+
+<br/>
+
+**Can scientists patent genes?**
+
+<br/>
+
+**Should people be allowed to patent genes?**
+
+<br/>
+
+**Should you lie to protect the safety of your family?**
+
+<br/>
+
+**Do you need to credit another scientist who worked with you on your paper?**
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:700px; WIDTH:300px; HEIGHT:200px" SRC="images/legal.jpg">
+
 
 ## Case Study: The Trolley Problem
 <hr>
+<br/>
 
-There is a runaway trolley barreling down the railway tracks. Ahead, on the tracks, there are five people tied up and unable to move. The trolley is headed straight for them. You are standing some distance off in the train yard, next to a lever. If you pull this lever, the trolley will switch to a different set of tracks. However, you notice that there is one person on the side track. You have two options:
+**There is a runaway trolley barreling down the railway tracks. Ahead, on the tracks, there are five people tied up and unable to move. The trolley is headed straight for them. You are standing some distance off in the train yard, next to a lever. If you pull this lever, the trolley will switch to a different set of tracks. However, you notice that there is one person on the side track. You have two options:**
 
-A. Do nothing and allow the trolley to kill the five people on the main track.
-B. Pull the lever, diverting the trolley onto the side track where it will kill one person.
+<br/>
+
+**A. Do nothing and allow the trolley to kill the five people on the main track.**
+<br/>
+**B. Pull the lever, diverting the trolley onto the side track where it will kill one **person.**
 
 **Lets have a secret vote.....**
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/trolley.png">
+<IMG STYLE="position:absolute; TOP:420px; LEFT:300px; WIDTH:500px; HEIGHT:250px" SRC="images/trolley.png">
 
 ## Opinion vs Ethics: The Trolley Problem
 <hr>
 
 * **You probably had a “gut” feeling about the trolley problem…you may not even be able to explain why you came to the decision**
 
+<br/>
+
 * **This is where ethics comes in!**
+
+<br/>
 
 * **Ethics is not a matter of opinion. An important part of ethical thought is to provide a justification for a course of action—successful arguments are well-reasoned**
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/trolley2.jpg">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:375px; WIDTH:400px; HEIGHT:250px" SRC="images/trolley2.jpg">
 
-## Reflection: Key questions to ask yourself
+## Ethical decisions: Key questions to ask yourself
 <hr>
+<br/>
 
-* **What is an ehtical questions?**
+* **What is an ethical question?**
 
-## Reflection: Key questions to ask yourself
-<hr>
-
-* **What is an ethical questions?**
+<br/>
 
 * **What are the relevant facts necessary to think carefully about it?**
     * Particularly important for bioethics
-    * For example, think about making judgements about vaccines.  You need to know about the risks of getting a disease, the magnitude of harm that could occur if the disease is contracted, the risk of suffering that harm, as well as efficacy and side effects of a vaccine.
 
-    * Ethical decisions are often made with incomplete information!
+<br/>
+
+<span style="color:blue">*Think about making judgments about vaccines. You need to know about the risks of getting a disease, the magnitude of harm that could occur if the disease is contracted, the risk of suffering that harm, as well as efficacy and side effects of a vaccine.*</span>
+
+<br/>
+
+* **Ethical decisions are often made with incomplete information!**
+
+<IMG STYLE="position:absolute; TOP:455px; LEFT:720px; WIDTH:360px; HEIGHT:230px" SRC="images/covid.jpg">
     
-
-## Reflection: Key questions to ask yourself
+## Ethical decisions: Key questions to ask yourself
 <hr>
+<br/>
+<br/>
 
-* **What is an ethical questions?**
+
+* **What is an ethical question?**
+
+<br/>
 
 * **What are the relevant facts necessary to think carefully about it?**
+
+<br/>
 
 * **Who or what could be affected by the way the question gets resolved?**
     * Think about the range of individuals, groups, or institutions that may have a stake       in the outcome of an ethical decision
@@ -137,72 +204,116 @@ B. Pull the lever, diverting the trolley onto the side track where it will kill 
     * May not always be humans:  animals, plants, the environment
 
 
-## Reflection: Key questions to ask yourself
+## Ethical decisions: Key questions to ask yourself
 <hr>
+<br/>
+<br/>
 
-* **What is an ethical questions?**
+<div style="float: left; width: 50%;">
+
+* **What is an ethical question?**
+
+<br/>
 
 * **What are the relevant facts necessary to think carefully about it?**
 
+<br/>
+
 * **Who or what could be affected by the way the question gets resolved?**
+
+<br/>
 
 * **What are the relevant ethical considerations? ** 
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/model.jpg">
+
 ## Core ethical considerations
 <hr>
 
-1. Respect for persons
+**1. Respect for persons**
+
+<br/>
+
 * **Not treating an individual as a means to an end or goal**
-    + For example, even if one person’s organs could help five people live, it would be an ethical violation of respect for persons to kill that one person and distribute the organs to save the five who need them.
-* **Often involves not interfering with a person’s ability to make and carry out decisions**
+    + For example, even if one persons organs could help five people live, it would be an ethical violation of respect for persons to kill that one person and distribute the organs to save the five who need them.
+    
+<br/>
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/respect.jpg">
+* **Often involves not interfering with a persons ability to make and carry out decisions**
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:400px; WIDTH:330px; HEIGHT:150px" SRC="images/respect.jpg">
 
 ## Core ethical considerations
 <hr>
 
-1. Respect for persons
+**1. Respect for persons**
 
-2. Maximize benefits while minimizing harms
-Focuses on trying to promote positive consequences by balancing harms and benefits 
+<br/>
+
+**2. Maximize benefits while minimizing harms**
+
+<br/>
+
+*Focuses on trying to promote positive consequences by balancing harms and benefits 
 Harms and benefits come in a variety of types: physical, emotional, economic, social
-Central tenet of modern medicine
+Central tenet of modern medicine*
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/risk.gif">
-
-## Core ethical considerations
-<hr>
-
-1. Respect for persons
-
-2. Maximize benefits while minimizing harms
-
-3. Justice or fairness
-Ensure that resources, risks, and costs are distributed equitably
-There are many ways of determining what is fair:  giving equal amounts, giving according to need, giving according to merit
-
-<IMG STYLE="position:absolute; TOP:490px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/equity.png">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:225px" SRC="images/risks.gif">
 
 ## Core ethical considerations
 <hr>
 
-1. Respect for persons
+**1. Respect for persons**
 
-2. Maximize benefits while minimizing harms
+<br/>
 
-3. Justice or fairness
+**2. Maximize benefits while minimizing harms**
 
-Sometimes these ethical considerations will point out the best way to act, while at other times they conflict and cannot all be satisfied
+<br/>
 
-Sometimes it is not easy or even possible to act in accordance with all relevant considerations
+**3. Justice or fairness**
 
-Each individual prioritizes and chooses which considerations should be favored in their own way (influenced by experience, culture, religion, etc.)
+<br/>
 
-Often, there is no one right answer!
+*Ensure that resources, risks, and costs are distributed equitably
+There are many ways of determining what is fair:  giving equal amounts, giving according to need, giving according to merit.*
 
+<IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:350px; HEIGHT:235px" SRC="images/equity.png">
+
+## Core ethical considerations
+<hr>
+
+**1. Respect for persons**
+
+<br/>
+
+**2. Maximize benefits while minimizing harms**
+
+<br/>
+
+**3. Justice or fairness**
+
+<br/>
+
+*Sometimes these ethical considerations will point out the best way to act, while at other times they conflict and cannot all be satisfied.*
+
+<br/>
+
+*Sometimes it is not easy or even possible to act in accordance with all relevant considerations.*
+
+<br/>
+
+*Each individual prioritizes and chooses which considerations should be favored in their own way (influenced by experience, culture, religion, etc.)*
+
+<br/>
+
+*Often, there is no one right answer!*
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:350px; HEIGHT:235px" SRC="images/equity.png">
 
 ##
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yg16u_bzjPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 
