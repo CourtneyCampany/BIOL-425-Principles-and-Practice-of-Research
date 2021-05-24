@@ -1,0 +1,305 @@
+---
+title: "Bioethics 1: Issue Discussion"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Review: Key questions to ask in bioethics...
+<hr>
+<br/>
+
+**1. What is the ethical question?**
+**2. What are the relevant facts necessary to think carefully about it?**
+**3. Who or what could be affected by the way the question gets resolved?**
+**4. What are the relevant ethical considerations?**
+    * Respect for persons
+    * Maximize benefits while minimizing harms
+    * Justice or fairness
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/easyanswers.png">
+
+## Its a bold new world in modern science...
+<hr>
+
+<div style="float: right; width: 70%;">
+
+* **Advancements in biotechnology and medicine have created new ethical issues never before faced by humanity**
+    + YOU will face ethical questions that your parents never had to contend with
+
+<br/>
+
+* **Current themes in bioethics:**
+    + Human reproduction
+    + Shaping human beings
+    + Beginning and end of life
+    + Health and society
+    + Food, farming and the environment
+    + Crime and security
+    + Research ethics
+
+<br/>
+
+<span style="color:red">**Just because humans CAN do something, SHOULD we?**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:250px; HEIGHT:250px" SRC="images/pipette.jpg">
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:25px; WIDTH:250px; HEIGHT:250px" SRC="images/cell.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/modernbio.jpg">
+
+## Genetic testing and genomics
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **The ability to perform sophisticated genetic tests or sequence an entire genome is revolutionizing diagnosis of disease**
+
+<br/>
+
+* **Prenatal tests can diagnose potentially fatal diseases**
+
+<br/>
+
+* **Many diseases with adult onset have gene alterations that are not causative but associated with it (e.g. Alzheimer’s and APOE)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:350px; HEIGHT:300px" SRC="images/prenatal.jpg">
+
+
+## Genetic testing and genomics
+<hr>
+
+<div style="float: right; width: 55%;">
+
+* **Who should be allowed to see this information?  Insurance companies?**
+
+<br/>
+
+* **Is it better not to know?**
+    + Many individuals experience high levels of stress and anxiety after test results
+    
+<br/>
+
+* **Should a fetus with a fatal disease be terminated**
+    + Down-syndromw vs autism vs IQ
+    + What about false-positives?
+
+<br/>
+
+* **What would be the consequence of mass genetic screening?**
+    + Stigmatization
+    + Eugenics concerns</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:350px; HEIGHT:350px" SRC="images/prenatal2.png">
+
+## Gene editing and genetically modified organisms
+<hr>
+
+* **CRISPR-Cas9 has now made gene editing a reality in nearly any type of cell inclusing a human embryo**
+
+<br/>
+
+* **Some diseases can be corrected (e.g. sickle cell) **
+
+<br/>
+
+* **Chinese scientist used CRISPR on human embryos to edit the receptor that HIV uses to gain entry**
+
+<br/>
+
+* **Crops are modified to withstand various ecological challenges**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/hiv.jpg">
+
+## Gene editing and genetically modified organisms
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Alterations may increase the likelihood of one disease while protecting you from others**
+
+<br/>
+
+* **Possibility of mistakes risking further damage to health**
+    + Long-term effects?
+    
+<br/>
+
+* **Opens door for cosmetic changes in humans**
+
+<br/>
+
+* **Consequences for the natural world**
+    + Should we alter species DNA to save biodiversity?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/cropscrispr.jpg">
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/crispr.png">
+
+## Stem cell research and therapy
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Stem cells can be obtained from an embryo (hESCs) or induced from somatic cells (iPSCs)**
+
+
+* **Great promise for disease-specific cell lines and regenerative medicine products**
+
+
+* **Stem cells are being stored in *biobanks* to provide blood transplantation resources**        + other tissue types are following
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:375px; WIDTH:550px; HEIGHT:400px" SRC="images/biobank.jpg">
+
+## Stem cell research and therapy
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Creation (and destruction) of embryos specifically for research purposes**
+
+<br/>
+
+* **Status of organoids generated**
+
+<br/>
+
+* **Use of animal models and potential for xenografts**
+
+<br/>
+
+* **Economic interference:  the potential to overpromise and overexpect**
+
+<br/>
+
+* **Identity concerns after patient donations of stem cells**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:550px; HEIGHT:300px" SRC="images/xeno.png">
+    
+## Cloning
+<hr>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Cloning of humans is almost certainly possible at this point**
+    + Human embryos cloned:  2001
+    + Adult human cells transformed into embryonic cells: 2007
+    + Genetic material from skin cells grown into embryo: 2011
+
+<br/>
+
+* **There are potential uses for regenerative medicine**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/clone.jpg"
+
+## Cloning
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Low success rate of cloning—many abort at late term**
+
+* **Cloned organisms may develop health problems / not live as long**
+
+* **Would a clone be the same person?**
+    + Phenotype versus genotype
+    + How to distinguish a clone from the original?
+    
+* **Psychological harm to a human clone:**
+    + Should a clone have the same rights?
+    + Relationship issues
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/tooclone.png">
+
+## Extreme cost of pharmaceuticals
+<hr>
+<br/>
+
+* **Developing a novel drug is an extremely expensive undertaking with no guarantee of success**
+
+<br/>
+
+* **“Orphan” drugs treat diseases that are so uncommon a drug company doesn’t intentionally pursue them**
+
+<br/>
+
+* **Zolgensma costs $2.1 million for a course of treatment for spinal muscular atrophy (in some cases is curative)**
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:200px; WIDTH:700px; HEIGHT:250px" SRC="imagesdrug.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="costs.jpg">
+
+## Extreme cost of pharmaceuticals
+<hr>
+<br/>
+
+* **Drug companies should expect a reasonable return on their investment in research and development**
+
+<br/>
+
+* **Do drug companies have an obligation to find curative drugs rather than maintenance?  (e.g. diabetes)**
+
+<br/>
+
+* **Patients in drug studies sacrifice their health and well being**
+
+<br/>
+
+* **Taxpayer money is ultimately used to develop any drug**
+
+<br/>
+
+* **Excessive prices can harm people, threatening public health and depleting taxpayer** money
+
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:225px" SRC="images/drugprice.jpg">
+
+## Global health disparities
+<hr>
+
+* **Healthcare and life expectancy in underdeveloped countries lags far behind first world countries**
+
+
+* **Sub-saharan African countries: 20-25 years less**
+
+
+* **Do richer countries have an obligation to correct this disparity?**
+
+* **Socio-economic background also major factor in the US**
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:4005px" SRC="images/life.png">
+
+## Global health disparities
+<hr>
+
+* **Moral responsibility to minimize suffering**
+
+
+* **Goes beyond a health issue:  also affects security and economics**
+
