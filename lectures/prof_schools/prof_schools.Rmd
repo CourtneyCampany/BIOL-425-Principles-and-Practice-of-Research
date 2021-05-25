@@ -1,0 +1,520 @@
+---
+title: "Professional Schools"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Health sciences careers are growing
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Numbers of health sciences jobs are on the rise with the baby boomer population aging**
+
+<br/>
+
+* **The US Bureau of Labor and Statistics web site has all kinds of fascinating information about careers**
+    + https://www.bls.gov/bls/employment.htm
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:430px; LEFT:200px; WIDTH:700px; HEIGHT:250px" SRC="images/boomer.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:765px; WIDTH:250px; HEIGHT:150px" SRC="images/boomer2.jpg">
+
+## Comparison of professional school degrees
+<hr>
+
+* **Physician (MD, DO)**
+
+<br/>
+
+* **Physician’s Assistant (PA)**
+
+<br/>
+
+* **Physical Therapist (PT)**
+
+<br/>
+
+* **Pharmacist**
+
+<br/>
+
+* **Dentist**
+
+<br/>
+
+* **Veterinarian**
+
+<br/>
+
+* **Chiropractor**
+
+<br/>
+
+* **Optometrist**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/careers.png">
+
+## Why choose professional school? 
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **High income potential (for some professions…)**
+<br/>
+
+* **Job security**
+<br/>
+
+* **Workplace flexibility**
+<br/>
+
+* **Saving and improving lives**
+<br/>
+
+* **Continuing learning**
+<br/>
+
+* **Prestige**
+
+<br/>
+
+* **However:**
+    + Training process is long and demanding
+    + High debt (MD:  ~$250K tuition, DDS: ~$165K, vet: ~$125K)
+    + Stressful professions
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:625px; WIDTH:450px; HEIGHT:400px" SRC="images/debt.jpg">
+
+## Factors in professional school admission
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **A competitive test score on a standardized admissions tests**
+
+<br/>
+
+* **Grade point average >3.2 for most schools**
+    + 3.55 for medical school (NYU = 3.92)
+    
+<br/>
+
+* **Well-written essays**
+
+<br/>
+
+* **In-depth professional exposure for health related professions**
+    + shadowing, scribing
+    
+<br/>
+
+* **Research experience**
+
+<br/>
+
+* **Highly supportive letters of recommendation**
+
+<br/>
+
+* **Demonstrate strong interpersonal and communication skills**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:325px" SRC="images/wvu.png">
+
+## Physician
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Practices all aspects of modern medicine including prescribing drugs, surgery, and the use of technology to diagnose disease, evaluate injury, and promote wellness.**
+    + MD (Medical Doctor): traditional degree from an allopathic medical school (http://www.ama-assn.org/)
+    + DO (Doctor of Osteopathy): same functions as MD with a emphasis of total patient care (http://www.aacom.org)
+
+<br/>
+
+* **Training time:**
+    + Medical school: 4 years 
+    + Residency: 3-5 years
+    + Fellowship for specialty: 0-3 years (optional)
+
+</div>
+
+<div style="float: right; width: 45%;">
+
+
+* **133 allopathic medical schools & 29 osteopathic medical schools in the US**
+    + Requires national and state medical licensure examinations
+    + Requires medical board licensure for a specialty
+
+<br/>
+
+* **Admission test: MCAT (Medical College Admissions Test)** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:470px; LEFT:660px; WIDTH:300px; HEIGHT:250px" SRC="images/doc.jpg">
+
+## Medical School Admissions
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Evidence of academic success**
+    + GPA >3.5 in BCPM (biology, chemistry, physics, math)
+    + MCAT of >500 (125 per section)
+
+<br/>
+
+* **Course requirements (minimum grade):**
+    + Biology, chemistry, biochemistry, physics, labs, behavioral sciences, medical terminology
+    + There are grade minimums (usually C)
+
+<br/>
+
+* **MD admissions moving away from concrete course requirements**
+    + Looking for “proficiency” in subjects
+
+<br/>
+
+* **Check specific requirements for each school!**
+
+</div>
+
+<div style="float: right; width: 40%;">
+
+* **Evidence of other activities**
+    + Shadowing at a hospital/physician’s office
+    + Hospital volunteering or work
+    + Leadership and service in community
+    + Undergraduate research
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:585px; WIDTH:450px; HEIGHT:300px" SRC="images/mcat.jpg">
+
+## Medical school resources
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Many medical school admission resources available at: https://students-residents.aamc.org/**
+
+<br/>
+
+* **Everything you need to know about the MCAT: https://students-residents.aamc.org/applying-medical-school/taking-mcat-exam/**
+
+<br/>
+
+* **https://medicine.hsc.wvu.edu/about/**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:600px; WIDTH:500px; HEIGHT:250px" SRC="images/aamc.png">
+    
+## Physician Assistant
+<hr>
+
+<div style="float: left; width: 70%;">
+
+* **The role of the physician assistant (PA) is to practice medicine under the direction and supervision of a licensed physician in virtually all medical specialties and settings.**
+    + See:  http://www.aapa.org/
+    + MS in Physician Assistant Studies (or similar)
+
+<br/>
+
+* **Training time:  2-3 years**
+    + Extensive clinical rotations begin in 2nd year
+
+* **196 graduate programs in U.S.**
+    + Requires national and state licensure examinations
+    
+<br/>
+
+* **Admissions test: Graduate Record Examination (GRE)**
+
+* **Academic and experience requirements similar to medical school**
+    + addition of human anatomy and physiology
+    + a little less stringent
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:760px; WIDTH:300px; HEIGHT:500px" SRC="images/pastats3.png">
+
+## Regional physician assistant programs
+<hr>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Shenandoah University - Division of Physician Assistant Studies, Winchester, VA**
+
+<br/>
+
+* **Alderson Broaddus University - Physician Assistant Department, Philippi, WV**
+
+<br/>
+
+* **Eastern Virginia Medical School - School of Health Professions, Norfolk, VA**
+
+<br/>
+
+* **James Madison University - Master of Physician Assistant Studies Program, Harrisonburg, VA**
+
+<br/>
+
+* **Jefferson College of Health Sciences, Roanoke, VA**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:350px; HEIGHT:500px" SRC="images/pastats2.jpg">
+
+## Dentist
+<hr>
+
+<div style="float: left; width: 75%;">
+
+* **Dentists diagnose and treat problems with patients' teeth, gums, and related parts of the mouth. They provide advice and instruction on taking care of the teeth and gums and on diet choices that affect oral health.**
+    + See http://www.ada.org/
+    + DDS (Doctor of Dental Surgery)
+
+<br/>
+
+* **Training time:  4 years**
+
+<br/>
+
+* **61 schools in the U.S. (including WVU, UM, Virginia Commonwealth)**
+    + Requires national and/or state licensure
+
+<br/>
+
+* **Admissions test: DAT (Dental Admissions Test)**
+
+<br/>
+
+* **Academic and experience requirements similar to medical school**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:650px; WIDTH:400px; HEIGHT:200px" SRC="images/dat2.png">
+
+## Physcial Therapist
+<hr>
+
+<div style="float: left; width: 75%;">
+
+* **Physical therapists are movement experts who improve quality of life through prescribed exercise, hands-on care, and patient education.**
+    + See:  https://www.apta.org/your-career/careers-in-physical-therapy/
+    + Doctorate in Physical Therapy
+    + Masters in Occupational Therapy
+
+<br/>
+
+* **Training time:  2-3 years**
+    + Includes clinical rotations
+
+<br/>
+
+* **212 programs in the U.S.**
+    + WVU, Marshall, Shenandoah University)
+    + Requires national and state licensure 
+
+<br/>
+
+* **Admissions Test: Graduate Record Examination (GRE) **
+    + Academic requirements:  Human anatomy and physiology
+ 
+</div>
+
+<!-- <IMG STYLE="position:absolute; TOP:490px; LEFT:400px; WIDTH:450px; HEIGHT:250px" SRC="images/ptcareer.png"> -->
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/ptot.png">
+
+## Pharmacist
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **Pharmacists dispense prescription medication along with key information, such as side effects, contraindications with other medicines, and a range of other concerns.**
+    + See:  http://www.aacp.org
+    + PharmD (Doctor of Pharmacy)
+
+<br/>
+
+* **Training time: 4 years**
+    + Usually includes 1-2 year residency
+
+<br/>
+
+* **100 programs in the U.S.**
+    + WVU, Marshall, Shenandoah
+    + Requires national & state licensure 
+
+<br/>
+
+* **Admissions test: Pharmacy College Admission Test (PCAT)**
+    + sometimes optional
+
+<br/>
+
+* **Academic requirements:  Human anatomy and physiology, microbiology**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:700px; WIDTH:300px; HEIGHT:475px" SRC="images/pharma.jpg">
+
+## Veterinary Medicine
+<hr>
+<div style="float: left; width: 65%;">
+
+* **Veterinarians care for the health of animals & work to protect public health. They diagnose, treat, & research medical conditions & diseases of pets, livestock, and other animals.**
+    + See:  http://www.aavmc.org
+    + DVM (Doctor of Veterinary Medicine)
+
+<br/>
+
+* **Training time:  4 years**
+
+<br/>
+
+* **30 programs in the U.S.**
+    + Requires national & state licensure
+
+<br/>
+
+* **Admissions test: moving away from tests (some GRE)**
+
+<br/>
+
+* **Vet school admission is extremely competitive**
+    + Academic and experience requirements same as medical school*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:725px; WIDTH:350px; HEIGHT:450px" SRC="images/vet.png">
+
+## Centralized Application Services
+<hr>
+<br/>
+
+* **Most professional schools participate in a centralized application service**
+
+<br/>
+
+* **Applicant fills out a single application including all required materials that can be sent to specific schools**
+
+<br/>
+
+**Medical school: AMCAS**
+<br/>
+**Physician assistant: CASPA**
+<br/>
+**Dental school: ADEA AADSAS**
+<br/>
+**Veterinary school:  VMCAS**
+<br/>
+**Physical therapy: PTCAS**
+<br/>
+**Chiropractor: ChiroCAS**
+<br/>
+**Optometry:  OptomCAS**
+
+<br/>
+
+* **Each school still maintains their own application deadlines**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:500px; WIDTH:300px; HEIGHT:75px" SRC="images/chirocas.png">
+
+## Parts of a CAS application
+<hr>
+<br/>
+
+**1. Admissions test results**
+<br/>
+<br/>
+**2. Background Information**
+<br/>
+<br/>
+**3. Coursework and Official Transcript(s)**
+<br/>
+<br/>
+**4. Work and Activities: extracurricular activities, related experiences and exposure, employment, volunteer work, internships, and/or research**
+<br/>
+<br/>
+**5. Letters of Evaluation: 2-3 letters**
+<br/>
+<br/>
+**6. Personal Statement**
+<br/>
+<br/>
+**7. Secondary Application: School-specific application that helps explain why you’re interested in that particular institution; how your goals, experiences, and plans align with their mission and goals; and how/what you would contribute and develop as a learner at that institution.**
+<br/>
+<br/>
+**8. Other admission components:  interview, social media / internet search, financial information, and criminal history**
+
+## Admissions timelines
+<hr>
+
+* **Fall of junior year: **
+    + Study and take practice tests
+    + Prepare admission materials
+    + Learn about deadlines (set by individual schools)
+
+<br/>
+
+* **Spring of junior year:  take admissions test**
+
+<br/>
+
+* **Summer/fall of senior year:**
+    + Finalize admission materials
+    + Apply using CAS by school deadline (typically November 1)
+
+<br/>
+
+* **Fall/spring of senior year: **
+    + In-person interviews
+    + Make decision!
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:200px; HEIGHT:275px" SRC="images/med.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/medschool.jpg">
+
+## Practive admissions tests!
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **The best way to prepare for admissions tests is to take practice tests**
+
+<br/>
+
+* **All the major tests have free tests available, but you can also purchase others**
+
+<br/>
+
+* **For-profit companies also offer preparatory classes for MCAT and GRE**
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:475px" SRC="images/gre.png">

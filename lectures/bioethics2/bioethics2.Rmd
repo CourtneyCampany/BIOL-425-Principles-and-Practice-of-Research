@@ -1,5 +1,5 @@
 ---
-title: "Bioethics 1: Issue Discussion"
+title: "Bioethics 2: Issue Discussion"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -11,15 +11,28 @@ output:
 <hr>
 <br/>
 
-**1. What is the ethical question?**
-**2. What are the relevant facts necessary to think carefully about it?**
-**3. Who or what could be affected by the way the question gets resolved?**
-**4. What are the relevant ethical considerations?**
+<div style="float: left; width: 74%;">
+
+* **What is the ethical question?**
+
+<br/>
+
+* **What are the relevant facts necessary to think carefully about it?**
+
+<br/>
+
+* **Who or what could be affected by the way the question gets resolved?**
+
+<br/>
+
+* **What are the relevant ethical considerations?**
     * Respect for persons
     * Maximize benefits while minimizing harms
     * Justice or fairness
+    
+</div>
 
-<IMG STYLE="position:absolute; TOP:390px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/easyanswers.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:765px; WIDTH:300px; HEIGHT:300px" SRC="images/easyanswers.png">
 
 ## Its a bold new world in modern science...
 <hr>
@@ -46,39 +59,45 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:250px; HEIGHT:250px" SRC="images/pipette.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:45px; WIDTH:250px; HEIGHT:250px" SRC="images/pipette.jpg">
 
-<IMG STYLE="position:absolute; TOP:420px; LEFT:25px; WIDTH:250px; HEIGHT:250px" SRC="images/cell.jpg">
+<IMG STYLE="position:absolute; TOP:440px; LEFT:45px; WIDTH:250px; HEIGHT:250px" SRC="images/cell.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/modernbio.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/modernbio.jpg">
 
 ## Genetic testing and genomics
 <hr>
+<br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 70%;">
 
 * **The ability to perform sophisticated genetic tests or sequence an entire genome is revolutionizing diagnosis of disease**
-
+    + increasing tests are non-invasive
+    
 <br/>
 
 * **Prenatal tests can diagnose potentially fatal diseases**
 
 <br/>
 
-* **Many diseases with adult onset have gene alterations that are not causative but associated with it (e.g. Alzheimer’s and APOE)**
+* **Many diseases with adult onset have gene alterations that are not causative but associated with it**
+    + e.g. Alzheimer’s and APOE
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:350px; HEIGHT:300px" SRC="images/prenatal.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/prenatal.jpg">
 
 
 ## Genetic testing and genomics
 <hr>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 65%;">
 
-* **Who should be allowed to see this information?  Insurance companies?**
+* **Who should be allowed to see this information?**
+    + Insurance companies?
 
 <br/>
 
@@ -103,12 +122,17 @@ output:
 
 ## Gene editing and genetically modified organisms
 <hr>
+<br/>
+<br/>
 
-* **CRISPR-Cas9 has now made gene editing a reality in nearly any type of cell inclusing a human embryo**
+<div style="float: left; width: 60%;">
+
+* **CRISPR-Cas9 has now made gene editing a reality in nearly any type of cell**
+    + including a human embryo
 
 <br/>
 
-* **Some diseases can be corrected (e.g. sickle cell) **
+* **Some diseases can be corrected (e.g. sickle cell)**
 
 <br/>
 
@@ -116,9 +140,11 @@ output:
 
 <br/>
 
-* **Crops are modified to withstand various ecological challenges**
+* **Crops are being modified to withstand various ecological challenges**
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/hiv.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:450px" SRC="images/hiv.jpg">
 
 ## Gene editing and genetically modified organisms
 <hr>
@@ -130,7 +156,8 @@ output:
 
 <br/>
 
-* **Possibility of mistakes risking further damage to health**
+* **Possibility of mistakes exists**
+    + Risks further damage to health
     + Long-term effects?
     
 <br/>
@@ -144,37 +171,42 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/cropscrispr.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/cropscrispr.jpg">
 
 
-## 
+## Reflection: How do you feel about gene editting?
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/crispr.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/crispr.png">
 
 ## Stem cell research and therapy
 <hr>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
-* **Stem cells can be obtained from an embryo (hESCs) or induced from somatic cells (iPSCs)**
+* **Stem cells can be obtained from an embryo or induced from somatic cells**
 
 
 * **Great promise for disease-specific cell lines and regenerative medicine products**
 
+</div>
 
-* **Stem cells are being stored in *biobanks* to provide blood transplantation resources**        + other tissue types are following
+<div style="float: right; width: 50%;">
+* **Stem cells are stored in *biobanks* to provide blood transplantation resources**      
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:425px; LEFT:375px; WIDTH:550px; HEIGHT:400px" SRC="images/biobank.jpg">
+<IMG STYLE="position:absolute; TOP:265px; LEFT:275px; WIDTH:500px; HEIGHT:400px" SRC="images/biobank.jpg">
 
 ## Stem cell research and therapy
 <hr>
+<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
-* **Creation (and destruction) of embryos specifically for research purposes**
-
+* **Creation of embryos specifically for research purposes**
+    + and destruction
+    
 <br/>
 
 * **Status of organoids generated**
@@ -185,7 +217,7 @@ output:
 
 <br/>
 
-* **Economic interference:  the potential to overpromise and overexpect**
+* **Economic interference: the potential to overpromise and overexpect**
 
 <br/>
 
@@ -193,10 +225,12 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:550px; HEIGHT:300px" SRC="images/xeno.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:450px; HEIGHT:300px" SRC="images/xeno.png">
     
 ## Cloning
 <hr>
+<br/>
+<br/>
 <br/>
 
 <div style="float: right; width: 55%;">
@@ -209,97 +243,138 @@ output:
 <br/>
 
 * **There are potential uses for regenerative medicine**
-
+    + cloned embryos a source for stem cells
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/clone.jpg"
+<IMG STYLE="position:absolute; TOP:235px; LEFT:15px; WIDTH:475px; HEIGHT:300px" SRC="images/clone.jpg">
 
 ## Cloning
 <hr>
 
 <div style="float: left; width: 50%;">
 
-* **Low success rate of cloning—many abort at late term**
-
-* **Cloned organisms may develop health problems / not live as long**
-
 * **Would a clone be the same person?**
     + Phenotype versus genotype
     + How to distinguish a clone from the original?
-    
+
+<br/>
+
 * **Psychological harm to a human clone:**
     + Should a clone have the same rights?
-    + Relationship issues
+    + Societal issues
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/tooclone.png">
+<div style="float: right; width: 50%;">
+* **Low success rate of cloning—many abort late term**
 
-## Extreme cost of pharmaceuticals
+<br/>
+
+* **Cloned organisms may develop health problems**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:465px; WIDTH:640px; HEIGHT:320px" SRC="images/tooclone.png">
+
+## Wildlife ethics: Handling invasive species
 <hr>
 <br/>
+<br/>
 
-* **Developing a novel drug is an extremely expensive undertaking with no guarantee of success**
+<div style="float: left; width: 70%;">
+
+* **Negative consequences of invasive species are far-reaching**
+    + 42% of threatened/endangered species are at risk
+    + Commercial, agricultural, and recreational activities depend on healthy native ecosystems
+    
+<br/>
+
+* **Invasive species’ are the villains of the wildlife conservation world.**
 
 <br/>
 
-* **“Orphan” drugs treat diseases that are so uncommon a drug company doesn’t intentionally pursue them**
+* **Management of invasive species is expensive**
+    + U.S. loses $13 billion annually in crops from invasive insects
+    + *Eurasian watermilfoil* (aquatic plant) reduced Vermont lakefront property ~16%
 
-<br/>
+</div>
 
-* **Zolgensma costs $2.1 million for a course of treatment for spinal muscular atrophy (in some cases is curative)**
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:250px" SRC="images/invasive.jpg">
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:200px; WIDTH:700px; HEIGHT:250px" SRC="imagesdrug.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="costs.jpg">
-
-## Extreme cost of pharmaceuticals
+## Wildlife ethics: Handling invasive species
 <hr>
-<br/>
 
-* **Drug companies should expect a reasonable return on their investment in research and development**
+<div style="float: left; width: 75%;">
 
-<br/>
-
-* **Do drug companies have an obligation to find curative drugs rather than maintenance?  (e.g. diabetes)**
-
-<br/>
-
-* **Patients in drug studies sacrifice their health and well being**
+* **Is the demonisation of ‘invasives’ morally wrong?**
+    + Management usually results in the killing of the species
+    + Narrative oversimplifies complex biological processes
 
 <br/>
 
-* **Taxpayer money is ultimately used to develop any drug**
+* **Biocontrol often fails**
+    + Is it ethical to introduce a predator into a system?
 
 <br/>
 
-* **Excessive prices can harm people, threatening public health and depleting taxpayer** money
+* **Are the terms ‘invasive’, ‘non-native’ and ‘foreign’ morally appropriate?**
+    + Consider the human perspective
+    + Many non-native species have little impact
 
+<br/>
 
-<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:225px" SRC="images/drugprice.jpg">
+* **War rhetoric often used to describe the behaviors of invasive species**
+    + Insects, molluscs, plants, etc. are not intent on destruction 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:765px; WIDTH:300px; HEIGHT:450px" SRC="images/canetoad.jpg">
 
 ## Global health disparities
 <hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
 
 * **Healthcare and life expectancy in underdeveloped countries lags far behind first world countries**
 
+<br/>
 
-* **Sub-saharan African countries: 20-25 years less**
+* **Sub-saharan African countries: 20-25 years lower**
 
+<br/>
 
-* **Do richer countries have an obligation to correct this disparity?**
+* **Do richer countries have an obligation to act?**
 
-* **Socio-economic background also major factor in the US**
+<br/>
 
+* **Socio-economic background a major factor in the US**
+</div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:4005px" SRC="images/life.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:25px; WIDTH:450px; HEIGHT:400px" SRC="images/life.png">
 
 ## Global health disparities
 <hr>
+<br/>
+
+<div style="float: left; width: 55%;">
 
 * **Moral responsibility to minimize suffering**
+    + disease burden impart due to life-sytle choice
+    
+<br/>
 
+* **What is the relationship between health ethics and human rights?**
+    + Governments obligation to respect, protect, and fulfill human rights
+    + Protecting community health may require limiting the liberty of people 
+    + Limited resource distribution
 
-* **Goes beyond a health issue:  also affects security and economics**
+<br/>
 
+* **Goes beyond a health issue**
+    + Affects security and economics**
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/health2.png">
