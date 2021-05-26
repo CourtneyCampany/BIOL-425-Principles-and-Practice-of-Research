@@ -1,0 +1,380 @@
+---
+title: "Graduate Schools"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/know.jpg">
+
+## Why go to graduate school?
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **It is an exciting and rewarding experience to advance your field**
+
+<br/>
+
+* **Potential job potential:**
+    + More career opportunities
+    + Salary is commensurate with education/experience (BUT not guaranteed)
+    + Networking opportunities
+
+<br/>
+
+* **Avoid the “real” world**
+    + potentially work abroad!
+
+<br/>
+
+* **However:**
+    + Work can be challenging and stressful
+    + Time commitment:  2-7 years (postdoc another 3-6 years)
+    + Different people have different graduate experiences
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:375px; HEIGHT:300px" SRC="images/grad2.jpg">
+
+## Masters degree versus Ph.D.
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Schools may offer M.S., Ph.D. or both**
+    + coursework, research only or both
+
+<br/>
+
+* **What type of job do you want?**
+
+<br/>
+
+* **Think about your timeline:**
+    + some programs can role a MS to a Ph.D.
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Masters programs are typically less competitive**
+
+<br/>
+
+* **Good option if you:**
+    + Are trying to decide if research is right for you
+    + Need to establish a stronger application for PhD
+    + Don’t want to commit to 5-7 years
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:480px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/degree.png">
+
+## To thesis or not to thesis?
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Some Masters programs require an original research project and written thesis**
+
+<br/>
+
+* **Thesis: essentially an expanded primary scientific paper**
+
+<br/>
+
+* **Many jobs will favor (or require) research experience**
+
+<br/>
+
+* **A non-thesis Masters program typically requires less time and is not dependent on successful research results**
+    + specific for certain fields
+    + teaching, career advancement
+    + additional prep for Vet, Med school
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/meme.png">
+
+## Graduate school application requirements
+<hr>
+
+* **Applications typically open in the fall (Sept. 1) with December deadlines**
+    + often new grants create positions at other times
+
+<br/>
+
+* **Application form:  CV, personal details, academic transcripts, test results, and names of references.**
+    + Academic transcripts:  Official versus unofficial.
+    + Application fees: ~50-85$
+
+<br/>
+
+* **Personal statement: Critical piece of writing that reflects on your reasons for wanting to study at the chosen program.**
+    + Blend of your relevant personal and professional experience
+    + Indication of how you hope to benefit from the program of study.
+
+<br/>
+
+* **Letters of recommendation:  2-3 people who you have a good relationship with who can speak positively to your abilities as a student and researcher.**
+
+<br/>
+
+* **Some application (Ph.D.) may require a writing sample**
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:750px; WIDTH:200px; HEIGHT:400px" SRC="images/grad3.gif"> -->
+
+## Not so secret tip....
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Research experience:  the single most important thing you can do to improve your application aside from grades.**
+
+<br/>
+<br/>
+<br/>
+
+* **Research with a faculty member demonstrates sustained interest in science, forms personal relationships for letters of recommendation, and develops your research skills and experiences**
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:400px; HEIGHT:450px" SRC="images/experience.jpg">
+
+## The graduate record exam (GRE)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Used to be required for admission, but many science graduate schools are moving away from it.**
+    + slow change, check your schools of interest
+    + not needed internationally
+
+<br/>
+
+
+* **Three part exam that measures verbal reasoning, quantitative reasoning, and analytical writing skills**
+
+<br/>
+
+
+* **There are also subject tests (generally not required)**
+    + biology, chemistry, physics
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/gre.png">
+
+## Undergraduate course choice
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **The Shepherd biology curriculum is designed to meet requirements for entrance into graduate / professional school**
+
+<br/>
+
+* **The more rigorous the undergraduate program, the better**
+    + Biomedical sciences:  calculus, organic chemistry, cell, genetics, developmental biology, biochemistry
+    + Ecological sciences:  field courses (herpetology, ornithology, plants and humanity, etc.), statistics
+
+<br/>
+
+* **Some graduate schools require specific undergraduate courses**
+    + Visit the web pages of schools you are interested in and check for specific requirements
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/logo.jpg">
+
+## Picking a program: Academic considerations
+<hr>
+
+* **Select schools with active research programs**
+    + Look up faculty member publications on Google scholar—are they publishing regularly?
+    + Look at faculty webpage for student histories
+
+<br/>
+
+* **Larger programs typically have more advanced equipment and more research and funding options**
+
+<br/>
+
+* **Bigger does not always mean better!!!!!**
+    + Experts in a particular field can be at any university
+
+<br/>
+
+* **University may have more than one program appropriate to your interests:**
+    + Different departments = separate graduate programs
+    + Biomedical sciences often grouped together into umbrella programs: you indicate your particular interest (these are often tied to medical schools)
+
+## Picking a program: Academic considerations
+<hr>
+<br/>
+
+<div style="float: right; width: 75%;">
+
+* **Scientific interest—are there faculty there doing research you are interested in?**
+    + join a list serve or search them weekly (in your field)
+
+<br/>
+
+* **Will another degree help you obtain your career goals?**
+    + a bachelor degree is not longer "special"
+
+<br/>
+
+* **Wills a advanced degree guarantee more money in your field?**
+    + great salary vs fewer advanced opportunities
+
+<br/>
+
+* **Are you willing to re-locate?**
+    + Grad programs/mentors are unique and often require moving
+
+<br/>
+
+* **Can you succeed with a family?**
+    + lots of factors
+
+<br/>
+
+* **Do you have the time? Grad school always results in a delay of 'normal' pay**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:250px; HEIGHT:450px" SRC="images/worth.png">
+
+## Finding a faculty mentor
+<hr>
+
+<div style="float: left; width: 67%;">
+
+* **Divide between biomedical and ecological sciences graduate programs:**
+    + *Biomedical*: typically apply to a departmental or umbrella program before speaking to any faculty members
+    + *Ecology*: you must email potential mentors ahead of time to discuss the possibility of working with them.
+    + You can always email the director of the graduate program to ask how best to approach this
+
+<br/>
+
+
+* **Be specific in your application about your scientific interests**
+    + do they align with the mentor's?
+
+<br/>
+
+* **In Ph.D. programs, you may do short rotations through different labs to find the right fit for your interests and goals**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:470px; LEFT:725px; WIDTH:300px; HEIGHT:150px" SRC="images/mentor.jpg">
+
+## Debunking Grad School Myths: Funding
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **Typically, tuition in biology graduate programs is waived**
+
+<br/>
+
+* **You often receive a small stipend from the university**
+
+<br/>
+
+* **This assistance typically comes from:**
+    + Teaching assistantships (labs)
+    + Research Assistantships: Supported by mentor grant
+    + Fellowships or Training Grants (NIH/NSF)
+
+<br/>
+
+* **Outside funding sources:**
+    + Pre-doctoral fellowship (NSF/NIH)
+    + Private foundation fellowships
+<br/>
+
+* **Broadly, you should NOT pay to go to grad school**
+    + exception: non-thesis masters
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:400px; HEIGHT:250px" SRC="images/money2.png">
+
+## Finding schools and programs
+<hr>
+
+<div style="float: left; width: 70%;">
+
+* **Simply search websites of universities in a geographic area**
+
+<br/>
+
+* **Talk to professors—there are often field-specific considerations**
+    + Some schools specialize in particular research areas
+    + network!!!
+
+<br/>
+
+* **There are internet databases organized by discipline:**
+    + www.gradschools.com
+    + https://www.petersons.com/graduate-schools.aspx
+    + ecolog
+
+<br/>
+
+* **Be Resourceful, these programs rarely recruit**
+
+<br/>
+
+* **Start a science twitter and follow your field**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/tweet.png">
+
+## The interview visit
+<hr>
+<div style="float: left; width: 65%;">
+
+* **Top applicants will typically be invited for a 1-2 day interview**
+    + may or may not be final selections
+
+<br/>
+
+* **Here, you will talk with professors and graduate students to find out about:**
+    + Student expectations
+    + Financial support
+    + Research space and equipment
+    + Setting and local area
+    + Social life
+    + Course work required for degree
+    + Preliminary or qualifying examinations – When? How?
+    + Inter-relationships (within and between labs)
+
+<br/>
+
+* **This style of interview is usually pretty fun!**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:450px; HEIGHT:300px" SRC="images/visit.jpg">
+
+## Dr. C's final thoughts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/global.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/gradschool.gif">
