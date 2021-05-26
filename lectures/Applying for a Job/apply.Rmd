@@ -1,0 +1,146 @@
+---
+title: "Applying for a Job"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Career services at Shepherd
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Shepherd has an entire office devoted to helping you meet your career goals**
+    + http://www.shepherd.edu/career-center
+    + you pay for it!!!
+
+<br/>
+
+* **Many tutorials around topics related to applying for jobs are available at:*
+    + http://www.shepherd.edu/career-center/tutorials
+
+<br/>
+
+* **Shepherd's fall career fair: **
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/careerservices.png">
+
+
+## Preparing for a job search
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Define what kind of position you are looking for**
+    + Interest
+    + Your qualifications
+    + How does it fit with your long-term plans?
+    + Type of employer (academic, government, industry, etc.)
+    + Salary
+    + Location
+    + Time expectations
+    + Family (closeness, childcare)
+    + Transportation
+    + Training requirements
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:470px; WIDTH:600px; HEIGHT:300px" SRC="images/jobsearch.png">
+
+## Be proactive throughout the search
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **You will not find a job by sitting on the computer wishing for the perfect job to come along**
+
+<br/>
+
+* **Jobs don’t come along—you have to find and get them**
+
+<br/>
+<br/>
+
+* **Make an action plan and set goals for yourself**
+
+<br/>
+
+* **Assertive (but not annoying) applicants are more likely to stand out from the pack**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:700px; WIDTH:375px; HEIGHT:350px" SRC="images/pc.jpg">
+
+## Prepare your job tools
+<hr>
+
+<div style="float: left; width: 70%;">
+
+* **Job applications require the same basic set of components:**
+    + *Up-to-date resume or CV*: a summary of your employment history, skills, and achievements
+    + *Cover letter*: a letter sent in with your other application materials declaring your interest in the job
+    + *Reference List*: contacts who can provide potential employers with an assessment of you as an employee (often previous supervisors)
+    + *Transcript*: some positions may be required to confirm your education
+    + *Licensure*: documentation of special training or endorsement
+
+<br/>
+
+* **Cover letters can be recycled but need to be tailored to each position**
+    + easy to forget (Dr. C forgot many times)
+
+<br/>
+
+* **Social media checks may occur!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:770px; WIDTH:275px; HEIGHT:450px" SRC="images/checklist.jpg">
+
+## How to locate listings for jobs?
+<hr>
+
+<div style="float: right; width: 60%;">
+
+* **Large internet job boards:**
+    + www.indeed.com
+    + https://www.sciencejobs.org/
+    + https://jobs.sciencecareers.org/
+    
+<br/>
+
+* **Federal government:  www.usajobs.gov**
+
+<br/>
+
+* **State government:**
+    + West Virginia:  https://personnel.wv.gov/
+    + Maryland:  https://jobapscloud.com/MD/
+    + Virginia:  https://jobs.virginia.gov/
+
+<br/>
+
+* **Many large companies also maintain employment sites**
+    + usually cross-posted on large internet job boards
+
+<br/>
+
+* **Create an account and get updates!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/jobboard.jpg">
+
+## Lets get started! Go find a damn job!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/rabbithole.png">
+
