@@ -359,3 +359,23 @@ output:
 * **Public Relations**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/beer.jpg">
+
+## For next time (bring laptop)
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **Figure out what you want to do with your life.  Just joking.**
+
+<br/>
+<br/>
+
+* **Come up with a list of 3 or 4 jobs or positions that interest you**
+
+<br/>
+
+* **We’re going to use these in the next several classes to prepare job application materials**
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/vision.jpg">
