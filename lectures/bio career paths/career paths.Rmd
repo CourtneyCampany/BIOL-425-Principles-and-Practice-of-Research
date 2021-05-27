@@ -1,0 +1,361 @@
+---
+title: "Biological Career Paths"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## You’ve earned a B.S. in biology…now what?  
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:250px; WIDTH:700px; HEIGHT:400px" SRC="images/nowhat.jpg">
+
+* **Dr. C’s practical career tip^TM^: It is never too early to start planning your future**
+
+## Career services at Shepherd University
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Shepherd has an entire office devoted to helping you further your own professional or academic career**
+    + http://www.shepherd.edu/career-center
+
+<br/>
+
+* **Many tutorials around grad school and job topics are available (resume/CV, interviews, personal statements, etc.)**
+    + http://www.shepherd.edu/career-center/tutorials
+
+<br/>
+
+* **You pay for these!!**
+
+<br/>
+
+<span style="color:yellow">Shepherd’s fall career fair: </span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/handshake.png">
+
+## What can I do with my degree in biology?
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **There are many different career paths available in the biological sciences**
+
+<br/>
+
+* **Some of these are not obvious, but could be the most interesting and/or fulfilling to you**
+
+<br/>
+
+* **In some cases education beyond the B.S. level is required**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/road.jpg">
+
+## Employment you can expect as an…
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Career positions in biology (including salary, benefits, responsibilities) are generally commensurate with your level of experience and/or education**
+
+<br/>
+
+* **Undergraduate student:  internship (paid or unpaid) working with someone else**
+
+<br/>
+
+* **B.S. or M.S. degree:  technician/assistant; somewhat independent, performs key tasks within parameters set by the boss**
+
+<br/>
+
+* **Ph.D./M.D.: guides overall mission, makes decisions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:550px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/scientists.jpg">
+
+## “Why should I consider getting an advanced degree?”
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **Many people are tired after four years of college and don’t want to go to more school…**
+
+<br/>
+
+* **Consider whether you might want:**
+    + To do advanced work in a subject (guide your own research/activities)
+    + A profession that requires specialization (skill set requires more advanced classes)
+    + A job that requires an advanced degree (e.g. some government positions)
+
+<br/>
+
+* **Graduate school directories:**
+    + http://www.shepherd.edu/career-center/graduate-school 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/grad.jpg">
+
+## Where can biology take you?
+<hr>
+
+* **Academic and hospital research**
+* **Biotechnology**
+* **Dentistry**
+* **Ecology**
+* **Environmental science**
+* **Food industries**
+* **Forensic science**
+* **Government agencies (FBI, FDA, DNR, NASA, USDA)**
+* **Graduate school**
+* **Law**
+* **Medicine**
+* **Nursing**
+* **Pharmaceuticals**
+* **Physical therapy**
+* **Physician assistant**
+* **Public health**
+* **Science writing or journalism**
+* **Veterinary medicine**
+* **Wildlife management**
+* **Science Communication**
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/career.jpg">
+
+## Biological Research
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Being a part of a new discovery is exciting!**
+
+<br/>
+
+* **Part of the reason for this course is to give you the taste of a long-term research project**
+
+<br/>
+
+* **Research careers are possible at many levels, in many settings, and in many different capacities**
+
+<br/>
+
+* **Science has entered a new realm of BIG data**
+    + combining related data sets to understand a larger phenomenon
+
+<br/>
+
+* **You might like a research career if you:**
+    + Enjoy problem solving
+    + Working with your hands (in a lab or outside)
+    + Don’t mind an unconventional schedule
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/bigdata.jpg">
+
+## Disciplines of biology-related research
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **Biomedical Research: physiology, pharmacology, biochemistry, molecular biology, bacteriology, virology, anatomy, neuroscience, cell biology, developmental biology, oncology, genetics, immunology, space physiology, embryology, kinesiology**
+
+<br/>
+
+* **Biological research in the field:  agriculture, botany, horticulture, plant taxonomy, paleobotany, evolutionary biology, phycology, ecology, environmental science, ichthyology, forensic biology, forensic anthropology, parasitology, entomology, ornithology, marine biology, vertebrate zoology, herpetology, wildlife biology, invertebrate zoology, biophysics, bioethics, conservation science**
+
+<br/>
+
+* **Data analytics: cincludes both fields above**
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/lab.jpg">
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/field.jpg">
+
+## Research settings
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **The setting in which research is being conducted determines the kinds of questions that will be investigated**
+
+<br/>
+
+* **Each setting has advantages and disadvantages**
+    + Academic – small primarily undergrad institution (Shepherd)
+        - Great freedom, undergrad students
+        - low budget, lack of equipment
+    + Academic – large research institution (WVU)
+        - Great freedom, advanced equipment, graduate students 
+        - constant scramble for grant money
+    + Industrial – biotech, pharmaceutical, agriculture (Pfizer, Monsanto)
+        - Advanced equipment, staff focused on a single task
+        - No freedom
+    + Government (Department of Defense)
+        - Some degree of freedom
+        - Red tape, scramble for money
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/national.jpg">
+
+## Healthcare opportunites are vast
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:800px; HEIGHT:500px" SRC="images/healthcare.png">
+
+## Government careers
+<hr>
+
+<div style="float: right; width: 65%;">
+
+* **All levels of government (federal, state, local) employ biologists in various capacities.**
+    + Environmental regulator (rivers and streams, fish and wildlife, forest management)
+    + Park ranger or interpreter
+    + Water quality
+    + Waste management
+    + County extension agent
+    + Science policy
+    + Food safety
+    + Drug approval
+    + Occupational health and safety
+    + Biodefense
+
+<br/>
+
+* **Other careers work closely with governments to further scientific goals:**
+    + Administrator/Researcher for a nonprofit public interest or health group
+    + Lobbyist (science, technology, and education)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:15px; WIDTH:350px; HEIGHT:400px" SRC="images/policy.jpg">
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:455px; LEFT:720px; WIDTH:300px; HEIGHT:450px" SRC="images/lab2.jpg">
+
+## Education
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Educators teach others about biology and its impact on their lives**
+    + K-12 teacher
+    + Technical training school teacher
+    + University/college professor 
+    + Less formal science educator—museums, parks, internet
+    + Work with publishers on science outreach materials
+    + Work for nonprofit on science education outreach
+
+<br/>
+
+* **You might like an education career if you:**
+    + Enjoy working with students
+    + Want to help shape the next generation of scientists
+    + Can communicate and present effectively
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/teach.jpg">
+
+## Administrative/management careers in biology
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **These positions provide support to others carrying out biological research or education**
+    + Professional societies
+    + Grants administrator (government or nonprofit)
+    + University administrator (office of research, grants, compliance, safety)
+    + Project management at pharmaceutical or biotechnology company
+
+<br/>
+
+* **You might like an administrative career if you:**
+    + Have strong organizational and writing skills
+    + Can communicate effectively with a variety of stakeholders
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:255px" SRC="images/admin.png">
+
+## Scientific communication careers
+<hr>
+<br/>
+
+<div style="float: right; width: 65%;">
+
+* **There are many forms of scientific writing and/or editing**
+    + Scholarly publishing—editorial assistant
+    + Technical writing
+    + Marketing
+    + University or professional society media relations
+    + Government 
+    + Journalism (including the internet)
+    + Scientific/medical illustration
+
+<br/>
+
+* **You might like a writing career if you:**
+    + Are a strong written communicator
+    + Have outstanding research or investigative skills
+    + Enjoy working under deadlines
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:300px; HEIGHT:450px" SRC="images/comm.png">
+
+## Related Industries (Biology skills are transferrable!)
+<hr>
+<br/>
+
+* **Pharmaceutical / Biotech / Medical**
+    + Market Research
+    + Regulatory affairs
+    + Quality control
+    + Sales and marketing
+    + Product development and testing
+
+<br/>
+
+* **Aerospace**
+* **Scientific Consultation**
+* **Entrepreneurship**
+* **Brewing**
+* **Baking**
+* **Law (patent, environmental, medical)**
+* **Bioinformatics**
+* **Biostatistics**
+* **Public Relations**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/beer.jpg">
