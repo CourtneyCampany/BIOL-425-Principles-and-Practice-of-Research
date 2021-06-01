@@ -19,9 +19,16 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-<IMG STYLE="position:absolute; TOP:170px; LEFT:250px; WIDTH:700px; HEIGHT:400px" SRC="images/nowhat.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/nowwhat.jpg">
 
 * **Dr. C’s practical career tip^TM^: It is never too early to start planning your future**
 
@@ -30,7 +37,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 65%;">
 
 * **Shepherd has an entire office devoted to helping you further your own professional or academic career**
     + http://www.shepherd.edu/career-center
@@ -46,7 +53,7 @@ output:
 
 <br/>
 
-<span style="color:yellow">Shepherd’s fall career fair: </span>
+<span style="color:orange">Shepherd’s fall career fair: </span>
 
 </div>
 
@@ -55,8 +62,10 @@ output:
 ## What can I do with my degree in biology?
 <hr>
 <br/>
+<br/>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 45%;">
 
 * **There are many different career paths available in the biological sciences**
 
@@ -94,13 +103,13 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:550px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/scientists.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:640px; WIDTH:450px; HEIGHT:300px" SRC="images/scientists.jpg">
 
 ## “Why should I consider getting an advanced degree?”
 <hr>
 <br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 68%;">
 
 * **Many people are tired after four years of college and don’t want to go to more school…**
 
@@ -122,7 +131,7 @@ output:
 
 ## Where can biology take you?
 <hr>
-
+<div style="float: left; width: 50%;">
 * **Academic and hospital research**
 * **Biotechnology**
 * **Dentistry**
@@ -130,7 +139,7 @@ output:
 * **Environmental science**
 * **Food industries**
 * **Forensic science**
-* **Government agencies (FBI, FDA, DNR, NASA, USDA)**
+* **Gov't agencies (FBI, FDA, DNR, NASA, USDA)**
 * **Graduate school**
 * **Law**
 * **Medicine**
@@ -139,24 +148,27 @@ output:
 * **Physical therapy**
 * **Physician assistant**
 * **Public health**
+</div>
+
+<div style="float: right; width: 50%;">
+
 * **Science writing or journalism**
 * **Veterinary medicine**
 * **Wildlife management**
 * **Science Communication**
+</div>
 
-<IMG STYLE="position:absolute; TOP:290px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/career.jpg">
+<IMG STYLE="position:absolute; TOP:345px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/careers.jpg">
 
 ## Biological Research
 <hr>
-<br/>
-
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
 * **Being a part of a new discovery is exciting!**
 
 <br/>
 
-* **Part of the reason for this course is to give you the taste of a long-term research project**
+* **This course: give you the taste of a long-term research project**
 
 <br/>
 
@@ -165,7 +177,7 @@ output:
 <br/>
 
 * **Science has entered a new realm of BIG data**
-    + combining related data sets to understand a larger phenomenon
+    + combining data sets to understand larger patterns
 
 <br/>
 
@@ -180,33 +192,33 @@ output:
 
 ## Disciplines of biology-related research
 <hr>
+<br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 70%;">
 
-* **Biomedical Research: physiology, pharmacology, biochemistry, molecular biology, bacteriology, virology, anatomy, neuroscience, cell biology, developmental biology, oncology, genetics, immunology, space physiology, embryology, kinesiology**
+* **Biomedical Research:** physiology, pharmacology, biochemistry, molecular biology, bacteriology, virology, anatomy, neuroscience, cell biology, developmental biology, oncology, genetics, immunology, space physiology, embryology, kinesiology
 
 <br/>
 
-* **Biological research in the field:  agriculture, botany, horticulture, plant taxonomy, paleobotany, evolutionary biology, phycology, ecology, environmental science, ichthyology, forensic biology, forensic anthropology, parasitology, entomology, ornithology, marine biology, vertebrate zoology, herpetology, wildlife biology, invertebrate zoology, biophysics, bioethics, conservation science**
+* **Biological research in the field:**  agriculture, botany, horticulture, plant taxonomy, paleobotany, evolutionary biology, phycology, ecology, environmental science, ichthyology, forensic biology, forensic anthropology, parasitology, entomology, ornithology, marine biology, vertebrate zoology, herpetology, wildlife biology, invertebrate zoology, biophysics, bioethics, conservation science
 
 <br/>
 
-* **Data analytics: cincludes both fields above**
+* **Data analytics: includes both fields above**
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/lab.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:780px; WIDTH:250px; HEIGHT:250px" SRC="images/lab.jpg">
 
-<IMG STYLE="position:absolute; TOP:450px; LEFT:700px; WIDTH:250px; HEIGHT:250px" SRC="images/field.jpg">
+<IMG STYLE="position:absolute; TOP:440px; LEFT:780px; WIDTH:250px; HEIGHT:250px" SRC="images/field.jpg">
 
 ## Research settings
 <hr>
+
+* **The setting in which research is conducted determines the questions that will be investigated**
+
 <br/>
 
 <div style="float: left; width: 65%;">
-
-* **The setting in which research is being conducted determines the kinds of questions that will be investigated**
-
-<br/>
 
 * **Each setting has advantages and disadvantages**
     + Academic – small primarily undergrad institution (Shepherd)
@@ -224,19 +236,21 @@ output:
 
 </div>
 
+##
+
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/national.jpg">
 
 ## Healthcare opportunites are vast
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:800px; HEIGHT:500px" SRC="images/healthcare.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/healthcare.png">
 
 ## Government careers
 <hr>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 68%;">
 
-* **All levels of government (federal, state, local) employ biologists in various capacities.**
+* **All levels of government (federal, state, local) employ biologists.**
     + Environmental regulator (rivers and streams, fish and wildlife, forest management)
     + Park ranger or interpreter
     + Water quality
@@ -250,23 +264,24 @@ output:
 
 <br/>
 
-* **Other careers work closely with governments to further scientific goals:**
-    + Administrator/Researcher for a nonprofit public interest or health group
+* **Other careers work with gov't to further scientific goals:**
+    + Administrator/Researcher for a nonprofit or health group
     + Lobbyist (science, technology, and education)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:15px; WIDTH:350px; HEIGHT:400px" SRC="images/policy.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:20px; WIDTH:350px; HEIGHT:350px" SRC="images/policy.png">
 
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:455px; LEFT:720px; WIDTH:300px; HEIGHT:450px" SRC="images/lab2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:455px; LEFT:720px; WIDTH:300px; HEIGHT:450px" SRC="images/lab2.jpg"> -->
 
 ## Education
 <hr>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 68%;">
 
 * **Educators teach others about biology and its impact on their lives**
     + K-12 teacher
@@ -285,7 +300,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/teach.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:675px; WIDTH:350px; HEIGHT:400px" SRC="images/teach.jpg">
 
 ## Administrative/management careers in biology
 <hr>
@@ -307,7 +322,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:255px" SRC="images/admin.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:610px; WIDTH:450px; HEIGHT:255px" SRC="images/admin.png">
 
 ## Scientific communication careers
 <hr>
@@ -333,11 +348,10 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:300px; HEIGHT:450px" SRC="images/comm.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:45px; WIDTH:300px; HEIGHT:450px" SRC="images/comm.png">
 
 ## Related Industries (Biology skills are transferrable!)
 <hr>
-<br/>
 
 * **Pharmaceutical / Biotech / Medical**
     + Market Research
@@ -363,10 +377,13 @@ output:
 ## For next time (bring laptop)
 <hr>
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 60%;">
 
-* **Figure out what you want to do with your life.  Just joking.**
+* **Figure out what you want to do with your life**
+    + *Just joking*
 
 <br/>
 <br/>
@@ -378,4 +395,4 @@ output:
 * **We’re going to use these in the next several classes to prepare job application materials**
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/vision.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/vision.jpg">
