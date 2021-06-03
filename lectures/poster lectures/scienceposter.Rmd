@@ -1,0 +1,308 @@
+---
+title: "The Scientific Poster"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Forms of scientific communication
+<hr>
+
+<div style="float: right; width: 65%;">
+
+* **Peer-reviewed journal article**
+    + Gold standard
+    + Has been carefully reviewed by other scientists
+
+<br/>
+
+* **Oral presentation at a conference**
+    + May contain published and/or unpublished results
+    + Presented to an expert audience w/ questions
+
+<br/>
+
+* **Poster presentation at a conference**
+    + Informal presentation
+    + Visually appealing
+    + Usually contains unpublished results
+    
+<br/>
+
+* **Modern sci-comm is changing!**
+    + blogs, podcasts, tweets, etc
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:10px; WIDTH:375px; HEIGHT:250px" SRC="images/scicom.jpeg">
+
+## Poster sessions at conferences
+<hr>
+<br/>
+
+<div style="float: right; width: 62%;">
+
+* **A major part of many conferences is the poster session**
+
+<br/>
+
+* **During a poster session, the author of the poster stands at their poster and informally presents it to interested passersby**
+
+<br/>
+
+* **The presenter walks the person through their research project and latest results, answering questions and hearing criticisms from other scientists**
+
+<br/>
+
+* **Posters are all about connecting with other scientists:  LOTS of science happens this way**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:375px; HEIGHT:300px" SRC="images/confbig.jpg">
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:75px; WIDTH:250px; HEIGHT:200px" SRC="images/confsmall.jpg">
+
+## Always remember your goal as a communicator
+<hr>
+<br/>
+<br/>
+
+* **As a part of the capstone project, you will create a scientific poster and present it to the class**
+
+<br/>
+
+* **Like any form of scientific communication, the goal of your poster presentation is to present information to your audience as effectively as possible**
+
+<br/>
+<br/>
+
+* **Keep in mind the THREE Cs and K.I.S.S**
+
+<br/>
+<br/>
+
+* **Poster organization and design is less rigid than a paper.**
+    + chance to inject some creativity and personality into scientific communication**
+
+
+<IMG STYLE="position:absolute; TOP:345px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="images/ccc.jpg">
+
+<IMG STYLE="position:absolute; TOP:345px; LEFT:750px; WIDTH:150px; HEIGHT:150px" SRC="images/kiss.png">
+
+## Major considerations for a poster
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**Follow size, layout, and materials specifications**
+
+<br/>
+
+**Consider your audience and objectives**
+
+<br/>
+
+**Use a clean organization and layout**
+
+<br/>
+
+**Large, readable design**
+
+<br/>
+
+**Minimize text, maximize figures**
+
+<br/>
+
+**The presentation:  prepare for discussion and questions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/badposter.jpg">
+
+## General poster prep and rules for conferneces
+<hr>
+<br/>
+<div style="float: left; width: 55%;">
+* **Posters should be readable by viewers 3-5 feet away.**
+    + Use large print and block letters when possible
+
+<br/>
+
+* **Poster dimensions are 36” high by 48” wide**
+    + minimum font size of 28 point
+    + maximum of 600 words
+
+<br/>
+
+* **Additional requirements:**
+    + headline strip that runs the full width of the poster
+    + title, authors, & affiliations on the strip
+    + abstract in the upper left-hand corner (if required)
+    + include a contact email address
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:625px; WIDTH:450px; HEIGHT:250px" SRC="images/posterrules.png">
+
+## Consider your audience and objectives
+<hr>
+<br/>
+
+<div style="float: right; width: 52%;">
+
+* **Your audience depends on the venue where you are presenting your poster:**
+    + Expert scientists in your field
+    + Scientists in different fields
+    + Peers or other students
+    + Non-scientists
+
+<br/>
+
+* **In general, it is best to assume that your audience has no expert knowledge**
+
+<br/>
+
+* **Consider whether your poster needs to be geared toward any specific communication objective**
+    + original research poster
+    + narrative review
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:500px; HEIGHT:350px" SRC="images/audience.jpg">
+
+## Parts of a scientific poster
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Posters generally have these elements:**
+    + Good, informative **Title**
+    + **Introduction / Background**: contains the information necessary to understand the research question.  
+        + May contain a statement of your problem/hypothesis
+    + a brief methods section
+    + **Data and results**: as visual as possible
+    + **Discussion or Conclusions**: summarizes only the main points
+
+<br/>
+
+* **Optional elements:**
+    + Brief References section
+    + Acknowledgements
+    + Abstract: conferences require you to submit an abstract ahead of time
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/postersetup.jpg">
+
+## Pro Tips: Poster Design
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+
+* **Minimize blocks of text**
+* **Maximize use of figures**
+* **Color-blind friendly palate**
+* **Pay attention to trends**
+
+<br/>
+
+* **Uncluttered, clean layout =  good use of white space**
+    + simplicity is best:  resist the urge to include everything (you can always say more)
+    + maintain balance:  visual elements should cover slightly more than 50% of the poster area
+    + if you have only a few figures, make them large.
+    + arrange into columns so eye movement over the poster is natural
+    + Use fonts large enough for easy readability
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/attention.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/postertips.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:600px" SRC="images/bingo.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/badbad.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster3.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster4.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:450px; HEIGHT:600px" SRC="images/poster5.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster7.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster8.png">
+
+## How do you actually make a poster?
+<hr>
+
+* **Use Powerpoint and treat the poster area as one large “slide”**
+    + Design &rightarrow; Slide Size &rarr; Custom Slide Size 
+
+<br/>
+
+* **For the capstone poster, use 36” x 48” dimensions in either landscape or portrait format**
+
+<br/>
+
+* **Premade Powerpoint templates are available online**
+    + Google ‘scientific poster template’ and profit!
+    
+<IMG STYLE="position:absolute; TOP:430px; LEFT:300px; WIDTH:475px; HEIGHT:250px" SRC="images/template.png">
+
+## The capstone poster assignment
+<hr>
+<br/>
+
+* **You will create a scientific poster that will be presented to the class.  This part of the capstone consists of:**
+    + A rough draft of your poster
+    + Written review and workshop discussion of a classmate’s poster
+    + A final draft of the poster
+    + The poster presentation via Zoom near the last week of class (exact date TBD)
+
+<br/>
+
+* **Key features to be evaluated are:**
+    + Quality and production of the poster:  clarity, layout, and scientific content
+    + Demonstration of a clear understanding of the research/topic
+    + Ability to explain research topic beyond scope of the poster
+    + Ability to answer questions and discuss the work with others
+
+<br/>
+
+* **A full rubric will be provided as the poster draws near**
+
+<IMG STYLE="position:absolute; TOP:430px; LEFT:745px; WIDTH:300px; HEIGHT:250px" SRC="images/brace.jpg">
+
+
+
+
+
+
