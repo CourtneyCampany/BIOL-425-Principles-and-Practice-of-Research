@@ -1,0 +1,220 @@
+---
+title: "Presenting Your Posterr"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Forms of scientific communication
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Peer-reviewed journal article**
+    + Gold standard
+    + Has been carefully reviewed by other scientists
+
+<br/>
+
+* **Oral presentation at a conference**
+    + May contain published and/or unpublished results
+    + Presented to an expert audience w/ questions
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Poster presentation at a conference**
+    + Informal presentation
+    + Visually appealing
+    + Usually contains unpublished results
+    
+<br/>
+
+* **Modern sci-comm is changing!**
+    + blogs, podcasts, tweets, etc
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:350px; WIDTH:375px; HEIGHT:250px" SRC="images/scicom.jpeg">
+
+## First impressions and the “elevator pitch”
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Your first impression on the audience is critical to guarantee their interest**
+
+<br/>
+
+
+* **Begin your presentation with a very short synopsis with three vital bits of information:**
+    + What is your research topic?
+    + What have you found?
+    + Why is it important?
+
+<br/>
+
+* **Focus on the big picture (top of the funnel)—you want to hook them with the big picture so they are then excited to hear about the small details.**
+    + 3 minute thesis will help!
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:595px; WIDTH:475px; HEIGHT:275px" SRC="images/elevator.jpg">
+
+## Telling your story
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 80%;">
+
+* **After your elevator pitch, build the narrative of your research in around 5 min**
+    + Like any story, it needs a beginning, middle, and end
+
+<br/>
+<br/>
+
+* **Beginning:  set the scene and introduce the main characters**
+    + Provide the necessary background information that your audience must know
+    + How did this lead to your research question?
+    + What were you hoping to find out and why?
+    + Who are the main characters? (e.g. drug, disease, gene, cell type, technique, etc.)
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:250px; HEIGHT:400px" SRC="images/upon.png">
+
+## Telling your story
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Middle: the adventure…**
+    + How did you get from your research question to your conclusion?
+    + Why did you choose to take that route?
+    + What did you find on your way?
+    + Were there any interesting twists?
+
+<br/>
+<br/>
+
+* **End: the conclusion to the story.**
+    + What is the ultimate consequence of your journey?
+    + What does this mean for your main characters?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/adventure.jpg">
+
+## Pro Tips: Nailing your poster presentation
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Be confident — you are the expert on this subject**
+    + Try to be yourself and let your personality show through
+    
+    <br/>
+    
+* **Try not to talk too rapidly**
+    + avoid too much jargon
+    
+<br/>
+
+* **Make eye contact with your audience**
+
+<br/>
+
+* **Use poster images to help you explain things—a picture is worth a thousand words**
+
+<br/>
+
+* **It is a good idea to check your audience’s understanding**
+    + “Have I been clear enough…?” 
+    + “Should I go into more detail…?”
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/posterpresent.jpg">
+
+## Consider your audience and objectives
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Presenting a poster is a performance, and just like any performance, practice is a major factor in success**
+
+<br/>
+
+* **Rehearse what you will say ahead of time OUT LOUD**
+    + write down notes with the main points.  You can refer to them as you develop your presentation (not while speaking).
+    + Force yourself to speak aloud even if it seems silly
+    + After you feel more confident, try giving it to friends and family
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:450px; HEIGHT:400px" SRC="images/practive.jpg">
+
+## Before your presentation…
+<hr>
+
+<div style="float: left; width: 58%;">
+
+* **Understand completely why everything is included on the poster and its implications for your project or topic**
+
+<br/>
+
+* **Memorize your “elevator pitch”**
+
+<br/>
+
+* **Know your key points without referring to written notes**
+
+<br/>
+
+* **Be ready to answer likely questions with confidence**
+    + think about what questions ahead of time
+    + take note of what people ask when you rehearse
+    
+<br/>
+
+* **Know how to deal with difficult questions that you might not be able to answer fully**
+    + it is 'OK' to say you do not know
+    + expect someone will ask that ? you can't answer
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/tough.jpg">
+
+## Dr. C in the HOT SEAT!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/hotseat.jpg">
+
+## Let's critique Dr. C
+<hr>
+<br/>
+<br/>
+<br/>
+
+
+**What did I do well?**
+
+<br/>
+
+**What did I do not so well?**
+
+<br/>
+
+**What could be improved on my poster or presentation?**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:250px; HEIGHT:300px" SRC="images/roast.jpg">
+
