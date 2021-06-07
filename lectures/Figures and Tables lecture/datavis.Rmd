@@ -298,7 +298,7 @@ output:
 <br/>
 
 * **Minimum resolution of 300 dpi**
-    + options are aviable for different formats (jpg, pdf, tif, png)
+    + options are available for different formats (jpg, pdf, tif, png)
 
 <br/>
 

@@ -1,0 +1,317 @@
+---
+title: "Creating data visualizations"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Review: Should I make a figure or a table?
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Tables are more complete and less visual**
+    + Primarily interact with verbal / language system
+    + Precise values are important
+    + Need to compare individual values
+
+<br/>
+
+* **Graphs visually represent an entire data set**
+    + Used to show relationships between two sets of data
+    + Can show overall trends in data
+
+<br/>
+
+* **How to decide?**
+    + Are the variables qualitative or quantitative?
+    + How many data points are there?
+    + How many variables are there?
+    + Is it important to show trends in the data?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/exampletable.png">
+
+## Review: Should I make a figure or a table?
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Tables are more complete and less visual**
+    + Primarily interact with verbal / language system
+    + Precise values are important
+    + Need to compare individual values
+
+<br/>
+
+* **Graphs visually represent an entire data set**
+    + Used to show relationships between two sets of data
+    + Can show overall trends in data
+
+<br/>
+
+* **How to decide?**
+    + Are the variables qualitative or quantitative?
+    + How many data points are there?
+    + How many variables are there?
+    + Is it important to show trends in the data?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/examplefigure.png">
+
+## Creating tables (Exel is easiest option)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Some practical tips:**
+    + show data relevant to your main point
+    + divide the data into appropriate categories
+    + accurately label categories and columns
+    + raw data is rarely presented
+    + use summary data (means & SD)
+    + Declutter your table! 
+    + Include a concise caption *above* the table
+
+<br/>
+
+* **Use only horizontal line borders and double line spacing**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:3000px; LEFT:575px; WIDTH:500px; HEIGHT:200px" SRC="images/cleantable.png">
+
+## Pro Tips: Avoid styling tables in excel
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:350px; HEIGHT:450px" SRC="images/excel.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/cleantable.png">
+
+## What type of figure should I make?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/whatareyou.png">
+
+## Line graphs show trends (e.g. through time)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/co2loa.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/temp.jpg">
+
+## Bar graphs compare groups or track changes over time
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/bargraph.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/percapita.png">
+
+## Pie charts show the relationship of parts to the whole
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/piechart2.jpg">
+
+## Scatter plots show the relationship between 2 varibles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/scattertrends.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/photoscatter.png">
+
+## Histograms show frequence distributions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/masshist.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:375px" SRC="images/covid.png">
+
+## Box plots show how values are distributed within a data set
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:500px; HEIGHT:350px" SRC="images/boxplot.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/globalbox.jpg">
+
+## Box plots show how values are distributed within a data set
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/stipe.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:600px; HEIGHT:400px" SRC="images/violin.png">
+
+## Graphs can have multiple axes and types
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/multipleaxis.jpg">
+
+## Creating your figures
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Microsoft Excel is the easiest choice**
+    + there are much better programs available
+
+<br/>
+
+* **You must customize your Excel graph for the best results**
+    + tip: start with a blank figure
+
+<br/>
+
+* **Clarity is once again the name of the game:**
+    + label all elements of the graph: axes, curves, labels, bars
+    + include a key to explain different colors, groups, etc.
+    + declutter your graph
+    + avoid large areas of white space on the plot
+    + modify xis ranges to emphasize what you are showing
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/startgraph.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:750px; HEIGHT:600px" SRC="images/histrogram.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg">
+
+## Considerations for ficgures
+<hr>
+
+* **Identify your message—design the figure to emphasize this message!**
+
+<br/>
+
+* **Be neat:  line panels and labels up, keep white space consistent**
+
+<br/>
+
+* **Standardize the style of your figures:  font, font size, colors,  graph size, etc**
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/complex.png">
+
+## Constructing figures
+<hr>
+
+<div style="float: left; width: 48%;">
+
+* **Computer type and software version matter**
+    + practice and know your system
+    + Excel and Powerpoint may both be necessary for capstone
+
+<br/>
+
+* **Be cautious with auto-making graphs**
+    + which data went on which axis???
+
+<br/>
+
+* **Working with images:**
+    + snapshot tool w/ PDFs
+    + screenshot to capture images
+
+<br/>
+
+* **Figure legends can be created in Powerpoint or Word**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:575px; HEIGHT:450px" SRC="images/excelfigure.jpg">
+
+## Don’t neglect figure legends
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **A legend gives the reader information to understand a figure**
+    + reader understand the results presented in your figure without reading the main text
+    
+<br/>
+ 
+* **Start your legend with one sentence that declares the main result in the figure**
+
+<br/>
+
+* **Explain everything depicted in the figure**
+    + panels, variables, abbreviations, genotypes, p values
+    + any methodological information necessary to understand the data**
+
+<br/>
+
+* **Do NOT interpret patterns**
+
+<br/>
+
+* **Do NOT combine Figure # and text into a sentence**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:325px" SRC="images/legend.gif">
+
+##
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:15px; WIDTH:600px; HEIGHT:600px" SRC="images/fern.png">
+
+<div style="float: right; width: 42%;">
+
+Figure 5. Epiphytic tropical ferns are not more drought tolerant than terrestrial or hemi-epiphytic tropical ferns. (a) Raw results from 211 pressure–volume curves from 38 tropical fern species. Box plots of turgor loss point (b) and osmotic potential at saturation (c) across tropical fern life forms. Relationship between tissue capacitance at full turgor and the bulk modulus of elasticity for tropical ferns (d) and box plots of the tissue capacitance after turgor loss (inset). Fits for panels (a) and (d) for each fern life form uses loess regression for visualization purposes. Box plot widths are proportional to the number of measured species in each life form.
+
+</div>
+
+## Referring to figures and tables in the text
+<hr>
+
+* **Figures and tables are numbered independently of each other in the order they appear in the text**
+
+<br/>
+
+* **Every figure and table MUST be referenced from the text**
+
+<br/>
+
+* **Use sentences that draw the readers attention to the result, relationship, or trend you want to highlight, referring to the figure or table parenthetically**
+
+<br/>
+
+**GOOD:** 
+<br/>
+Germination rates were significantly higher after 24 hours in running water compared to controls (Figure 4).
+<br/>
+DNA sequence homologies for the Eyeless gene from three strains show high identity (Table 1).
+
+<br/>
+
+**BAD:**
+<br/>
+Table 1 shows the summary results for male and female heights at Shepherd University.
+See the table below for a summary of the relevant literature on tumors. 
+
+##
+<br/>
+<br/>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:15px; WIDTH:600px; HEIGHT:600px" SRC="images/fern.png">
+
+<div style="float: right; width: 42%;">
+
+Minimal differences in leaf pressure–volume parameters were detected among the three life forms (Figure 5a). The turgor loss point (Ψtlp) marginally varied by life form (p = 0.051) and post hoc comparisons did not detect differences in Ψtlp across terrestrial, hemi-epiphytic, or epiphytic ferns. Broadly, terrestrial and hemi-epiphytic fern species had trended towards slightly lower Ψtlp than epiphytic species (Figure 5b). The osmotic potential at saturation (Ψo) was also lower in terrestrial compared to epiphytic species (p = 0.009, Figure 5c), while the modulus of elasticity (ε) was similar across all life forms. The relative water content at turgor loss point did not vary between fern life forms. The tissue capacitance between saturation and turgor loss (Cft) was not different between life forms, however; the tissue capacitance after turgor loss (CTLP) was 54% lower in epiphytic compared to terrestrial species (p = 0.009, Figure 5d insert). Additionally, Cft declined quickly with increasing ε for all species (Figure 5d)
+
+</div>
