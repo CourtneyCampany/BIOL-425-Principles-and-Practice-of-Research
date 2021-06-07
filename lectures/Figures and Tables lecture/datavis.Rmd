@@ -1,0 +1,313 @@
+---
+title: "Visualizing your data"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Your goal as a science communicator
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Communicate information to the reader in as clear and concise a manner as possible**
+    + you want your reader to understand what you wish to say effortlessly
+
+<br/>
+
+* **Visuals are a powerful addition to your articles and presentations**
+    + breaks up text
+    + often allows audience process info faster
+
+<br/>
+
+* **data visualization is a graphical representation of any data or information**
+    + books dedicated to it
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/datavis2.jpg">
+
+## A picture is worth a thousand words
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Figures or tables can convey key information that is less suited to a text description**
+
+<br/>
+
+* **Readers are often drawn to figures**
+    + perceived as easier to understand than text
+
+<br/>
+
+* **Adding figures to your capstone paper has several uses:**
+  + Organize or summarize a large amounts of data
+  + Graphically compare results easily
+  + Visualize trends in data clearly
+  + Enhance reader interest
+
+<br/>
+
+**Poorly executed figures can confuse readers and detract from a paper**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/badvis.png">
+
+
+## Rules for choosing a figure
+<hr>
+**Which type of figure should I choose?**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+1. Know your audience
+<br/>
+2. Identify your message
+<br/>
+3. Adapt the figure to the medium
+<br/>
+4. Captions are not optional
+<br/>
+5. Do not trust the defaults
+<br/>
+6. Use color effectively
+<br/>
+7. Do not mislead the reader
+<br/>
+8. Avoid 'chartjunk'
+<br/>
+9. Message trumps beauty
+<br/>
+10. Get the right tool
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:280x; LEFT:400px; WIDTH:650px; HEIGHT:400px" SRC="images/chartjunk.png">
+
+## Pro Tips: When to use a table, figure, or text?
+<hr>
+**Ask yourself:  How can you best convey the information you want your reader to know?**
+
+<div style="float: left; width: 50%;">
+    
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Use a table:**
+    + To show many numerical values or other data in a small space
+    + To compare and contrast values or characteristics among related items
+    + To show the presence or absence of specific characteristics
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400x; HEIGHT:425px" SRC="images/table.png">
+
+## Humans are inherently visual 
+<hr>
+
+**For most people, looking at tables of numbers is not intuitive; complicated data can often be displayed and interpreted more easily in a visual format**
+
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/figure.png">
+
+## Pro Tips: When to use a table, figure, or text?
+<hr>
+**Ask yourself:  How can you best convey the information you want your reader to know?**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Use a table:**
+    + To show many numerical values or other data in a small space
+    + To compare and contrast values or characteristics among related items
+    + To show the presence or absence of specific characteristics
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Use a figure**
+    + To summarize research results (graphs)
+    + To show trends, patterns, and relationships between data when the exact numerical value is not important
+    + To present a visual representation of physical results (images)
+</div>
+
+
+## Pro Tips: When to use a table, figure, or text?
+<hr>
+**Ask yourself:  How can you best convey the information you want your reader to know?**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Use a table:**
+    + To show many numerical values or other data in a small space
+    + To compare and contrast values or characteristics among related items
+    + To show the presence or absence of specific characteristics
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Use a figure**
+    + To summarize research results (graphs)
+    + To show trends, patterns, and relationships between data when the exact numerical value is not important
+    + To present a visual representation of physical results (images)
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Use text:**
+    + When you don’t have extensive or complicated data
+    + When the data that you are presenting is peripheral to the main point
+
+</div>
+
+## How to use figures and tables in a narrative review?
+<hr>
+
+<div style="float: left; width: 53%;">
+
+* **All of your capstone papers should have tables/figures**
+    + you will also convert your paper to a (mostly) visual format:  the poster
+
+<br/>
+
+* **How can figures be used in a review paper?**
+    + To introduce your topic or provide important background
+    + For example:  organism, cell type, disease, molecular pathway, etc.
+    + To show a key piece of data from a primary paper (graph or image)
+    + To summarize data from multiple experiments
+    + Conceptual diagram that summarizes the results of multiple experiments
+    + To present a proposed model or experimental approach
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:420px" SRC="images/concept.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/method.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/turgorlosspoint2.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:600px; HEIGHT:350px" SRC="images/organ.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/keydata.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/stomataltable.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:75px; WIDTH:475px; HEIGHT:500px" SRC="images/bias.jpg">
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/reviewoverview.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:25px; WIDTH:550px; HEIGHT:350px" SRC="images/graphsummary.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/concept2.png">
+
+## Considerations for use of tables and figures
+<hr>
+<br/>
+
+* **Ensure that visual elements are self-contained.**
+    + readers should understand a figure or table based solely on the visuals and legend.**
+
+<br/>
+
+* **Use clear, informative captions** 
+    + concisely describe the purpose or contents of the figure
+    + uses to highlight key information in it
+
+<br/>
+
+* **Refer but *don’t* repeat!!!**
+    + Use the text to draw the reader’s attention to the key points of the table or figure.
+    + highlight your main finding but don’t repeat exact values
+    + “Campany et al. (2021) found that the treatment was completely effective in only 24% of cases” versus “As Table 2 in Campany et al. (2021) shows, 32% of subjects improved but relapsed, 24% eliminated the infection, 45% showed no improvement, etc.”
+
+<br/>
+
+* **Be consistent.  Ensure that values and abbreviations in the text match the table/figure**
+
+## Citing other authors tables and figures
+<hr>
+<br/>
+
+* **Tables and figures taken from other sources are numbered and presented in the same format as your original tables and figures.**
+
+<br/>
+
+* **You must properly cite a reference if you use data or figure, in whole or part**
+    + just like citing someone's text
+
+<br/>
+
+* **For the capstone, include a note at the end of your figure legend detailing the source of the figure:**
+    + '[Adapted] From Figure 1 of Campany (2021).'
+    + if reproducing a figure exactly, start the note with “From….”  If you have changed it for your own purposes (i.e. taken part of a figure), write “Adapted from…”
+
+<br/>
+
+* **Be sure to include a full citation in your References section**
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg">
+
+## Pro Tip: Creating publication quality figures
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Maximize the space given to the presentation of data**
+    e.g. make points and lines easy to see
+
+<br/>
+
+* **Be smart with color. Do you really need it?**
+    + use color-blind friendly palettes
+    + use white backgrounds
+
+<br/>
+
+* **Minimum resolution of 300 dpi**
+    + options are aviable for different formats (jpg, pdf, tif, png)
+
+<br/>
+
+* **Use vector graphics**
+
+<br/>
+
+* **Avoid 3D graphs**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/vector.png">

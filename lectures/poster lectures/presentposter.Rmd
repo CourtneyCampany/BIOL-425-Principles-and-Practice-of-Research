@@ -1,5 +1,5 @@
 ---
-title: "Presenting Your Posterr"
+title: "Presenting Your Poster"
 output: 
   ioslides_presentation:
     css: custom.css
