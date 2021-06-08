@@ -1,0 +1,363 @@
+---
+title: "Expermental Design and Statistical Analysis"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Study design considerations  
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Your capstone paper should mirror the scientific process, so you need to think critically about the sources and kinds of information you include in it**
+
+<br/>
+
+* **When reading primary research papers, it is important to understand and evaluate the way a study was performed:**
+    + Is the question appropriate?  (i.e. testable/answerable)
+    + Is the experimental approach logical?
+    + What types of methods/instruments/sites were involved?
+    + How were the results assessed?  What was measured?  Does it make sense to measure it? Is there a better way to measure it?
+
+<br/>
+
+* **The same is true if you are designing/performing research**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/scientmethod.png">
+
+## Evaluating experimental results
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:800px; HEIGHT:300px" SRC="images/experiment.png">
+
+## Evaluating experimental results
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:800px; HEIGHT:300px" SRC="images/experiment2.png">
+
+## Evaluating experimental results
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+**How different is “different enough” between two groups to declare an effect?**
+
+<br/>
+
+
+**How many times do you need to sample something to be representative?**
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:800px; HEIGHT:300px" SRC="images/experiment2.png">
+
+
+## Statistics to the rescue!
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Both are potentially useful for your capstone project**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/stats2.png">
+
+## Expectations for a scientific paper
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 70%;">
+
+* **Goal is to use collected observations to make the strongest possible conclusion about whether to accept a hypothesis**
+
+<br/>
+
+* **So…**
+    + Experimental data should be quantified and analyzed appropriately
+    + Large groups of data should be summarized for the reader
+
+<br/>
+
+* **Expectations for the use of statistics is higher in some fields of biology than in others**
+    + Generally, ecological studies make greater use of statistics
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:250px; HEIGHT:250px" SRC="images/rigor.jpg">
+
+
+## Descriptive Statistics
+<hr>
+
+* **Procedures that organize, summarize, or present data in an informative way**
+    + describe aspects of center and spread in data
+
+* **Central tendency = a single value that describes a dataset by identifying the central position**
+
+* **The MEAN is the most common statistic used for this purpose**
+    + Example:  the average score on an exam in a class
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/mean.png">
+
+## Aspects of Spread: Variance
+<hr>
+
+* **The spread of distribution, or VARIANCE, around the mean is also important information**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **These three data sets have the same mean but different VARIANCES**
+
+<br/>
+
+* **Higher variance indicates that the values in the data set are more spread out**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:350px; WIDTH:350px; HEIGHT:300px" SRC="images/distribution.png">
+
+## Standard deviation is a common measure of variance
+<hr>
+<br/>
+
+* **Standard deviation = a measure of how far each value in the data set is from the mean**
+
+<br/>
+
+* **A higher standard deviation for your data set means you have a greater spread of values**
+
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:300px; WIDTH:525px; HEIGHT:350px" SRC="images/distribution2.gif">
+    
+## Inferential statistics
+<hr>
+<br/>
+
+* **Results often represent a portion of the overall population, but can be used to estimate information about the entire population with some amount of uncertainty**
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **The larger your sample size, the more representative it is of the entire population**
+    + increasing the number of measurements increases the power of a statistical analysis
+    
+<IMG STYLE="position:absolute; TOP:265px; LEFT:275px; WIDTH:600px; HEIGHT:250px" SRC="images/stats.png">
+
+## Hypothesis testing is widely used in science
+<hr>
+
+* **Hypothesis testing:**
+    + Determine if there is a correlation between two variables
+        + If X increases, does Y also increase? (positive)
+        + If X decreases, does Y also decrease? (negative)
+        
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Determine if there are differences between two data sets**
+    + one group receives drug, the other does not
+    + number of species in one location versus another location
+    + amount of cell death after treatment with a drug
+
+<IMG STYLE="position:absolute; TOP:285px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/correlation.png">
+
+## The null hypothesis proposes no relationship
+<hr>
+
+* **A null hypothesis is a type of hypothesis used in statistics that proposes that there no relationship or significance between two parameters (e.g. two experimental groups, an independent variable and a dependent variable)—in other words, the results are due to chance alone**
+    + For any experiment, there is a null hypothesis
+
+<br/>
+
+* **We aren’t proving things in science!  The rejection of hypotheses is how we progress in science**
+
+<br/>
+
+* **Statistical tests allow us to use observed data to reject a null hypothesis and accept the alternative:  that there is a relationship or difference**
+
+
+<IMG STYLE="position:absolute; TOP:460px; LEFT:400px; WIDTH:275px; HEIGHT:200px" SRC="images/null.png">
+
+## Experimental design (according to a statistician)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;"
+
+**1. Set up the null and alternative hypotheses**
+
+<br/>
+
+**2. Determine what type and how much data you will need to collect in your study**
+
+<br/>
+
+**3. Choose a statistical analysis that will allow you to accept or reject your null hypothesis at a desired confidence level**
+
+<br/>
+
+**4. Perform your experiment, analyze data, and draw conclusions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/design.jpg">
+
+## Brainstorm: What are some limits to experimental design?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/oven.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/face.jpg">
+
+## How statistical significance is reported
+<hr>
+
+* **When you perform a statistical test, a p-value helps you determine the significance of your results in relation to the null hypothesis.**
+
+<br/>
+
+* **p-values range between 0 and 1 and indicate the probability that the null hypothesis is true**       
+    + results are due to chance alone
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Scientific papers will always report p-values if results have been statistically analyzed**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:550px; WIDTH:550px; HEIGHT:350px" SRC="images/normaldist.png">
+
+## Setting the bar for statistical significance 
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **p-values range between 0 and 1 and indicate the probability that the null hypothesis is true**
+    + results are due to chance alone)
+
+<br/>
+
+* **The smaller the p-value, the stronger the evidence that you should reject the null hypothesis**
+    + i.e. the observed difference is NOT due to chance
+
+<br/>
+
+* **A standard value used for significance in science is p = .05.  This means you can conclude that 95% of the time, an observed effect is NOT due to chance**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:250px; HEIGHT:400px" SRC="images/pvalue.png">
+
+## Important considerations for statistics
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Both descriptive and inferential statistics whittle down large data sets down to a few conclusions**
+
+<br/>
+
+* **Statistical conclusions are never 100% certain**
+    + always a small chance that the null hypothesis provides a poor explanation of the data even when it is true.
+    + always a small chance that the null hypothesis provides an explanation of the data even when it is false
+
+<br/>
+
+* **A significant test can be misleading if the sample size is so small that an important effect goes undetected**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/typeerrors.jpg">
+
+## How to talk about statistics in a paper
+<hr>
+<br/>
+
+* **Unless you have a compelling reason, you do not need to cite specific p values of other researchers in your paper**
+
+<br/>
+
+* **Be decisive in your language—if a peer-reviewed primary paper reaches a conclusion, don’t hedge, but state it as fact**
+    + the reader has the citation if they want to evaluate that author's work
+    
+<br/>
+
+<span style="color:green">**The basis for downregulation may be related to CO2-inducedexcess photosynthate accumulation in leaves, if sinks forthe additional carbon are not available (Stitt 1991, Mooreet al. 1999, Haouari et al. 2013, Campany et al. 2017).**</span>
+
+<br/>
+
+<span style="color:blue">**It was reported that gm increased with increasing light intensity in chickpea and several Eucalyptus species (Campany et al., 2016; Xiong et al., 2018; Shrestha et al., 2019).**</span>
+
+
