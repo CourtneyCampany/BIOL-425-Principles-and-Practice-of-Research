@@ -1,0 +1,307 @@
+---
+title: "The Writing Process: Getting Started"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Once upon a time…
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **You want to craft a clear, compelling story and tailor your capstone to the intended audience.**
+
+<br/>
+
+* **You can’t assume that your reader will understand why you have chosen to write about a particular topic or why they should care about it**
+
+<br/>
+
+* **An important aspect of your capstone paper will be to convey why what you are writing about is important**
+    + what do we know about the topic?  
+    + what do we NOT know about the topic?
+    + why is this information important?
+    + what message do I want readers to take away from my writing?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:660px; WIDTH:400px; HEIGHT:450px" SRC="images/once.jpg">
+
+## Structure of a scientific paper
+<hr>
+**All three capstone types will follow the same general structure**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/pyramid.png">
+
+## Build your capstone reference database
+<hr>
+
+<div style="float: left; width: 59%;">
+
+* **Use PubMed, Google Scholar, and Web of Science to collect references in Mendeley**
+    + even if you don’t have the full text yet
+    + Request full texts from interlibrary loan
+    + Dr. C can also help (a little)
+
+<br/>
+
+* **On Google Scholar, also search the papers that have cited a paper you have found**
+    + use 'Cited by #' and 'Related articles' options
+    + https://scholar.google.com/
+    + go down the rabbit hole!
+
+<br/>
+
+* **Read and summarize papers on a set schedule**
+    + extract information that will be useful in your paper
+    + organize into the appropriate section (Introduction? Discussion? Particular sub heading?)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/googlescholar.png">
+
+## Getting started…
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **…is the hardest part. So take small steps!**
+
+<br/>
+
+* **You don’t need to have everything in hand before beginning**
+    +  you can always go back and add to your text**
+
+<br/>
+
+* **Assemble your notes, papers, and ideas together in one place**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/capstone.png">
+
+## Brainstorming…
+<hr>
+<div style="float: left; width: 50%;">
+
+* **Jot down ideas, important bits of research, and any outstanding questions.  You can always eliminate ideas later**
+    + create a mind map
+    + start a document with main ideas
+    + free write as ideas come to you
+</div>
+<div style="float: right; width: 50%;">
+
+* **Write a working title for your paper**
+    + Establishes your roadmap
+    + Keeps you focused
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/mind.png">
+
+## Putting together an outline is key
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **The goal of an outline is to organize your many ideas (eventually into a coherent story)**
+
+<br/>
+
+* **Your first outline can be very rough—don’t worry about writing complete sentences/paragraphs**
+
+<br/>
+
+* **Do not try to achieve perfection!**
+
+<br/>
+<br/>
+
+* **<span style="color:blue">CAPSTONE BENCHMARK: Outline due September:</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:625px; WIDTH:450px; HEIGHT:500px" SRC="images/outline.jpg">
+
+## Organizing your ideas will keep you focused
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;"
+
+* **The next step in creating an outline is to organize your ideas**
+
+<br/>
+
+* **Review your brainstorming notes and place related ideas in the same group**
+    + Use highlighters to mark up your mind map or written notes
+    + Sort your index cards
+    + Have a blank piece of paper for each grouping and rewrite your notes on them
+    + or adapt an online version of above
+
+<br/>
+
+* **Each of these groups will form a main point (or perhaps a subsection of the paper)**
+    + organize papers into folders for each point
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/organize.jpg">
+
+## Group your information…
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;"
+
+* **Order pieces of information in the group in order of importance: from broad idea to specific details**
+
+<br/>
+
+* **Broad ideas correspond to main points**
+
+<br/>
+
+* **Specific details are supporting pieces of information**
+
+<br/>
+
+* **Use the main points to create your subheadings and/or paragraphs within different sections of the paper (Introduction, Discussion, etc.)**
+
+<br/>
+
+* **Order the subheadings and paragraphs according to the overall structure of your paper**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:725px; WIDTH:300px; HEIGHT:450px" SRC="images/topics.jpg">
+
+## Moving from outline to rough draft...
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 64%;"
+
+* **Use the outline as the basis of your rough draft—your goal is to develop and support the ideas in your outline **
+
+<br/>
+
+* **Each paragraph will be based on a main point in your outline:**
+    + The main point will form the topic sentence of a paragraph 
+    + Details that support or elaborate upon the main point make up the rest of the sentences
+
+<br/>
+
+* **Try to write in paragraph chunks**
+    + compare and contrast findings from puclished sources
+    + group 'like' information into single sentences with many citations
+    + take your time to synthesize the 'story'
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:690px; WIDTH:400px; HEIGHT:450px" SRC="images/rough.jpg">
+    
+## Paragraphs have structure
+<hr>
+<br/>
+
+**<span style="color:blue">Topic sentence:</span> Key topic in the paragraph**
+<br/>
+**<span style="color:green">Development:</span> Develop your topic in more detail**
+<br/>
+**<span style="color:orange">Support:</span> Provide evidence or data that show your development is valid**
+<br/>
+**<span style="color:red">Summary and Transition:</span>  Summarize the main point, transition to next paragraph**
+
+    
+<IMG STYLE="position:absolute; TOP:330px; LEFT:175px; WIDTH:750px; HEIGHT:350px" SRC="images/paragraph.png">
+
+## Working on your rough draft
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 75%;"
+
+* **You don’t need to work on the sections in order—start with the easiest one first**
+
+<br/>
+
+* **If you get stuck, talk to someone about what you are writing (me)—this can lead you to new ways of saying things**
+       
+<br/>
+
+* **Don’t worry about length. If you have an appropriate amount of ideas and supporting material, your paper will be the correct length.**
+    + the more citations you have, the easier it is to write!
+    
+<br/>
+
+* **Again, don’t strive for perfection as you write.  There will be time to go back afterward and revise**
+    + keeping writing momentum is key
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:300px; HEIGHT:400px" SRC="images/roughdraft.png">
+
+## The first draft:  an author’s perspective
+<hr>
+<br/>
+
+**Writing is a process, and very rarely (if ever) will you produce your best work on your first try!**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;
+
+<span style="color:blue">“Get it down. Take chances. It may be bad, but it’s the only way you can do anything really good.” — William Faulkner</span>
+
+
+<br/>
+<br/>
+<br/>
+
+<span style="color:green">“I’m writing a first draft and reminding myself that I’m simply shoveling sand into a box, so that later, I can build castles.” — Shannon Hale</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/hemmingway.jpg">
+
+## Revise!  Revise!  Revise!
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+* **It can’t be overstated how important revision is to writing!**
+
+<br/>
+
+* **Revision is the step focused on improving the readability and professionalism of your paper**
+
+<br/>
+
+* **Revise with a purpose!**
+    + check for specific errors each time (grammar, tense, figures)
+    + just re-reading will not work
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/revise.jpg">
