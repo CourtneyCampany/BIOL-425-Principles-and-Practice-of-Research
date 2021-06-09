@@ -1,0 +1,316 @@
+---
+title: "The Writing Process: Revising"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Your goal as a writer
+<hr>
+<br/>
+
+* **Your goal as a scientific writer is to communicate information to the reader in as clear and concise a manner as possible**
+    + you want your reader to understand what you wish to say effortlessly
+
+<br/>
+
+* **Writing is a process, and very rarely (if ever) will you produce your best work on your first try!**
+
+<br/>
+
+* **Adhere to the K.I.S.S principle = **
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:250px; WIDTH:5500px; HEIGHT:300px" SRC="images/kiss.jpeg">
+
+## Revising is hard work but worth it!
+<hr>
+
+<div style="float: right; width: 59%;">
+
+
+**Writing a draft of your paper is an important first step, but it is revision that makes your paper great**
+    + each time you revise you add points
+    
+<br/>
+
+* **Revision literally means “to see again,” to look at your paper from a fresh, critical perspective**
+
+<br/>
+
+* **This can be a difficult process after you are so invested in your writing**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/revise.jpeg">
+
+## What is revision?
+<hr>
+
+<div style="float: left; width: 59%;">
+
+* **Revision is not simply correcting spelling and grammatical errors—this is proofreading (which is also important!)**
+
+<br/>
+
+* **Revision is a chance for you to look critically at what you have written to see:**
+    + Is it worth saying?  
+    + Does it say what you intended it to say?
+    + Will the reader understand what you’re saying?
+    + **Can I say it more simply (K.I.S.S)**
+
+<br/>
+
+* **This is not a quick process—this is why your capstone rough draft is due far in advance of the final paper!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:150px; WIDTH:700px; HEIGHT:200px" SRC="images/revise3.png">
+
+## Important questions to ask during revision…
+<hr>
+
+<div style="float: right; width: 50%;">
+
+> - **Think about your purpose: Does your introduction state clearly what you intend to do or discuss? Are your aims clear to your readers?**
+
+<br/>
+
+> - **Examine the balance within your paper: Are some parts out of proportion with others? Do you spend too much time on one trivial point and neglect a more important point? Do you give lots of detail early on and then let your points get thinner by the end?**
+
+<br/>
+
+> - **Check the organization: Does your paper follow a pattern that makes sense? Do transitions move your readers smoothly from one point to the next? Do the topic sentences of each paragraph appropriately introduce what that paragraph is about? Would your paper work better if you moved some things around?**
+
+<br/>
+
+> - **Check your information: Are all your facts accurate? Are any of your statements misleading? Have you provided enough detail to satisfy readers’ curiosity? Have you cited your information appropriately?**
+
+<br/>
+
+> - **Check your conclusion: Does the last paragraph tie the paper together smoothly and end on a stimulating note?**
+
+## Important questions to ask during revision…
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;"
+
+* **Make sure you keep your promises to your readers:**
+    + Does your paper follow through on what you claimed it would? 
+    + Do you support all the claims in your thesis? 
+    + Are the tone and formality of the language appropriate for your audience?
+
+<br/>
+
+* **Turn these points into a personal checklist before submission!!!***
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/fakenews.png">
+
+## Pro Tips: Make writing a scheduled part of your semester life
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;"
+
+* **The more writing you produce, the easier it is to cut it.**
+    + give yourself enough time
+    + make good use of Shut Up and Write
+
+<br/>
+
+* **The more you can imagine yourself as a reader looking at this for the first time, the easier it will be to spot potential problems.**
+
+<br/>
+
+* **The more you demand of yourself in terms of clarity and elegance, the more clear and elegant your writing will be**
+    + you should be proud of what you turn it
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:250px; HEIGHT:300px" SRC="images/write.png">
+
+## Dr. C’s practical tips for revising
+<hr>
+<br/>
+
+* **Don’t revise immediately after writing something—come back a few hours later with fresh eyes.**
+
+<br/>
+
+* **Work from a printed copy (at least a few times)**
+    + Some problems you overlook on the screen show up better on paper.
+
+<br/>
+
+* **Read the paper out loud. This is a good way to see how well things flow. Listen for places you get lost**
+    + if it sounds weird, it probably reads weird
+
+<br/>
+
+* **Remember all those questions? Don’t try to address all of them in a single revision session**
+    + proofread with a purpose
+
+<br/>
+
+* **Ask yourself lots of questions while you read your draft and don’t shy away from answering them honestly**
+    + is this sentence shit? 
+    
+## Your goal as a writer
+<hr>
+<br/>
+
+* **Your goal as a scientific writer is to convey information to the reader in a clear, concise, and complete manner**
+
+<br/>
+
+* **Luckily, there are some fairly straightforward ways to make your writing as clear as possible**
+    
+<IMG STYLE="position:absolute; TOP:400px; LEFT:300px; WIDTH:350px; HEIGHT:250px" SRC="images/ccc.jpg">
+
+## Strengthen your writing: Avoid overwordiness
+<hr>
+<br/>
+
+* **Use forceful verbs—replace long verb phrases with a more specific verb**
+    + Replace “She argues for the importance of the idea” with “She defends the idea.”
+    + **“It is clear by looking at Figure 1 that…” vs. “Figure 1 shows…”**
+    + “We obtained estimates of” vs. “We estimated”
+
+<br/>
+
+* **Cut as many prepositional phrases as you can without losing your meaning**
+    + “There are several examples of the issue of integrity in Huck Finn” would be improved with “Huck Finn repeatedly addresses the issue of integrity.”
+
+<br/>
+
+* **Don’t worry about length. If you have an appropriate amount of ideas and supporting material, your paper will be the correct length.**
+    + the more citations you have, the easier it is to write!
+    
+<br/>
+
+* **Avoid awkward passive voice**
+    + “In an initial case study by Burns et al. (1997) of identical twins, it was noticed that identical twins were more likely…” vs. “Burns et al. (1997) noticed that identical twins are more likely…”
+
+
+## Cutting down an overwordy sentence: Let's try
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges or that demonstrate successful solutions to the difficulties inherent in biological research.**
+
+## Cutting down an overwordy sentence: Let's try
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**This paper <span style="color:red">provides</span> a review of span style="color:red">the basic tenets of</span> cancer biology study design, using span style="color:red">as</span> examples span style="color:red">studies that illustrate the span style="color:red">methodologic</span> challenges or span style="color:red">that demonstrate successful</span> solutions span style="color:red">to the difficulties inherent in biological research.</span>**
+
+
+## Cutting down an overwordy sentence: Let's try
+<hr>
+<br/>
+<br/>
+
+This paper <span style="color:red">provides</span> a review of span style="color:red">the basic tenets of</span> cancer biology study design, using span style="color:red">as</span> examples span style="color:red">studies that illustrate the span style="color:red">methodologic</span> challenges or span style="color:red">that demonstrate successful</span> solutions span style="color:red">to the difficulties inherent in biological research.</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**This paper reviews cancer biology study design, using examples that illustrate the challenges and solutions faced by scientists.**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:400px; WIDTH:25px; HEIGHT:50px" SRC="images/arrow.jpg">
+
+## Strengthen your writing: use a variety of language
+<hr>
+<br/>
+
+* **Avoid using the same word or phrase twice or more in consecutive sentences**
+    + alternative ways to say the same thing
+    + combine the two sentences.
+
+<br/>
+
+* **Increase your sentence variety. If more than two sentences in a row start the same way (e.g. with a subject followed by a verb), then try using a different sentence pattern.**
+    + blend short and long sentences
+    
+<br/>
+
+* **Aim for precision in word choice. Don’t settle for the best word you can think of at the moment**
+    + thesaurus (shift-F7 in Word!) 
+    
+<br/>
+
+* **Look for sentences that start with “It is” or “There are” and revise with active voice**
+    + “There are many species of frogs in the rainforest.” vs. “The rainforest plays host to many frog species.”
+
+
+## Some common mistakes in scientific writing
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;"
+
+**DON’T:**
+    * **Use 2nd person (you, your, yours, etc.)**
+    <br/>
+* **Overuse conjunctive adverbs (however, moreover, thus)**
+<br/>
+* **Use useless phrases (note that, be aware, etc.)**
+<br/>
+* **Use excessive hedging (may possibly, might be, suggests, etc.)**
+<br/>
+* **Use judgmental adverbs (obviously, clearly, etc.) **
+<br/>
+* **Use passive voice**
+<br/>
+* **Use contractions**
+<br/>
+* **Use unfamiliar words (you should be able to define every word in your paper!)**
+<br/>
+* **Use unnecessary adjectives and adverbs**
+<br/>
+* **Be inconsistent with abbreviations**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/active.jpg"
+
+## More science writing resources
+<hr>
+<br/>
+<br/>
+<br/>
+
+**Mistakes in a museum: https://www.youtube.com/watch?v=9zmy7FIMDWU **
+
+<br/>
+
+**ACS webinar series on writing: https://www.youtube.com/watch?v=91jo4kX7Cq0**
+
+<br/>
+
+**The UNC writing center: https://writingcenter.unc.edu/tips-and-tools/**
+
+<br/>
+
+**Duke scientific writing resource: https://sites.duke.edu/scientificwriting/**
+
