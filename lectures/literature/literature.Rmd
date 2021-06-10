@@ -1,0 +1,335 @@
+---
+title: "Scientific Literature: Citations and Reference Software"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Once upon a time…
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/refs.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/ahh.png">
+
+## Why do you need references?
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Allows you to acknowledge the contribution of other researchers in your work**
+    + credit to other scientists from whom you have borrowed ideas
+
+<br/>
+
+* **BUT ITS NOT JUST ABOUT PLAGIARISM…**
+<br/>
+1. Provides evidence to support the claims in your work
+2. Makes your writing more persuasive 
+3. Demonstrates the depth of your own research into a topic
+4. Allows verification of your work
+5. Indicative of the extent of information on a topic
+
+<br/>
+
+* **Currency for academics and journals**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/mecite.png">
+
+## What information needs a reference?  
+<hr>
+<br/>
+
+<div style="float: left; width: 63%;">
+
+* **In general:**
+    + When you provide information that you ordinarily would not have known before conducting your research
+    + When you provide information that you cannot assume the reader knows
+
+<br/>
+
+* **Anytime you:**
+    + discuss, summarize, or paraphrase the ideas of an author
+    + use data or statistics
+    + use images, videos, or other media
+    + provide a direct quotation (which we are **NOT** doing in this class)
+
+
+<br/>
+
+* **To support one of your own assertions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:695px; WIDTH:350px; HEIGHT:400px" SRC="images/whentocite.jpg">
+
+## There are a bazillion different reference styles…
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Different publications have different ways of formatting references in the Reference section at the end of a paper:**
+<br/>
+Nature Reviews:  Jones, P. A. & Laird, P. W. Cancer epigenetics comes of age. Nature Genet. 21, 163–167 (1999).
+<br/>
+
+Nature Genetics:  Jones, P. & Laird, P. Cancer epigenetics comes of age. Nat. Genet. 21, 163-167 (1999).
+<br/>
+
+Cell:  Jones, P. & Laird, P. (1999). Cancer epigenetics comes of age. Nat. Genet. 21, 163–167.
+<br/>
+
+Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat. Genet., 21: 163-167, 1999.
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:275px" SRC="images/citeshort.png">
+
+## There are a bazillion different reference styles…
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Different publications have different ways of formatting in-line references in the text:**
+<br/>
+(Jones and Laird, 2011)
+<br/>
+
+(Jones & Laird, 2011)
+<br/>
+
+“yadda yadda yadda [1]”
+<br/>
+
+(Jones et al., 2012)
+<br/>
+
+"Jones et al. 2000 ..."
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:275px" SRC="images/citeshort.png">
+
+## In Capstone we will use APA formatting
+<hr>
+<br/>
+
+* **The in-line and reference lists in your capstone project will be formatted according to the American Psychological Association (APA) 7th edition**
+    + APA is a common format that is simple without using many abbreviations
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Details:<span style="color:blue">https://apastyle.apa.org/style-grammar-guidelines/references</span>**
+
+
+<IMG STYLE="position:absolute; TOP:295px; LEFT:275px; WIDTH:500px; HEIGHT:250px" SRC="images/apa.png">
+
+## Reference software to the rescue!
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Mendeley is (FREE) software that collects and organizes your references**
+<br/>
+
+**It also interfaces with Word and automagically formats your in-line references and reference list with the click of a button**
+<br/>
+
+**Download at:  https://www.mendeley.com/download-desktop/**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:350px" SRC="images/mendeley.png">
+
+## Using Mendeley desktop (required for Capstone)
+<hr>
+
+<div style="float: left; width: 40%;">
+
+**Mendeley consists of two parts:**
+<br/>
+
+1. the reference manager program 
+2. a citation tool in Word
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/mendeleygui.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:625px; WIDTH:425px; HEIGHT:200px" SRC="images/mendeleyword.png">
+
+## Basic things to do in Mendeley
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/bigmendeley.png">
+    
+## Basic things to do in Mendeley: REFERENCE MANAGER
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Add articles to your database using “Add Files” OR drag & drop PDFs into Mendeley**
+
+<br/>
+
+* **Organize articles by folders (topics, projects, classes)**
+    + set citation styles
+    + format individual references
+    
+<br/>
+
+* **Take notes, highlight, annotate your own PDF (viewable within Mendeley)**
+    
+## Using Mendeley in Microsoft Word (citation plugin)
+<hr>
+
+**In the “References” tab of Word, you will now see the “Mendeley Cite-O-Matic” menu**
+
+<br/>
+
+**This is how you insert in-line citations into text and insert a bibliography (reference list) at the end of your paper**
+
+<br/>
+
+**You can choose different formats and with the click of a button, Mendeley will reformat all references**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/word.png">
+
+## Mendeley also has an online 'Web Library'
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **You can sync your desktop library to Mendeley Reference Manager**
+    + moves papers to the cloud for storage
+    + making papers available on other computers
+    + Allows additional features (social/community)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:400px" SRC="images/webversion.png">
+
+## Let's get downloading and trouble shooting
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/mendeley.jpg">
+
+## Todays Goal: Familiarize yourslef with Mendeley
+<hr>
+<br/>
+
+**1. Download software (desktop and word)**
+<br/>
+**2. Create an account**
+<br/>
+**3. Download web extension (if possible)**
+
+<br/>
+
+**4. Create a folder for your capstone in Mendeley**
+<br/>
+**5. Download or collect citations from some papers**
+
+<br/>
+
+**6. Practice citing in Word**
+<br/>
+**7. Create a bibliography in Word**
+
+<br/>
+
+**8. Correct a citation (e.g. title in all caps)**
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:500px; HEIGHT:275px" SRC="images/batman.jpg">
+
+## Pro Tip: Become ONE with Mendeley
+<hr>
+<br/>
+
+* **Start collecting references in Mendeley (even if you don’t have the full text yet)**
+    + The web importer is handy for this
+
+<br/>
+
+* **Papers can be difficult to track down again if you try to go back and find them**
+    + it is better to take the time to get them right away
+    
+<br/>
+
+* **It will make your life soooo much easier**
+
+<br/>
+
+* **You will not lose points**
+    + handwritten bibliographies are NEVER perfect
+
+## Mendeley resources and guides
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**From the company:  https://www.mendeley.com/guides**
+
+<br/>
+
+**A Beginner’s Guide (U of Otago): https://otago-med.libguides.com/mendeley**
+
+<br/>
+
+**UC Davis:  https://www.library.ucdavis.edu/guide/mendeley/**
+
+
+
