@@ -1,0 +1,434 @@
+---
+title: "The Research Process"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Biological research generally divides into two camps
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/lab.jpg">
+
+<br/><IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/fishing.jpg">
+
+<div style="float: left; width: 50%;">
+
+**Cell / molecular / biomedical**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+**Ecology / organismal**
+
+</div>
+
+## Biological research generally divides into two camps
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/lab.jpg">
+
+<br/><IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/fishing.jpg">
+
+<div style="float: left; width: 50%;">
+
+**Cell / molecular / biomedical**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+**Ecology / organismal**
+
+</div>
+
+**BUT… the basic principles underlying both are exactly the same!**
+<br/>
+
+**There is more crossover in these disciplines than ever before**
+
+## What is the point of doing research?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Research allows us to:**
+    + Examine ideas and explanations
+    + Gather information and data
+    + Find and eliminate flaws in our thinking
+
+<br/>
+
+* **In other words, move beyond philosophy to science**
+
+
+<br/>
+
+* **Science values empiricism over dogma**
+    + empiricism = 
+    + dogma = 
+
+</div>
+
+
+<br/><IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/empire.jpg">
+
+## Two types of reasoning used in science
+<hr>
+
+**Two kinds of reasoning (or logic) are used in scientific research:**
+<br/>
+
+1. *Inductive reasoning*: takes a specific example and induces that it can be applied to a much larger group
+<br/>
+
+2. *Deductive reasoning*: starts with a general principle & deduces that it applies to a specific case
+
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/reasoning.png">
+
+## 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**Generally…**
+
+<br/>
+
+* **Inductive reasoning is used in an attempt to discover a new piece of information**
+
+<br/>
+
+* **Deductive reasoning is used to prove that piece of information**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:550px; WIDTH:500px; HEIGHT:600px" SRC="images/predict.png">
+
+## Lets practive: Which type of reasoning?
+<hr>
+<br/>
+
+<div style="float: right; width: 70%;">
+
+**Every day, I get in my car to leave for work, at 8:00am. The trip takes 45 minutes, and I arrive at work on time. If I leave for work at 8:00am today, I will be on time.**
+
+<br/>
+
+**Today, I left for work at eight o'clock and was on time. Therefore, every day that I leave the house at eight o'clock, I will arrive at work on time.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:375px; HEIGHT:400px" SRC="images/question.png">
+
+## Lets practice: Which type of reasoning?
+<hr>
+<br/>
+
+<div style="float: right; width: 70%;">
+
+**Every day, I get in my car to leave for work, at 8:00am. The trip takes 45 minutes, and I arrive at work on time. If I leave for work at 8:00am today, I will be on time.**
+
+<br/>
+
+**Today, I left for work at eight o'clock and was on time. Therefore, every day that I leave the house at eight o'clock, I will arrive at work on time.**
+
+<br/>
+<br/>
+
+**All dogs are mammals, and all mammals have kidneys.  Therefore, dogs must have kidneys.**
+
+<br/>
+
+**Hamsters, cats, humans, and platypuses have kidneys.  All of these animals are mammals.  Therefore, all mammals have kidneys.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:375px; HEIGHT:400px" SRC="images/question.png">
+
+## The importance of model organisms
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 54%;">
+
+**In many areas of biology, model organisms are used to gather information that can be applied more generally to other organisms**
+
+<br/>
+
+**Society has decided it is ethical to perform experiments on animals that benefit human society**
+
+<br/>
+
+**Ultimate example of inductive reasoning, but there are pitfalls**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:595px; WIDTH:475px; HEIGHT:375px" SRC="images/arab.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/models.jpg">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:595px; WIDTH:450px; HEIGHT:250px" SRC="images/yeast.jpg">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:595px; WIDTH:450px; HEIGHT:250px" SRC="images/worm.jpg">
+
+## The scientific process is the method scientists use to study things
+<hr>
+<br/>
+
+**Based on observation and analysis of data:**
+<br/>
+
+1. Make observations
+<br/>
+2. Develop a question and form a logical hypothesis
+* **A hypothesis is a tentative answer to a well-framed scientific question **
+<br/>
+3. Test predictions arising from the hypothesis (with experiment or more observation)
+<br/>
+4. Analyze experimental data
+<br/>
+5. Revise hypothesis and repeat
+
+<br/>
+<br/>
+
+**The scientific process is ongoing.**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/method.png">
+
+
+## A hypothesis is an explanation for an observation
+<hr>
+
+* **A hypothesis is a tentative explanation—it isn’t written in stone**
+
+<br/>
+
+* **Occam’s razor is the principle that the simplest explanation (i.e. having the fewest assumptions/steps) is usually correct**
+
+<br/>
+
+* **A hypothesis must be both testable and falsifiable**
+    + a hypothesis that a ghost cast a spell on a car to make it stop working cannot be tested
+
+<br/>
+
+* **Hypotheses should strive to distinguish between causality and correlation**
+    + Two things that are correlated are not necessarily causally linked
+
+<br/>
+
+* **Other factors to consider regarding causality:**
+    + are there multiple causal factors?
+    + Is there a direct or indirect (remote) cause?
+
+    
+## An experiment is a test of a hypothesis
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Predictions (if this, then that…) arise out of hypotheses that can be tested by experiments**
+    + Good experimental design strives to disprove a hypothesis
+
+<br/>
+
+* **Scientists often perform controlled experiments in which an experimental group is compared with a control group**
+
+<br/>
+
+* **Ideally, experimental and control groups differ in only the one factor under investigation**
+    + Controls are necessary to rule out the effects of other factors that might affect results
+
+</div>
+
+ <IMG STYLE="position:absolute; TOP:240px; LEFT:30px; WIDTH:400px; HEIGHT:350px" SRC="images/experiment.jpg">
+ 
+## “Proof” in science
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 64%;">
+
+**Science does not prove ideas**
+
+<br/>
+
+**Instead, it works by rejecting hypotheses based on supporting and refuting evidence to advance understanding**
+
+<br/>
+
+**Findings are tentative since the REAL explanation may not have been considered**
+
+<br/>
+
+**Science is based on the principle that any idea, no matter how widely accepted, can be overturned if evidence warrants it**
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:350px; HEIGHT:300px" SRC="images/prove.jpg">
+
+## Mendeley also has an online 'Web Library'
+<hr>
+
+* **The scientific process produces results that can be used in both inductive and deductive reasoning:**
+    + Allow generalization (inductive reasoning)
+    + Supports or rejects a model or theory (deductive)
+
+<br/>
+
+* **Research always generates more questions than answers!**
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:275px; WIDTH:600px; HEIGHT:300px" SRC="images/newton.jpg">
+
+## Practical development of research questions
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **The research you perform depends on many factors:**
+    + Your interest
+    + Your goal
+    + Area of biological research
+    + Research setting
+    + Resources available
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/question2.jpg">
+
+## Different kinds of research have different goals
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Scientific research can be roughly divided into two categories with different goals**
+    + *Basic research* – research about how the world works
+        + Driven by curiosity
+        + No obvious or immediate commercial value
+    + *Applied research* – research with specific aims
+        + To solve practical problems: technological / medical
+        + Relies upon previous basic research
+
+<br/>
+<br/>
+
+**Both are extremely important to drive scientific and technological advancement**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:400px; HEIGHT:450px" SRC="images/applied.jpg">
+
+## Examples of basic research in health
+<hr>
+<br/>
+<br/>
+<br/>
+
+**An investigation into the secondary symptoms of the Human Papilloma Virus (HPV). **
+<br/>
+
+1. An investigation into the symptoms of diarrhea. 
+<br/>
+
+2. An investigation into the secondary symptoms of the Human Papilloma Virus (HPV)
+
+<br/>
+
+**Examples of applied research in health include: **
+<br/>
+
+1. An investigation to determine the healing properties of mushrooms.
+<br/>
+
+2. An investigation to determine the side effects of alcohol consumption.
+
+## Science, technology, and society are interrelated
+<hr>
+<br/>
+
+**Science and technology rely on each other to provide benefits for society**
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:05px; WIDTH:800px; HEIGHT:300px" SRC="images/tech.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:810px; WIDTH:300px; HEIGHT:350px" SRC="images/doctor.jpg">
+
+## Research Settings (potential careers)
+<hr>
+
+**The place research is being conducted determines the kinds of questions that will be investigated**
+
+<br/>
+
+* **Each setting has advantages and disadvantages**
+    + *Academic – small institution* (Shepherd University)
+        + Great freedom, undergrad students
+        + low budget, lack of equipment
+    + *Academic – large research institution* (WVU)
+        + Great freedom, advanced equipment, graduate students
+        + constant scramble for grant money
+    + *Industrial* – biotech, pharmaceutical, agriculture (Pfizer)
+        + Advanced equipment, staff focused on a single task
+        + Less freedom
+    + *Government* (Department of Defense, USDA, NIH)
+        + Some degree of freedom
+        + Red tape, scramble for money
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:350px; HEIGHT:200px" SRC="images/money.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/nih.jpg">

@@ -207,7 +207,7 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/bigmendeley.png">
     
-## Basic things to do in Mendeley: REFERENCE MANAGER
+## Basic things to do in Mendeley: Reference manager
 <hr>
 <br/>
 <br/>
