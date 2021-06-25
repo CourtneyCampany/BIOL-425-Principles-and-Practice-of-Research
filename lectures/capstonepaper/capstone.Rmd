@@ -173,7 +173,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:780px; WIDTH:275px; HEIGHT:300px" SRC="images/literature.png">
 
-## Meta analysis example
+## Meta-analysis example
 <hr>
 
 **Douglas RM, Hemila H, D'Souza R, et al. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. 2004;4:CD000980.**
@@ -201,7 +201,7 @@ output:
 **“The lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.”**
 
 
-## Meta Analyses are important: Cesar Terrer
+## Meta-analyses are important: Cesar Terrer
 <hr>
 
 **Mycorrhizal association as a primary control of the CO 2 fertilization effect (Science 2016)**
@@ -252,7 +252,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/grade.png">
 
-## Content, Style and Error-free writing matter!
+## Content, style and error-free writing matter!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/grade2.png">
