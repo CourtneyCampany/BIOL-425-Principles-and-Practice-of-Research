@@ -1,0 +1,385 @@
+---
+title: "BIOL 425: Principles & Practice of Research"
+author: "Dr. Court Campany"
+date: "Spring 2021"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## About me
+<hr>
+<br/>
+
+<div style="right: left; width: 30%;">
+
+* **Assistant Professor, Shepherd University**
+    
+<br />
+
+* **Plant Ecophysiologist**
+    + climate change
+    + physiology
+    + evolution
+    
+<br />
+
+* **Ecosystem Ecologist**
+    + global change
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:650px; HEIGHT:400px" SRC="images/me_pic.png">
+
+## About me
+<hr>
+<br/>
+
+<div style="right: left; width: 60%;">
+
+* **Assistant Professor, Shepherd University**
+    + long road to academia
+    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* **Love to teach!!**
+
+<br />
+
+* **Community oriented projects to cure 'Plant Blindness'**
+    + Tree Campus USA
+    + Monarch Butterfly waystations
+    + Urban tree benefits
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/me.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:125px; WIDTH:150px; HEIGHT:150px" SRC="images/logo.jpg">
+
+## What the heck is a capstone?  
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:550px; HEIGHT:450px" SRC="images/pyramid2.jpg">
+
+## What the heck is a capstone?  
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:775px; HEIGHT:475px" SRC="images/pyramid3.jpg">
+
+
+
+## Goals of the capstone class
+<hr>
+<br/>
+
+* **Demonstrate your learning and knowledge of biology in an area of interest to you**
+
+<br/>
+
+* **Hone your written and oral communication skills**
+
+<br/>
+
+* **Manage a large-scale research project**
+
+<br/>
+
+* **Learn to critique peer work**
+
+<br/>
+
+* **Prepare job or graduate/professional school materials**
+
+<br/>
+
+* **Build your resume**
+
+<br/><IMG STYLE="position:absolute; TOP:250px; LEFT:580px; WIDTH:550px; HEIGHT:300px" SRC="images/cloud.jpg">
+
+## Structure of the class:  Lecture, workshops, and writing sessions
+<hr>
+<br/>
+
+* **Always bring your laptop**
+
+<br/>
+
+* **Live lectures Mondays and Wednesdays**
+    + My goal is for the class to be as interactive as possible
+    + Each week a checklist containing the schedule will be posted on Brightspace
+    + Slides for each lecture will be posted on Sakai
+
+## Structure of the class:  Lecture, workshops, and writing sessions
+<hr>
+<br/>
+
+* **Always bring your laptop**
+
+<br/>
+
+* **Live lectures Mondays and Wednesdays**
+    + My goal is for the class to be as interactive as possible
+    + Checklist with weekly schedule will be posted on Brightspace
+    + Slides for each lecture will be posted on Sakai
+
+<br/>
+
+* **Weekly live workshops during laboratory period**
+    + Focus on a specific topic in more detail
+    + Attendance with is required
+    + Workshops will vary in length but will typically involve a discussion, working with a partner, and/or activity assignment
+    + Assignments due on Brightspace at 5pm on the Friday after the workshop** 
+
+## Structure of the class:  Lecture, workshops, and writing sessions
+<hr>
+<br/>
+
+* **Always bring your laptop**
+
+<br/>
+<br/>
+
+* **Fridays are in-person Writing sessions**
+    + Writing is time intensive and requires discussion
+    + I will be available as an in-person resource
+    + Significant progress towards project completion will be made
+    
+<br/>
+
+* **A progress journal will be submitted at the end of each session (for points)**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:850px; WIDTH:200px; HEIGHT:300px" SRC="images/shutup.png">
+
+## Course syllabus has a detailed schedule
+<hr>
+<br/>
+
+<div style="float: left; width: 30%;">
+
+**This class has a lot of deadlines**
+
+<br/>
+
+**Assignments with asterisks are required to pass the course**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:375px; HEIGHT:400px" SRC="images/question.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/questions.jpg">
+
+## The capstone project
+<hr>
+
+* **You will choose a biological topic of interest to you and prepare a semester-long research project consisting of:**
+    + A research paper
+    + A scientific poster and presentation
+
+<br/>
+
+* **This is not a book report:  An important aspect of the project is its novelty—your goal is to synthesize information around a topic and draw conclusions about a hypothesis or question**
+    + you must address a scientific question
+
+<br/>
+
+* **Your capstone project will be prepared as:**
+    + a data-driven scientific paper using original research, OR 
+    + a literature ‘meta-analysis’ (i.e., use some form of statistical analysis)
+
+<br/>
+
+* **Various aspects of both parts will be evaluated and critiqued by me, other biology faculty members, and your classmates**
+
+## How will the capstone paper be evaluated?
+<hr>
+
+* **You will submit the paper in steps over the semester:**
+    + Topic declaration
+    + Rough outline with references
+    + Expanded outline
+    + Rough draft
+    + Final paper
+
+<br/>
+
+* **These will be reviewed by me and feedback given**
+
+<br/>
+
+* **The rough draft of the paper will be critiqued by another biology faculty member and a classmate**
+
+<br/>
+
+* **The final draft of your capstone paper will be graded by me**
+    + rubric on Brightspace**
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:200px; HEIGHT:200px" SRC="images/grade.jpg">
+
+## Capstone poster guidelines
+<hr>
+<br/>
+
+* **The poster is a different format for presenting your capstone project—a condensed, easily understood version of your paper that you will present to the group**
+
+<br/>
+
+* **Also submitted in steps:**
+    + Rough draft (peer-reviewed in a workshop)
+    + Final version
+    + Poster presentation to class
+
+<br/>
+
+* **You will present your poster in the final workshop class of the semester**
+
+<br/>
+
+* **The final poster and presentation will be graded by me**
+    + rubric on Brightspace
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:640px; WIDTH:400px; HEIGHT:250px" SRC="images/poster.png">
+
+
+## 3-Minute Thesis competition
+<hr>
+
+* **This semester we will run the first annual capstone 3-M Thesis**
+
+<br/>
+
+* **Internationally recognized competition that challenges students to present a compelling oration on their thesis and its significance in just 3 minutes**
+    + presented in language that anyone can understand
+
+<br/>
+
+* **Rules:**
+    + One static PowerPoint slide (no transitions or animations)
+    + no other media allowed
+    + no props
+    spoken word only (no poems, raps or songs)
+    + strict 3 minute time limit
+    + *no audience questions*
+
+<br/>
+
+* **Will prepare you for your poster presentation**
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:700px; WIDTH:350px; HEIGHT:300px" SRC="images/3mt.jpg">
+    
+## Course Grading
+<hr>
+
+**Evaluation of the capstone project and its various parts constitute the majority of your grade**
+
+<br/>
+
+**Capstone deadlines on the syllabus (see astricks) must be met to pass the class**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Lecture and workshop materials**
+    + Knowledge check #1 ()
+    + Knowledge check #2 ()
+    + Workshop activities (50 points)
+    + Presentation evaluations ()
+    
+<br/>
+
+* **3 Minute Thesis ()**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Capstone Paper (% of Grade)**
+    + Scientific question and basic outline (10 points)
+    + Full project outline (10 points)
+    + Student peer review (10 points)
+    + Rough draft (50 points)
+    + Final draft (100 points)
+    
+<br/>
+
+* **Capstone poster**
+    + Poster (50 points)
+    + Presentation (25 points)
+
+</div>
+
+## A word about plagiarism…
+<hr>
+
+**We will devote at least one entire class to plagiarism—what it is and how to avoid it**
+
+
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **Everything submitted in this course should be in your own words—it will be checked using multiple methods**
+    + utilize writing sessions to avoid plagiarism
+    + utilize the writing center to avoid plagiarism
+    + utilize peers to avoid plagiarism
+
+<br/>
+
+* **Findings are tentative since the REAL explanation may not have been considered**
+
+<br/>
+
+* **Ignorance is not an excuse—it doesn’t matter if you plagiarize accidentally or intentionally!**
+    + Talk to me if you are unsure.
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:250px; HEIGHT:250px" SRC="images/plagiarize.png">
+
+
+<!-- <IMG STYLE="position:absolute; TOP:450px; LEFT:0px; WIDTH:350px; HEIGHT:350px" SRC="images/plagiarize2.jpg"> -->
+
+## This is a challenging project!
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **BUT:**
+    + Its alright to feel daunted
+    + We’re going to tackle it in steps together
+    + I am here to help you in any way possible
+
+<br/>
+
+* **You should have a major sense of accomplishment when your complete your capstone**
+</div>
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:550px; HEIGHT:250px" SRC="images/help.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:350px; HEIGHT:200px" SRC="images/daunt.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/questions.jpg">
+
+
+
+
+
+
+
+
+
