@@ -307,7 +307,7 @@ output:
 <div style="float: right; width: 50%;">
 
 * **Capstone Paper (% of Grade)**
-    + Scientific question and basic outline (10 points)
+    + Topic declaration (10 points)
     + Full project outline (10 points)
     + Student peer review (10 points)
     + Rough draft (50 points)

@@ -1,0 +1,258 @@
+---
+title: "The Capstone Paper"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Shepherd University writing requirements
+<hr>
+
+* **Core curriculum requirements:  **
+    + Writing in the major
+    + Capstone in the major
+
+<br/>
+
+* **This writing-intensive course views “writing as a mode of learning”**
+    + employs writing assignments as ways of helping students learn the material rather than as vehicles for regurgitating material. 
+
+<br/>
+
+* **A major instructional focus is on the writing process through detailed evaluation, feedback, and revision opportunities**
+    + highlights multiple stages of the writing process
+    + e.g., idea formulation, refinement of argument/hypothesis, structuring/outlining, drafting, revising
+
+<br/>
+
+* **Students should write no fewer than 30 pages**
+    + includes all pages in all stages of the writing process (i.e., drafts, early versions, outlines, revisions).
+
+<IMG STYLE="position:absolute; TOP:141px; LEFT:750px; WIDTH:200px; HEIGHT:200px" SRC="images/logo.jpg">
+
+## Biology department capstone requirements
+<hr>
+<br/>
+
+* **BIOL 425 addresses the learning outcomes of oral communication, written communication, lifelong learning, ethical practices and ethical reasoning, and experiential learning.**
+    +  meets Core Curriculum requirements for Writing in the Major and Integrative Learning        +  prepares students to describe, explain, and communicate about natural phenomena 
+
+<br />
+
+* **Prepare a research paper detailing their research experiences.**
+    + encompass several drafts and revisions with the guidance of their research mentor
+    + final draft is typically 15-65 pages
+
+<br />
+
+* **Present research in an oral forum to the biology faculty and others in the University science community with the use of appropriate visual aids, conduct themselves professionally, and field questions from the attendees.**
+
+## The capstone paper 
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 55%;">
+
+* **You will choose a biological topic of interest to you and prepare an original piece of scientific writing in the form of a written paper**
+    + make this a part of your career development
+    
+<br />
+
+* **This is not a book report:  An important aspect of the project is its novelty—your goal is to synthesize information around a topic and draw conclusions about a hypothesis or question**
+
+<br />
+
+* **Various aspects of both parts will be evaluated and critiqued by me, other biology faculty members, and your classmates**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/capstone.jpg">
+
+## Types of capstone papers
+<hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* **Data-driven scientific paper**
+    + own scientific research
+    + open-source data (*new option*)
+
+<br />
+
+* **Narrative literature synthesis**
+
+<br />
+
+* **Literature meta-analysis **
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paper.jpg">
+
+## Original research paper
+<hr>
+<br/>
+
+* **Based on research you have performed yourself (at Shepherd or elsewhere)**
+<br/>
+**or**
+<br/>
+* **A question you address using publicly available (non-published) data**
+
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Data presented in narrative and graphical form (i.e. has data figures/tables)**
+
+<br/>
+
+* **Essentially a primary research paper in the traditional format: Abstract, Introduction, Experimental Procedures, Results, Discussion, Conclusion, Literature Cited**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:600px; HEIGHT:300px" SRC="images/you.jpg">
+
+## Research paper example
+<hr>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:5px; WIDTH:700px; HEIGHT:350px" SRC="images/graph.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:655px; WIDTH:425px; HEIGHT:400px" SRC="images/abstract.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:450px; HEIGHT:150px" SRC="images/paper.png">
+
+## Narrative literature synthesis
+<hr>
+<br/>
+
+* **Based on an extensive review of the primary literature around a given topic or question**
+    + Researcher reviews results of many studies and makes judgments about the connection between the variables
+    + Evaluate, analyze, compare and contrast these studies focusing on your central question—reveal strengths, biases, weaknesses
+    + The goal is to present the primary papers in a new light or tie them together in a new way
+
+<br/>
+
+* **Contains representative figures, summary data tables, and/or informational figures**
+
+<br/>
+
+* **Similar to a journal review article with this format:  Abstract, Introduction, Body with subheadings (each section examines a different aspect of your topic/question), Discussion/Conclusion, Literature Cited**
+
+## Review paper example
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/covid2.png">
+
+## Literature meta-analysis
+<hr>
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **A systematic review of a focused topic in the literature that provides a quantitative estimate for the effect of an experimental treatment**
+    + Used to examine a specific issue to determine whether a conclusion can be reached regarding the effect of a treatment or exposure
+    + Often used to address controversial issues in medicine
+    + Used to understand global patterns in ecology
+
+<br/>
+
+* **Relies on data reported in primary research papers—a meta-analysis uses a statistical method to “combine” this data together to reach a conclusion**
+
+<br/>
+
+* **Format:  Abstract, Introduction, Materials and Methods, Results, Discussion, Literature Cited, Tables and Figures**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:780px; WIDTH:275px; HEIGHT:300px" SRC="images/literature.png">
+
+## Meta analysis example
+<hr>
+
+**Douglas RM, Hemila H, D'Souza R, et al. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. 2004;4:CD000980.**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/meta.png">
+
+**“The lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.”**
+
+
+## Meta Analyses are important: Cesar Terrer
+<hr>
+
+**Mycorrhizal association as a primary control of the CO 2 fertilization effect (Science 2016)**
+<br/>
+
+**Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition (New Phytologist 2018)**
+<br/>
+
+**Nitrogen and phosphorus constrain the CO 2 fertilization of global plant biomass (Nature Climate Change 2019)**
+<br/>
+
+**A trade-off between plant and soil carbon storage under elevated CO2 (Nature 2021)**
+
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:30px; WIDTH:500px; HEIGHT:300px" SRC="images/concept.jpg">
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/concept2.jpg">
+
+## General considerations for capstone paper evaluation
+<hr>
+
+* **Papers will be reviewed as drafts being submitted for peer review at a journal (i.e. not rough drafts).**
+    + However, the paper is the work of the student and not a professional
+
+<br/>
+
+* **Papers must contain every sections appropriate to that type of paper.**
+
+<br/>
+
+* **The text will be reviewed for scientific content.  The paper should be written with sufficient detail that a reviewer can understand the project's rationale and conclusions without being an expert in the field.**
+
+<br/>
+
+* **The text will be evaluated for quality of writing, including sentence structure, word usage, grammar spelling, and other writing mechanics.**
+
+<br/>
+
+* **Papers will also be reviewed for technical elements such as appropriate use of references and citations, figure legends, reference citations, and appropriate figure legends.**
+
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:200px; HEIGHT:200px" SRC="images/quill.jpg">
+
+## How will the capstone paper be evaluated?
+<hr>
+
+**Rough and final drafts of your capstone paper will be evaluated according to a rubric on Brighspace**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/grade.png">
+
+## Content, Style and Error-free writing matter!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/grade2.png">
