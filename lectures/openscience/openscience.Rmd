@@ -1,0 +1,250 @@
+---
+title: "Science in the new age: Big data and Open Science"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## New age of open science
+<hr>
+
+* **"Open Science" is something of an umbrella term encompassing everything related to reproducible, transparent science.**
+
+<br/>
+
+* **meant to appeal to every area of science, from life sciences to computational sciences to theoretical sciences.**
+
+<br/>
+
+* **movement to make all scientific data, methods, and materials accessible to all levels of society**
+
+
+<IMG STYLE="position:absolute; TOP:141px; LEFT:750px; WIDTH:200px; HEIGHT:200px" SRC="images/open.jpg">
+
+## Why is 'Open Science' a good thing?
+<hr>
+
+* **The vast majority of research is publicly funded**
+    + logical that the public have access to it!
+    
+<br/>
+
+* **Open and transparent research makes peer review and replication much easier**
+
+<br/>
+
+* **There is some convincing evidence that Open Science gives projects more downstream impact in the scientific community**
+
+## Major themes that comprise 'Open Science' guidelines
+<hr>
+
+**Open data: all data used in the project should be made available.**
+<br/>
+
+**Open source: all code written in the project should be publicly available.**
+<br/>
+
+**Open methods: the exact procedure of the project is publicly documented.**
+<br/>
+
+**Open review: correspondence between reviewers and authors is public.**
+<br/>
+
+**Open access: resulting publications are publicly available.**
+<br/>
+
+**Open education: all education materials are publicly available**
+
+## Open data is the core of 'Open Science'
+
+* **All of the data used in your study and experiments are published online.**
+
+<br/>
+
+* **This is definitely a shift from prior precedent; most raw data from scientific experiments remain cloistered.**
+
+<br/>
+
+* **Repositories and online data banks have sprung up around this idea. Many research institutions host their own open data repositories, as do some large tech companies.**
+
+<br/>
+
+* **Amazon has released its own set of large public datasets:**
+    + https://aws.amazon.com/public-data-sets/
+    
+## Can you use these data for your capstone: YES
+<hr>
+
+## National Ecological Observation Network (NEON)
+<hr>
+<br/>
+
+* **Offers expert ecological data from sites across the continent to power the most important science being done today** 
+
+<br />
+
+* **NEON is a network of field research sites, designed by ecologists to provide open data for all**
+    + 81 field sites across the U.S.
+    + fully operational in 2019
+    
+<br />
+
+* **NEON monitors ecosystems across the United States**
+    + freshwater = streams, rivers and lakes
+    + terrestrial = deserts &rarr; tropical forests
+    
+<br />    
+
+* **Data is free to use!!
+
+## https://www.neonscience.org/data
+<hr>
+**NEON takes millions of measurements and collects thousands of samples every year**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/map.png">
+
+## Lots of medical and public health databases
+<hr>
+<br />
+
+
+* **Center of Disease Control**
+    + public health data
+
+<br />
+
+* **1000 Genomes project**
+
+<br />
+
+* **Data.gov**
+
+<br />
+
+* **World Health Organization (WHO)
+
+* **SEER
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paper.jpg">
+
+## CDC Wonder
+<hr>
+<br />
+
+* **An integrated information and communication system for public health by the CDC**
+    + promote information-driven decision making by placing timely, useful facts in the hands of public health practitioners and researchers, and
+    + To provide the general public with access to specific and detailed information from CDC.
+    
+ <br />
+ 
+**Wide-ranging Online Data for Epidemiologic Research**
+
+<br />
+
+**Access to a wide array of public health information.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/cdc.jpg">
+
+## https://wonder.cdc.gov/
+<hr>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:250px; WIDTH:6700px; HEIGHT:400px" SRC="images/graph.png">
+
+## 1000 Genomes Project
+<hr>
+<br/>
+
+* **established the most detailed catalogue of human genetic variation**
+
+<br/>
+
+* **Sequenced more than 2500 individuals from 26 different populations around the world**
+
+<br/>
+
+* **Produced an integrated set of phased haplotypes with more than 80 million variants for these individuals**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/1000genomes.jpg">
+
+## https://www.internationalgenome.org/data-portal/sample
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/genomes.jpg">
+
+## Data.gov
+<hr>
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **A systematic review of a focused topic in the literature that provides a quantitative estimate for the effect of an experimental treatment**
+    + Used to examine a specific issue to determine whether a conclusion can be reached regarding the effect of a treatment or exposure
+    + Often used to address controversial issues in medicine
+    + Used to understand global patterns in ecology
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:780px; WIDTH:275px; HEIGHT:300px" SRC="images/literature.png">
+
+## https://labs.data.gov/dashboard/offices/qa
+<hr>
+
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/meta.png">
+
+**“The lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.”**
+
+
+## World Health Organization
+<hr>
+
+**Mycorrhizal association as a primary control of the CO 2 fertilization effect (Science 2016)**
+<br/>
+
+
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/concept2.jpg">
+
+## https://www.who.int/data
+<hr>
+
+* **Papers will be reviewed as drafts being submitted for peer review at a journal (i.e. not rough drafts).**
+    + However, the paper is the work of the student and not a professional
+
+<br/>
+
+* **Papers must contain every sections appropriate to that type of paper.**
+
+<br/>
+
+* **The text will be reviewed for scientific content.  The paper should be written with sufficient detail that a reviewer can understand the project's rationale and conclusions without being an expert in the field.**
+
+<br/>
+
+* **The text will be evaluated for quality of writing, including sentence structure, word usage, grammar spelling, and other writing mechanics.**
+
+<br/>
+
+* **Papers will also be reviewed for technical elements such as appropriate use of references and citations, figure legends, reference citations, and appropriate figure legends.**
+
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:200px; HEIGHT:200px" SRC="images/quill.jpg">
+
+## How will the capstone paper be evaluated?
+<hr>
+
+**Rough and final drafts of your capstone paper will be evaluated according to a rubric on Brighspace**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/grade.png">
+
+## Content, style and error-free writing matter!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/grade2.png">
