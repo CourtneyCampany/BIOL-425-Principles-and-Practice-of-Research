@@ -1,0 +1,278 @@
+---
+title: "Responsible conduct of research"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Brainstorm: What is research misconduct? 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/researchmisconduct.png">
+
+## Defining research misconduct
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Fabrication, falsification or plagiarism in proposing, performing, reviewing and/or reporting research**
+
+<br/>
+
+* **Fabrication/ Falsification of data**
+    + enhancing digital Images partially
+    + excluding data from articles, presentations, grants
+    + performing statistical analysis in a deliberately dishonest way.
+    + creating data that was never recorded or performed
+
+<br/>
+
+* **Plagiarism**
+    + copying text to use in a manuscript (article, thesis, grant, poster)
+    + republishing your own work (self-plagiarism)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/book.jpg">
+
+## Why would anyone participate in research misconduct? 
+<hr>
+<br/>
+
+**Science is a competitive, pressure-filled endeavor**
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:2505px; WIDTH:600px; HEIGHT:400px" SRC="images/science.png">
+
+## Some famous cases of research misconduct
+<hr>
+
+<div style="float: left; width: 60%;">
+
+**William Summerlin (1974): Claimed to have developed a method to prevent immune rejection of transplanted skin grafts.  He transplanted skin from black mice onto white mice. It was determined that he faked success by using a marker to color mouse skin.**
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+**Stephen Breuning (1980s): A psychologist who purported to show that stimulant drugs (e.g. Ritalin) were more effective for treatment of hyperactivity in mentally retarded individuals.  This recommendation, which was incorporated into standards of care, was based on fraudulent data.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:750px; WIDTH:225px; HEIGHT:250px" SRC="images/mouse.jpg">
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/ritalin.jpg">
+
+## Why does research misconduct matter?…
+<hr>
+<br/>
+
+
+<div style="float: right; width: 60%;">
+
+**Andrew Wakefield (1998):  Wakefield published evidence for a connection between the MMR vaccine and autism in The Lancet based on fraudulent data.  He has since had his medical license stripped in the UK.**
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**Surgisphere (2020) claimed to have hospital data which was used to support studies of the effectiveness of hydroxychloroquine in treating COVID-19. Papers in The Lancet and New England Journal of Medicine were retracted in June 2020 when the data was found to be implausible.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/mm5.jpg">
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:750px; WIDTH:225px; HEIGHT:250px" SRC="images/virus.png">
+
+
+## Maintaining public trust in science
+<hr>
+<br/>
+
+* **It is vital that the public trust science!**
+
+<br/>
+
+* **As a result of these and other incidents:**
+    + congress passed legislation to address ethical research behavior (including animal welfare)
+    + the NIH has an entire branch devoted to ensuring integrity in research
+    + there is mandatory training in responsible conduct of research for anyone receiving research money from the NIH
+    + large universities have offices devoted to accountability, compliance, and resolution of research misconduct issues
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/nih.png">
+
+## COVID-19 State of Vaccine Confidence
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hesitancy.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/vaccinetrust.jpg">
+
+
+## COVID-19 State of Vaccine Confidence
+<hr>
+
+<div style="float: right; width: 65%;">
+
+* **Highlights from CDC insights report (June 21 2021)**
+    + pressure created by abundant marketing campaigns, unprecedented incentives,
+and vaccine requirements might alienate consumers who are unsure about
+getting vaccinated
+    + while the ‘return to normal’ appears to be motivating some consumers to get
+vaccinated, it seems to be decreasing urgency for others
+    + The origin story of the virus that causes COVID-19 is reducing confidence in
+COVID-19 vaccines for some
+    + vaccine effectiveness is confusing (e.g. # of jabs, variants)
+    + adverse effects
+    + natural immunity vs vaccination for previously infected
+    
+<br/>
+
+**source: https://www.cdc.gov/vaccines/covid-19/downloads/SoVC-report-10-508.pdf**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/jab.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:650px; HEIGHT:600px" SRC="images/self.png">
+
+## Paper retractions as a measure of scientific misconduct
+<hr>
+
+* **Currently, ~ 4 of 10,000 papers are retracted**
+    + millions of dollars have been granted to retracted research
+    + biomedical retractions have not impacted patients (yet)
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/retraction.png">
+
+## Paper retractions as a measure of scientific misconduct
+<hr>
+
+* **The proportion of retractions involving plagiarism of text—stealing someone else’s or duplicating one’s own—has risen**
+    + introduction in 2004 of iThenticate, an inter-net-based plagiarism detection service
+    + fake peer reviews occur when authors give journals email addresses that they control, allowing them to review their own manuscripts.      + Flawed images include instances of intentional manipulation and of error
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/retraction2.png">
+
+## How can data be falsified? Shouldn’t peer review catch that?  
+<hr>
+
+* **Approximately 70% of research misconduct involves western blots**
+
+<br/>
+
+* **Western blots detect the presence of a specific protein in a sample**
+
+<br/>
+
+* **Bands are easy to cut out in graphic software and move around, rotate, and splice together**
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/gel.png">
+    
+## Curing cancer with Photoshop?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:350px; WIDTH:400px; HEIGHT:450px" SRC="images/flip.png">
+
+## Bamboozling blots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/blot.png">
+
+## Bamboozling blots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:700px; HEIGHT:400px" SRC="images/flip2.png">
+
+## Magic microscopy malfeasance
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/scope.png">
+
+## Fluorescent flimflam
+<hr>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/glow.png">
+
+## Responsible conduct of research is a wide umbrella	
+<hr>
+<br/>
+
+**Animal care and use**
+<br/>
+
+**Authorship and publication**
+<br/>
+
+**Climate, the environment, and culture**
+<br/>
+
+**Collaborative research**
+<br/>
+
+**Conflicts of interest**
+<br/>
+
+**Data management**
+<br/>
+
+**Use of human subjects**
+<br/>
+
+**Laboratory management and safety**
+<br/>
+
+**Mentoring**
+<br/>
+
+**Peer review**
+<br/>
+
+**Social responsibility**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:425px; HEIGHT:400px" SRC="images/perspn.png">
+
+## Mendeley resources and guides
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**From the company:  https://www.mendeley.com/guides**
+
+<br/>
+
+**A Beginner’s Guide (U of Otago): https://otago-med.libguides.com/mendeley**
+
+<br/>
+
+**UC Davis:  https://www.library.ucdavis.edu/guide/mendeley/**
+
+
+

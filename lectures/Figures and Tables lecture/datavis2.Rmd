@@ -63,7 +63,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/examplefigure.png">
 
-## Creating tables (Exel is easiest option)
+## Creating tables (Excel is easiest option)
 <hr>
 <br/>
 <br/>
@@ -186,7 +186,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg">
 
-## Considerations for ficgures
+## Considerations for figures
 <hr>
 
 * **Identify your message—design the figure to emphasize this message!**

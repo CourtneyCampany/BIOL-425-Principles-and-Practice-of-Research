@@ -296,18 +296,19 @@ output:
     + Knowledge check #1 ()
     + Knowledge check #2 ()
     + Workshop activities (50 points)
-    + Presentation evaluations ()
+    + Presentation evaluations (15 points)
+    + Progress Journal (15 points)
     
 <br/>
 
-* **3 Minute Thesis ()**
+* **3 Minute Thesis (15 points)**
 
 </div>
 
 <div style="float: right; width: 50%;">
 
 * **Capstone Paper (% of Grade)**
-    + Topic declaration (10 points)
+    + Rough outline (10 points)
     + Full project outline (10 points)
     + Student peer review (10 points)
     + Rough draft (50 points)
