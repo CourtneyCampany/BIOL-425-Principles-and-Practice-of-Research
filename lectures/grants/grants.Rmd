@@ -1,0 +1,403 @@
+---
+title: "Scientific Research Funding"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Who picks up the tab for science?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Science supported by grants from government agencies, corporations, & private foundations**
+
+<br/>
+
+* **Grant proposals usually a part of doing science, especially at academic institutions**
+
+<br/>
+
+* **Less of an issue at government institutions**
+    + internal vs external funding
+
+<br/>
+
+* s**Not an issue at private companies**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/grant.png">
+
+## Where is the grant money going?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/trends.jpg">
+
+## Writing Proposals is an Essential Activity of Scientists
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Undergraduate**
+    + REU application (NSF)
+    + summer research programs in medicine (AAMC)
+    + grant in aid for research (Sigma XI)
+    + Fulbright Scholarships
+    
+<br/>
+
+* **Graduate School**
+    + NSF GREF program
+    + federal, state and private grants by field of study
+    + Fulbright Scholarships
+
+
+<br/>
+
+* **Post Docs**
+    + NRC research associate programs
+    + federal, state and private grants by field of study
+
+</div>
+
+<div style="float: right; width: 45%;">
+
+* **Faculty**
+    + NSF, NIH, DOE, etc..
+    + Dr. C: WVSR, Monarch alliance, WV Division of Forestry
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/proposal.png">
+
+## Sources of Funding in the Sciences
+<hr>
+**One of the most important first steps in acquiring funding, of course, is to know all the potential sources of funding for research in science:**
+
+<br/>
+<br/>
+
+National Science Foundation (NSF)
+<br/>
+Office of Naval Research (ONR)
+<br/>
+Department of Energy (DOE)
+<br/>
+Department of Education (DOEd)
+<br/>
+National Academy of Sciences (NAS)
+<br/>
+National Security Agency (NSA)
+<br/>
+Air Force Office of Scientific Research (AFOSR)
+<br/>
+Army Research Office (ARO)
+<br/>
+Defense Advance Research Projects Agency (DARPA)
+<br/>
+NASA WVU
+<br/>
+USDA National Institute of Food and Agriculture (NIFA)
+<br/>
+Environmental Protection Agency (EPA)
+<br/>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:450px; WIDTH:250px; HEIGHT:250px" SRC="images/nsf.png">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:720px; WIDTH:350px; HEIGHT:150px" SRC="images/doe.png">
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:600px; WIDTH:350px; HEIGHT:150px" SRC="images/nifa.png">
+
+## Sources of Funding in the Sciences: Medical 
+<hr>
+<br/>
+
+**The sources of funding for medical research are also vast**
+
+<br/>
+<br/>
+
+Agency for Healthcare Research and Quality (AHRQ)
+<br/>
+Alfred P. Sloan Foundation
+<br/>
+American Medical Association (AMA)
+<br/>
+Arnold P. Gold Foundation
+<br/>
+Arthur Vining Davis Foundations
+<br/>
+AstraZeneca Medical Education Research Grants
+<br/>
+National Institutes of Health (NIH)
+<br/>
+The Robert Wood Johnson Foundation
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:660px; WIDTH:300px; HEIGHT:150px" SRC="images/ama.png">
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:660px; WIDTH:300px; HEIGHT:150px" SRC="images/aamc.png">
+
+<IMG STYLE="position:absolute; TOP:520px; LEFT:660px; WIDTH:300px; HEIGHT:150px" SRC="images/nihlogo.png">
+
+## Sources of Funding in the Sciences
+<hr>
+<br/>
+
+**Increasing number of private funding sources for science:**
+
+<br/>
+
+**NY Times Sunday, March 15, 2014: “Billionaires With Big Ideas Are Privatizing American Science,” William J. Broad**
+
+<br/>
+<br/>
+
+Moore Foundation
+<br/>
+Simons
+<br/>
+Gates
+<br/>
+Ellison
+<br/>
+Brin
+<br/>
+Koch
+<br/>
+Bezos
+<br/>
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:220px; WIDTH:450px; HEIGHT:225px" SRC="images/gates.png">
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:680px; WIDTH:225px; HEIGHT:225px" SRC="images/bezos.jpg">
+
+## Searching for grants for your research...
+<hr>
+**Scientists must investigate various programs to find a potential match**
+
+<br/>
+
+**1. What projects are already funded?**
+<br/>
+
+There can’t be too much overlap of your proposed work with an
+existing program
+
+<br/>
+
+**2. What is the typical range of funding offered by the program?**
+<br/>
+
+You should have some idea of the typical funding range offered by
+the program, because your proposal can be dismissed outright if your
+budget requests are too extravagant
+
+<br/>
+
+**3. What are the stated program goals of the funding agency?**
+<br/>
+
+Make sure that your research goals can be, and are, written so as to
+coincide as closely as possible with the stated goals of the funding
+agency and the specific program!
+
+## How often do grants get funded? NIH
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/nihgrant.png">
+
+## How often do grants get funded? NSF
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/nsfawards.png">
+
+## Scientists are writing more grants than ever...
+<hr>
+
+<div style="float: left; width: 55%;">
+
+**There are currently over 900 federal grant programs offered by 26 different grant-making agencies (grants.gov)**
+
+<br/>
+
+* **In 2019, the federal government distributed $721 billion to states and local governments**
+    + ~16% of the United States budget. 
+
+<br/>
+
+* **In 2019, the United State’s Health & Human Services sector awarded approximately $531 billion total in grants**
+    + 29% of all awarded federal grants 
+    
+<br/>
+
+* **In 2019, NIH received 54,903 research project grants and funded 11,035**
+    + acceptance rate of 20%
+
+<br/>
+
+* **Between 2008 and 2019, Federal grants to states rose by 42% even after adjusting for inflation** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/cancer.jpg">
+
+## It is the exception to get funded, not the rule
+<hr>
+
+**The limited pot of research funds worldwide means competition is fierce. **
+
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **At NSF, proposals worth a total of almost US$4 billion were rejected in 2017 because they were beyond the organizations budget**
+    + reviewers had rated them as very good or excellent
+
+<br/>
+
+* **At the NIH, the aggregate success rate for research grants was 20.5% in 2017**
+
+<br/>
+
+* **At the biomedical-research funder Wellcome in London ~20% were funded in 2017–18**
+
+<br/>
+
+* **The National Health and Medical Research Council (Australia) had a success rate of 7% in 2019**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:745px; WIDTH:300px; HEIGHT:200px" SRC="images/reject2.jpg">
+
+## Is rejection culture toxic to science? 
+<hr>
+
+* **Academics’ careers are strongly linked to their success in publishing and funding applications**
+    + Unfortunately, rejection rates are high in both categories**
+
+<br/>
+
+<div style="float: left; width: 61%;">
+
+* **High rejections squander a valuable opportunity for professional learning and development**
+    + success is binary (y/n) unlike scientific learning
+
+<br/>
+
+* **High rejections waste an extraordinary amount of scientists time**
+
+<br/>
+
+* **Rejection culture contributes to stress and anxiety among academics**
+    + mental health problems 2x higher than general pop'
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:630px; WIDTH:500px; HEIGHT:350px" SRC="images/stress.jpg">
+    
+## Is grant funding biased in science? If so, WHY?!?
+<hr>
+
+* **Currently, more men submit grant applications than women (~66%)**
+
+<br/>
+
+* **Commonly, reviews of proposals are completed 'blind'**
+    + reviewers cannot know who wrote application
+
+
+<IMG STYLE="position:absolute; TOP:295px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/nihgender.jpg">
+
+
+## Kolev et al. 2019 findings
+<hr>
+
+* **A study by Kolev et al. 2019 found that women were still 16% less likely to get funded**
+    + data from 6700 Gates foundations Global Challenges application in 2017
+    
+<br/>
+
+* **Gender bias is not due to specific subject or field of science**
+
+<br/>
+
+* **Gender bias is not due to experience or number of publications**
+    + average male applicant is more senior w/ more publications, reflecting the history of gender bias in science
+    + women still have top rated publications (which matters)
+
+<br/>
+
+* **Language matters. Men tended to use more 'broad' words while women used 'narrow' words**
+    + word choice related to communication styles
+    + style vs substance
+    + mattered more when males where reviewers!!
+
+## Funding gaps *must* be closed in academia
+<hr>
+
+* **Necessary fix the leadership gap and salary gap that women scientists currently face**
+    + remember how success is determined in academia
+
+<br/>
+
+* **Each step up the ladder of the scientific research system sees a drop in female participation until, at the highest echelons of scientific research and decision-making, there are very few women left**
+    + aka 'leaky pipeline'
+    
+<IMG STYLE="position:absolute; TOP:330px; LEFT:350px; WIDTH:600px; HEIGHT:350px" SRC="images/pipeline.png">
+
+## Look around the room!!
+<hr>
+
+**Women slightly outnumber men pursuing bachelor’s and master’s degrees in science (53%), but their numbers drop off abruptly at PhD level**
+<br/>
+
+**The discrepancy widens at the researcher level, with men now representing 72% of the global pool**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/women2.png">
+
+## How are grant proposals evaluated?
+<hr>
+
+* **Intellectual Merit**
+    + potential for the proposed activity to advance knowledge and understanding within field or across  fields?
+    + are proposed activities creative, original, or potentially transformative concepts?
+    + is the plan for carrying out the proposed activities well-reasoned, well-organized, and based
+on a sound rationale?
+    + how well qualified is the individual or team to conduct the proposed activities?
+    + are there adequate resources available to the PI?
+    
+<br/>
+
+* **Broader Impacts**
+    + potential for a research project to benefit society or advance desired societal outcomes
+    + growing in importance of National Science Foundation
+    + e.g. building STEM talent or engaging wider audiences
+    
+<br/>
+
+* **Personal Statement to address how your activities address the Intellectual Merit & Broader**        
+
+## Why are broader impacts so important?
+<hr>
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:5px; WIDTH:350px; HEIGHT:500px" SRC="images/society.png"> -->
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/opinion.png">
+
+## Whats constitutes a typical grant?
+<hr>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:425px; HEIGHT:400px" SRC="images/whatsinside.png"> -->
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/nih.jpg">
+
+## Next time: You will be a NSF panel
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:425px; HEIGHT:200px" SRC="images/students.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:250px; HEIGHT:200px" SRC="images/grfp.jpg">
