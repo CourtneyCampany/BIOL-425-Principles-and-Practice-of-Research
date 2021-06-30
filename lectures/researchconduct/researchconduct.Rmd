@@ -1,5 +1,5 @@
 ---
-title: "Responsible conduct of research"
+title: "Responsible Conduct of Research"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -10,13 +10,13 @@ output:
 ## Brainstorm: What is research misconduct? 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/researchmisconduct.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:580px; HEIGHT:450px" SRC="images/researchmisconduct.png">
 
 ## Defining research misconduct
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 67%;">
 
 * **Fabrication, falsification or plagiarism in proposing, performing, reviewing and/or reporting research**
 
@@ -25,18 +25,18 @@ output:
 * **Fabrication/ Falsification of data**
     + enhancing digital Images partially
     + excluding data from articles, presentations, grants
-    + performing statistical analysis in a deliberately dishonest way.
+    + performing statistical analysis in a deliberately dishonest way
     + creating data that was never recorded or performed
 
 <br/>
 
 * **Plagiarism**
-    + copying text to use in a manuscript (article, thesis, grant, poster)
+    + copying text to use in a manuscript, article, thesis, grant or poster
     + republishing your own work (self-plagiarism)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/book.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:710px; WIDTH:350px; HEIGHT:450px" SRC="images/book.jpg">
 
 ## Why would anyone participate in research misconduct? 
 <hr>
@@ -45,14 +45,16 @@ output:
 **Science is a competitive, pressure-filled endeavor**
 
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:2505px; WIDTH:600px; HEIGHT:400px" SRC="images/science.png">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/science.png">
 
 ## Some famous cases of research misconduct
 <hr>
+<br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 65%;">
 
-**William Summerlin (1974): Claimed to have developed a method to prevent immune rejection of transplanted skin grafts.  He transplanted skin from black mice onto white mice. It was determined that he faked success by using a marker to color mouse skin.**
+**William Summerlin (1974): Claimed to have developed a method to prevent immune rejection of transplanted skin grafts. He transplanted skin from black mice onto white mice. It was determined that he faked success by using a marker to color mouse skin.**
 
 </div>
 
@@ -64,23 +66,25 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 70%;">
 
-**Stephen Breuning (1980s): A psychologist who purported to show that stimulant drugs (e.g. Ritalin) were more effective for treatment of hyperactivity in mentally retarded individuals.  This recommendation, which was incorporated into standards of care, was based on fraudulent data.**
+**Stephen Breuning (1980s): A psychologist who purported to show that stimulant drugs (e.g. Ritalin) were more effective for treatment of hyperactivity in mentally retarded individuals. This recommendation, which was incorporated into standards of care, was based on fraudulent data.**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:750px; WIDTH:225px; HEIGHT:250px" SRC="images/mouse.jpg">
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/ritalin.jpg">
+<IMG STYLE="position:absolute; TOP:410px; LEFT:50px; WIDTH:225px; HEIGHT:250px" SRC="images/ritalin.jpg">
 
 ## Why does research misconduct matter?…
 <hr>
 <br/>
 
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 65%;">
 
 **Andrew Wakefield (1998):  Wakefield published evidence for a connection between the MMR vaccine and autism in The Lancet based on fraudulent data.  He has since had his medical license stripped in the UK.**
 
@@ -94,21 +98,23 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 65%;">
 
 **Surgisphere (2020) claimed to have hospital data which was used to support studies of the effectiveness of hydroxychloroquine in treating COVID-19. Papers in The Lancet and New England Journal of Medicine were retracted in June 2020 when the data was found to be implausible.**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/mm5.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:325px; HEIGHT:250px" SRC="images/mmr.jpg">
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:750px; WIDTH:225px; HEIGHT:250px" SRC="images/virus.png">
+<IMG STYLE="position:absolute; TOP:360px; LEFT:770px; WIDTH:250px; HEIGHT:250px" SRC="images/virus.png">
 
 
 ## Maintaining public trust in science
 <hr>
-<br/>
 
 * **It is vital that the public trust science!**
 
@@ -120,7 +126,7 @@ output:
     + there is mandatory training in responsible conduct of research for anyone receiving research money from the NIH
     + large universities have offices devoted to accountability, compliance, and resolution of research misconduct issues
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/nih.png">
+<IMG STYLE="position:absolute; TOP:460px; LEFT:200px; WIDTH:700px; HEIGHT:200px" SRC="images/nih.png">
 
 ## COVID-19 State of Vaccine Confidence
 <hr>
@@ -132,8 +138,10 @@ output:
 
 ## COVID-19 State of Vaccine Confidence
 <hr>
+<br/>
+<br/>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 75%;">
 
 * **Highlights from CDC insights report (June 21 2021)**
     + pressure created by abundant marketing campaigns, unprecedented incentives,
@@ -149,25 +157,26 @@ COVID-19 vaccines for some
     
 <br/>
 
-**source: https://www.cdc.gov/vaccines/covid-19/downloads/SoVC-report-10-508.pdf**
+**https://www.cdc.gov/vaccines/covid-19/downloads/SoVC-report-10-508.pdf**
 
 </div>
 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:225px; HEIGHT:250px" SRC="images/jab.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:10px; WIDTH:300px; HEIGHT:200px" SRC="images/jab.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:650px; HEIGHT:600px" SRC="images/self.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:700px" SRC="images/self.png">
 
 ## Paper retractions as a measure of scientific misconduct
 <hr>
+<br/>
 
 * **Currently, ~ 4 of 10,000 papers are retracted**
     + millions of dollars have been granted to retracted research
     + biomedical retractions have not impacted patients (yet)
 
-<IMG STYLE="position:absolute; TOP:270px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/retraction.png">
+<IMG STYLE="position:absolute; TOP:320px; LEFT:50px; WIDTH:900px; HEIGHT:350px" SRC="images/retraction.png">
 
 ## Paper retractions as a measure of scientific misconduct
 <hr>
@@ -176,10 +185,16 @@ COVID-19 vaccines for some
     + introduction in 2004 of iThenticate, an inter-net-based plagiarism detection service
     + fake peer reviews occur when authors give journals email addresses that they control, allowing them to review their own manuscripts.      + Flawed images include instances of intentional manipulation and of error
 
-<IMG STYLE="position:absolute; TOP:370px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/retraction2.png">
+<IMG STYLE="position:absolute; TOP:330px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/retraction2.png">
 
 ## How can data be falsified? Shouldn’t peer review catch that?  
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
 
 * **Approximately 70% of research misconduct involves western blots**
 
@@ -191,33 +206,42 @@ COVID-19 vaccines for some
 
 * **Bands are easy to cut out in graphic software and move around, rotate, and splice together**
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/gel.png">
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:630px; WIDTH:400px; HEIGHT:315px" SRC="images/gel.png">
     
 ## Curing cancer with Photoshop?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:350px; WIDTH:400px; HEIGHT:450px" SRC="images/flip.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:325px; WIDTH:450px; HEIGHT:500px" SRC="images/flip.png">
 
 ## Bamboozling blots
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/blot.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/blot.png">
 
 ## Bamboozling blots
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:700px; HEIGHT:400px" SRC="images/flip2.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/flip2.png">
 
 ## Magic microscopy malfeasance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/scope.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/scope.png">
 
 ## Fluorescent flimflam
 <hr>
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/glow.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/glow.png">
+
+## Ecological hanly-panky
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:15px; WIDTH:600px; HEIGHT:350px" SRC="images/spider.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:595px; WIDTH:450px; HEIGHT:500px" SRC="images/coralfish.png">
 
 ## Responsible conduct of research is a wide umbrella	
 <hr>
@@ -255,24 +279,10 @@ COVID-19 vaccines for some
 
 **Social responsibility**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:425px; HEIGHT:400px" SRC="images/perspn.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:425px; HEIGHT:400px" SRC="images/perspn.png">
 
-## Mendeley resources and guides
+## Modern push to publish data and code
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
 
-**From the company:  https://www.mendeley.com/guides**
-
-<br/>
-
-**A Beginner’s Guide (U of Otago): https://otago-med.libguides.com/mendeley**
-
-<br/>
-
-**UC Davis:  https://www.library.ucdavis.edu/guide/mendeley/**
-
-
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:425px; HEIGHT:400px" SRC="images/journaldata.png">
 
