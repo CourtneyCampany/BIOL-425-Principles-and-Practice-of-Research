@@ -1,0 +1,474 @@
+---
+title: "Science Communication, Beyond the Journal"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Who communicates science
+<hr>
+
+<div style="float: left; width: 50%;">
+• Scientists
+<br/>
+
+• Science publishers
+<br/>
+
+• Science funders
+<br/>
+
+• Science fund raisers
+<br/>
+
+• Science policy-makers
+<br/>
+
+• Presidents
+<br/>
+
+• Politicians
+<br/>
+
+• Lobbyists
+<br/>
+
+• Entrepreneurs
+<br/>
+
+• Venture Capitalists
+<br/>
+
+• Investors
+<br/>
+
+• Advertisers
+</div>
+
+<div style="float: right; width: 50%;">
+• Teachers
+<br/>
+
+• Consumers
+<br/>
+
+• Doctors
+<br/>
+
+• Patients
+<br/>
+
+• Medical insurers
+<br/>
+
+• Journalists
+<br/>
+
+• PR consultants
+<br/>
+
+• Broadcasters
+<br/>
+
+• Film makers
+<br/>
+
+• Playwrights
+<br/>
+
+• Museum curators
+<br/>
+
+• Bloggers
+<br/>
+
+</div>
+
+
+## Professional Science Communication
+<hr>
+<br/>
+
+**Brainstorm: Why do scientists communicate with each other?**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/brain.jpg">
+
+## Professional Science Communication
+<hr>
+<br/>
+
+**Why do scientists communicate with each other?**
+
+<br/>
+
+**Because science is social**
+
+<br/>
+
+**Because scientists depend on each other for ideas and information**
+
+<br/>
+
+**Because the first requirement of a successful scientist is that s/he succeeds in persuading other scientists that s/he is a successful knowledge producer**
+
+<br/>
+
+**Because scientists are professional critics of their colleagues’ work**
+
+<br/>
+
+**Because the peer reviewed research paper is the official record of scientific achievement**
+
+## Popular Science Communication
+<hr>
+<br/>
+**Why do scientists engage in popularization?**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/popular.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/scicom2.png">
+
+## Popular Science Communication
+<hr>
+
+**Why do scientists engage in popularization?**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**To share their enthusiasm with others**
+<br/>
+
+**To “pay back” to society**
+<br/>
+
+**To educate the next generation of scientists**
+<br/>
+
+**To earn money or fame**
+<br/>
+
+**To win research grants**
+<br/>
+
+**To satisfy the requirements of grant-givers**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+**To advance particular ideas or theories**
+<br/>
+
+**To pursue arguments with opponents**
+<br/>
+
+**To define particular scientific fields or disciplines**
+<br/>
+
+**To persuade policy-makers and funders to support particular areas of research**
+<br/>
+
+**To pursue arguments with opponents**
+<br/>
+
+**To define particular scientific fields or disciplines**
+
+<br/>
+**To persuade policy-makers and funders to support particular areas of research**
+
+</div>
+
+## Why scientists should communnicate science...
+<hr>
+<div style="float: left; width: 60%;">
+* **Communicating science effectively needs more than facts**
+
+<br/>
+
+* **Fake news seems to be a new phenomenon, but fake science news is not new**
+    + especially relevant in medical biology
+
+<br/>
+
+* **Alternative facts have plagued science for decades**
+
+</div>
+
+<br/>
+<br/>
+
+<div style="float: left; width: 95%;">
+
+
+“My friends told me I shouldn’t take these toxic drugs — I should use natural medicine instead.”
+<br/>
+
+“We were going to save up to buy a water alkaliniser. Could we alkalinise the water she’s given in hospital?”
+<br/>
+
+“What if I just take turmeric instead? My son said it’s as good as the drugs.”
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:725px; WIDTH:300px; HEIGHT:200px" SRC="images/facts.jpg">
+
+## Why this should matter to you, as a next gen scientist...
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/cancer.png">
+
+<div style="float: right; width: 50%;">
+
+**Patients with cancer who rejected conventional anticancer treatments (surgery, hormone therapy, radiotherapy, chemotherapy) in favor of alternative medicine were two-and-a-half times less likely to be alive after five years.**
+
+</div>
+
+## Lets discuss...
+<hr>
+<br/>
+
+* **The appeal of alternative medicine is well recognized**
+    + are they empty promises behind friendly faces?
+
+<br/>
+
+* **Some complementary treatments (meditation/acupunture) to produce clinical benefits**
+    + should anyone ever reject proven treatments?
+
+<br/>
+
+* **Who is at fault?**
+    + Should we be scrutinizing alternative facts or has science been poorly communicated?
+
+<br/>
+
+* **Who do you think is most vulnerable to alternative science facts?**
+    + Why?
+
+## The role of education and media in altertive science facts
+<hr>
+<br/>
+
+* **In the same cancer study, those with higher levels of education were more likely to reject conventional treatment!!!!**
+    + suggests that those who should be able to weigh evidence, dont do it
+    
+<br/>
+
+* **Younger people are more likely to choose alternative treatments**
+    + 90% of 18-24 yr old engage with social media for health info
+    + social media often the primary information source
+
+<br/>
+
+* **The role of social media in promoting or enforcing behaviors can lead to alternative facts based beliefs which are hard to shift**
+    + homophily
+
+    
+##
+    
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/engage.png">
+
+## Implications for the health industry
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:550px; HEIGHT:450px" SRC="images/socialmediahealth.png">
+
+<div style="float: right; width: 45%;">
+* **Business strategies that include social media can help health industry companies to take a more active, engaged role in managing individuals’ health. **
+
+<br/>
+
+* **Organizations should coordinate integrate information from the social media space and connect with their customers in more meaningful ways that provide value and increase trust.**
+    + better positioned to meet needs of consumers
+
+</div>
+
+## Why is science communication so relevant...
+<hr>
+
+<div style="float: left; width: 65%;">
+* **Professional science communicators are important in keeping science in the public eye**
+
+<br/>
+
+* **Scientists have the responsibility and the privilege to be science communicators in our daily lives, to our friends, family and neighbors**
+
+<br/>
+
+* **In the modern age of communication, scientist mush understand where people are coming from**
+    + enthusiastic about wonder cures
+    + scared for their children
+    + anxious about the future
+
+<br/>
+
+* **We share the same feelings, but as scientists we have a different relationship with evidence**
+
+<br/>
+
+* **Why is there such a disconnect?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:265px; LEFT:705px; WIDTH:400px; HEIGHT:300px" SRC="images/comm2.jpg">
+
+## Fact-based approach to Sci Comm can be off-putting
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+**Scientists need to be great at communicating on 2 different levels**
+<br/>
+
+**1. Communicating our research effectively to other scientists**
+<br/>
+
+**2. Effective in making our science accessible to all**
+
+<br/>
+
+* **Every scientists should be able to communicate the 'hook' of their research**
+    + why it matters to anyone off the street
+    + we will practice this with the 3MT
+    + makes you a better scientist!
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:670px; WIDTH:375px; HEIGHT:400px" SRC="images/method.png">
+
+## The path for effective popular science communication is muddy
+<hr>
+<br/>
+
+* **Public skepticism regarding science covers many domains**
+
+<br/>
+<br/>
+
+* **Political ideology interacts with climate change skepticism **
+
+<br/>
+
+* **Religious ideology interacts with vaccine skepticism**
+    + also with science funding
+    
+<br/>
+
+* **Level of education interacts with skepticism about genetic modifications**
+
+</div>
+
+
+## Major arguments for promoting popular Sci Comm
+<hr>
+<br/>
+
+* **Pipeline Argument:** continued health of science depends on each generation of scientists enthusing the best and brightest of the next generation to become scientists
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/nextgen.gif">
+
+
+## Major arguments for promoting popular Sci Comm
+<hr>
+<br/>
+
+* **Practical Argument:** An adequate knowledge of science is vitally important to individuals’ health, wealth and well-being
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/people.jpg">
+
+## Diet books as Science Communication
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div style="float: left; width: 55%;">
+
+**Lulu Hunt Peters, Diet and Health with the key to the calories, 1918**
+
+<br/>
+
+**The first successful modern diet book, selling some 2 million copies, Diet and Health introduced many people to the concept of ‘calories’**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/book.jpg">
+
+## Major arguments for promoting popular Sci Comm
+<hr>
+<br/>
+
+* **Cultural Argument:** Science is inherently valuable, and should be communicated to the public as a key part of culture
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:375px" SRC="images/power.jpg">
+
+## Major arguments for promoting popular Sci Comm
+<hr>
+<br/>
+
+* **Political Argument:** Science is directly or indirectly relevant to a great deal of public policy, so people need to understand science in order exercise their democratic duties as citizens
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/politics.jpg">
+
+## Why am I telling you this?
+<hr>
+<br/>
+
+* **Popular science communication can be a career**
+ <br/>
+ <br/>
+ 
+* **Science writing**
+    + newspapers, magazines, books, journal blogs
+<br/>
+
+* **Science broadcasting**
+    + radio, TV
+    + >1600 NPR Scicommers (incuding undergrads)
+    + nprscicommers@gmail.com
+<br/>
+
+* **Science museums and events**
+    + science cafes, science festivals, etc.
+<br/>
+
+* **Science on the web**
+    + multi-media for various companies
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:560px; WIDTH:500px; HEIGHT:350px" SRC="images/career.jpg">
+
+## For next time
+<hr>
+<br/>
+
+* **Select any science, engineering or technology topic that interests you**
+
+<br/>
+
+* **Explore this topic in the 'professional' or 'popular' sense (or both)**
+
+<br/>
+
+* **Prepare a 2-minute oral presentation, for a smart but uninformed, non-specialist audience**
+    + no notes allowed
+    
+* **Try not to stress, this is just practice**
