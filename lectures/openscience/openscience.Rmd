@@ -9,22 +9,35 @@ output:
 
 ## New age of open science
 <hr>
+<br/>
+<br/>
+<br/>
 
-* **"Open Science" is something of an umbrella term encompassing everything related to reproducible, transparent science.**
+<div style="float: right; width: 60%;">
+
+* **"Open Science" = umbrella term encompassing everything related to reproducible, transparent science.**
+    + *reproducible science* = 
+    
+<br/>
+
+* **Movement to make all scientific data, methods, and materials accessible to all levels of society**
 
 <br/>
 
-* **meant to appeal to every area of science, from life sciences to computational sciences to theoretical sciences.**
+* **Appeals to every area of science, from life sciences to computational sciences to theoretical sciences.**
 
-<br/>
-
-* **movement to make all scientific data, methods, and materials accessible to all levels of society**
+</div>
 
 
-<IMG STYLE="position:absolute; TOP:141px; LEFT:750px; WIDTH:200px; HEIGHT:200px" SRC="images/open.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/umbrella.jpg">
 
 ## Why is 'Open Science' a good thing?
 <hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 65%;">
 
 * **The vast majority of research is publicly funded**
     + logical that the public have access to it!
@@ -33,55 +46,112 @@ output:
 
 * **Open and transparent research makes peer review and replication much easier**
 
+
+<br/>
+<br/>
+<br/>
 <br/>
 
-* **There is some convincing evidence that Open Science gives projects more downstream impact in the scientific community**
+* **There is evidence that Open Science gives projects more downstream impact in the scientific community**
+    + *question* - how would this concept work with cancer research?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:450px; HEIGHT:300px" SRC="images/open5.jpg">
 
 ## Major themes that comprise 'Open Science' guidelines
 <hr>
+<br/>
 
 **Open data: all data used in the project should be made available.**
+
 <br/>
 
 **Open source: all code written in the project should be publicly available.**
+
 <br/>
 
 **Open methods: the exact procedure of the project is publicly documented.**
+
 <br/>
 
 **Open review: correspondence between reviewers and authors is public.**
+
 <br/>
 
 **Open access: resulting publications are publicly available.**
+
 <br/>
 
 **Open education: all education materials are publicly available**
 
 ## Open data is the core of 'Open Science'
+<hr>
+<br/>
 
-* **All of the data used in your study and experiments are published online.**
+* **Publish all of the data used in your study and experiments online.**
 
 <br/>
 
-* **This is definitely a shift from prior precedent; most raw data from scientific experiments remain cloistered.**
+* **Definite shift from prior precedent**
+    + most raw data from scientific experiments not available
 
 <br/>
 
-* **Repositories and online data banks have sprung up around this idea. Many research institutions host their own open data repositories, as do some large tech companies.**
+* **Many repositories and online data banks now exist**
+    + authors still given credit (DOI)
+    + Many research institutions/companies host their own open data repositories
 
 <br/>
 
 * **Amazon has released its own set of large public datasets:**
     + https://aws.amazon.com/public-data-sets/
     
-## Can you use these data for your capstone: YES
+<IMG STYLE="position:absolute; TOP:170px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/data.png">
+
+
+## Brainstorm: Are there any issues with 'Open Science'?
 <hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/storm.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/open3.jpg">
+
+## Can you use these data for your capstone: YES!!!
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/capstone.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Explore data portals based on your career interest**
+    + ecological &rarr; health care
+    
+<br/>
+
+* **Propose a scientific question**
+
+<br/>
+
+* **Make sure that the data is not published**
+    + if it is, use in review-type paper
+
+<br/>
+
+* **Work with Dr. C to download data**
+    + data sets can be really big
+    
+</div>
 
 ## National Ecological Observation Network (NEON)
 <hr>
 <br/>
 
-* **Offers expert ecological data from sites across the continent to power the most important science being done today** 
+* **Offers ecological data from sites across the continent to fuel current ecological science** 
 
 <br />
 
@@ -97,7 +167,9 @@ output:
     
 <br />    
 
-* **Data is free to use!!
+* **Data is free to use!!**
+
+<IMG STYLE="position:absolute; TOP:510px; LEFT:525px; WIDTH:500px; HEIGHT:135px" SRC="images/neon.png">
 
 ## https://www.neonscience.org/data
 <hr>
@@ -105,12 +177,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/map.png">
 
-## Lots of medical and public health databases
+## Lots of medical, human population and public health databases
 <hr>
 <br />
+<br />
 
-
-* **Center of Disease Control**
+* **Center of Disease Control (CDC)**
     + public health data
 
 <br />
@@ -123,43 +195,52 @@ output:
 
 <br />
 
-* **World Health Organization (WHO)
+* **World Health Organization (WHO)**
 
-* **SEER
+<br />
+
+* **SEER**
 
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paper.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:300px; HEIGHT:300px" SRC="images/covid.png">
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:600px; WIDTH:300px; HEIGHT:150px" SRC="images/covid2.png">
 
 ## CDC Wonder
 <hr>
 <br />
 
 * **An integrated information and communication system for public health by the CDC**
-    + promote information-driven decision making by placing timely, useful facts in the hands of public health practitioners and researchers, and
+    + promote information-driven decision making by placing timely, useful facts in the hands of public health practitioners and researchers
     + To provide the general public with access to specific and detailed information from CDC.
     
- <br />
- 
-**Wide-ranging Online Data for Epidemiologic Research**
+<br />
+<br />
+  
+**Wide-ranging data portal for epidemiologic research**
 
 <br />
 
-**Access to a wide array of public health information.**
+**Access to a wide array of public health information**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/cdc.jpg">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/cdc.jpg">
 
 ## https://wonder.cdc.gov/
 <hr>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:250px; WIDTH:6700px; HEIGHT:400px" SRC="images/graph.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:1000px; HEIGHT:475px" SRC="images/graph.png">
 
 ## 1000 Genomes Project
 <hr>
 <br/>
+<br/>
+<br/>
 
-* **established the most detailed catalogue of human genetic variation**
+<div style="float: left; width: 50%;">
+
+* **Detailed catalogs of human genetic variation**
 
 <br/>
 
@@ -167,84 +248,97 @@ output:
 
 <br/>
 
-* **Produced an integrated set of phased haplotypes with more than 80 million variants for these individuals**
+* **Integrated set of phased haplotypes with more than 80 million variants for these individuals**
+    + group of genes within an organism that was inherited together from a single parent
+</div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/1000genomes.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:560px; WIDTH:500px; HEIGHT:500px" SRC="images/1000genomes.jpg">
 
 ## https://www.internationalgenome.org/data-portal/sample
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/genomes.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/genomes.jpg">
 
 ## Data.gov
 <hr>
 <br/>
 
-<div style="float: left; width: 68%;">
+* **Home of the U.S. Government’s open data**
+    + over 300,000 data sets
+    + includes a broad coverage of science data
 
-* **A systematic review of a focused topic in the literature that provides a quantitative estimate for the effect of an experimental treatment**
-    + Used to examine a specific issue to determine whether a conclusion can be reached regarding the effect of a treatment or exposure
-    + Often used to address controversial issues in medicine
-    + Used to understand global patterns in ecology
+<br/>
+
+* **Data, accountability, and transparency: creating a data strategy and infrastructure for the future**
+
+<br/>
+
+* **Federal Data Strategy (FDS) encompasses a 10-year vision for how the Federal Government will accelerate the use of data to deliver on mission, serve the public, and steward resources while protecting security, privacy, and confidentiality.**
+
+<div style="float: left; width: 68%;">
 
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:780px; WIDTH:275px; HEIGHT:300px" SRC="images/literature.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:50px" SRC="images/datagov.png">
+
+<IMG STYLE="position:absolute; TOP:520px; LEFT:150px; WIDTH:800px; HEIGHT:150px" SRC="images/datagov2.png">
 
 ## https://labs.data.gov/dashboard/offices/qa
 <hr>
 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/datagov3.png">
 
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/meta.png">
-
-**“The lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.”**
-
-
-## World Health Organization
+## World Health Organization (WHO)
 <hr>
 
-**Mycorrhizal association as a primary control of the CO 2 fertilization effect (Science 2016)**
+* **Founded in 1948, WHO is the United Nations agency that connects nations, partners and people to promote health, keep the world safe and serve the vulnerable**
+
+<div style="float: left; width: 65%;">
+
 <br/>
 
+* **WHO manages and maintains a wide range of data collections related to global health**
 
+<br/>
 
-<IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/concept2.jpg">
+* **WHO has several global missions:**
+    + leads global efforts to expand universal health coverage
+    + direct and coordinate the world’s response to health emergencies
+    + promote healthier lives – from pregnancy through old age
+
+<br/>
+
+* **The Global Health Observatory (GHO) data repository is WHO's portal to health-related statistics**
+    + provides access to over 1000 health topics indicators
+    + many available to download
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:400px; HEIGHT:150px" SRC="images/who.jpg">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:725px; WIDTH:350px; HEIGHT:250px" SRC="images/whobillion.jpg">
+
 
 ## https://www.who.int/data
 <hr>
 
-* **Papers will be reviewed as drafts being submitted for peer review at a journal (i.e. not rough drafts).**
-    + However, the paper is the work of the student and not a professional
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/whocovid.png">
 
-<br/>
-
-* **Papers must contain every sections appropriate to that type of paper.**
-
-<br/>
-
-* **The text will be reviewed for scientific content.  The paper should be written with sufficient detail that a reviewer can understand the project's rationale and conclusions without being an expert in the field.**
-
-<br/>
-
-* **The text will be evaluated for quality of writing, including sentence structure, word usage, grammar spelling, and other writing mechanics.**
-
-<br/>
-
-* **Papers will also be reviewed for technical elements such as appropriate use of references and citations, figure legends, reference citations, and appropriate figure legends.**
-
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:200px; HEIGHT:200px" SRC="images/quill.jpg">
-
-## How will the capstone paper be evaluated?
+## Workshop Assignment: Exploring open data portals
 <hr>
+<br/>
+<br/>
+<br/>
 
-**Rough and final drafts of your capstone paper will be evaluated according to a rubric on Brighspace**
+* **Download the assignment worksheet from Brightspace**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/grade.png">
+<br/>
 
-## Content, style and error-free writing matter!
-<hr>
+* **Using the available data portals from WHO, explore data trends and collaboratively propose questions that can only be answered with large open data sets**
+    + focus on the Triple Billion Targets or the Covid-19 Dashboard
+    
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/grade2.png">
+* **Work in collaborative teams up to 3 people**
+    + submit your own work
