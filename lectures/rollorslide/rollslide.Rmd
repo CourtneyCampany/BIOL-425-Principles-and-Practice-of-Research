@@ -1,0 +1,143 @@
+---
+title: "Does water roll or slide?"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Investigate a simple scientific question in one day...
+<hr>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Drops in motion: When liquids are moved on a surface, similar frictional forces arise as those acting on solid bodies**
+    
+<br/>
+
+* **The behaviour of droplets plays an important role in science and technology**
+    + rotary printing press
+    + plant ecophysiology
+    + how raindrops roll off window panes
+    + drainage of tear ducts in corner of eyes
+    
+<br/>
+
+* **Todays Goal: Shed light on the questions of whether drops roll or slide over a surface**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:400px; HEIGHT:200px" SRC="images/guttation.png">
+
+## Drops in motion: the basics
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **You are familiar with this phenomenon: water drops cling to a pane of glass**
+    + even if it is tilted past horizontal
+    
+<br/>
+
+* **After a certain angle is reached, water drops slide off**
+    + liquid overcomes static friction
+    
+<br/>
+
+* **The puzzle remains: when the drops move, are the *rolling over* or *sliding on* the surface?**
+    + is it possible that both are true?
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/drop.jpg">
+
+## Properties of molecules: The Basics
+<hr>
+
+<div style="float: left; width: 50%;">
+
+
+* **Cohesion = attraction of molecules for other molecules of the same kind**
+    + water molecules have strong cohesive forces (thanks to hydrogen bonds)
+    + responsible for *surface tension*
+    + water drops = ?
+
+</div>
+
+<div style="float: left; width: 50%;">
+
+* **Adhesion = attraction of molecules of one kind for molecules of a different kind**
+    + strong for water, especially with other molecules bearing positive or negative charges.
+    +  water can “climb” upwards through thin glass tubes (capillary action)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/adhesion.png">
+
+## Properties of Water: The Basics
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+
+* **Hydrophobic: Non-polar molecules that repel the water molecules**
+    + ketchup bottles where the condiment just glides right out
+    + glasses that never fog
+
+<br/>
+<br/>
+
+* **Hydrophilic: molecules forming ionic or a hydrogen bond with the water molecule**
+    + e.g., hydrophilic beach towel consists of thousands of tiny loops of fabric. 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/hydro.jpg">
+
+
+## Today: Design, test and report on 'Water drops in motion'
+<hr>
+<br/>
+
+* **In the room is a box of equipment**
+    + some or all of these things might be useful
+
+<br/>
+
+* **Design an experiment to measure our central question, starting with a water drop at rest**
+
+<br/>
+
+* **Things to consider:**
+    + what surfaces to use (and why)
+    + how will you 'see' how water is moving
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:575px; WIDTH:450px; HEIGHT:300px" SRC="images/experiment.jpg">
+
+
+## Report submitted to Brightspace
+<hr>
+<br/>
+
+* **Work in teams of 2 people**
+    + turn in your own work
+
+<br/>
+
+* **Assignment components:**
+    + Hypothesis
+    + Brief methods for each test
+    + Results from each test
+    + Conclusions
+
+<br/>
+
+* **The assignment should be approx. 1 page. The goal is to practice simply reporting aspects of an experiment**
