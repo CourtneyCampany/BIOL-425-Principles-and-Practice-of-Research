@@ -1,0 +1,173 @@
+---
+title: "The importance of active voice in your writing…"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Too many words
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **Our thoughts can be disorganized and tangled up. Particularly when worried about tackling an important assignment like the capstone paper**
+
+<br/>
+
+* **This will inevitably lead to disorganized writing**
+
+    
+<br/>
+
+* **This disorganization almost always causes us to use too many words to say things**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:745px; WIDTH:250px; HEIGHT:500px" SRC="images/person.jpg">
+
+## Eliminate complicated words
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **One of the best ways to make your writing easier on readers is to eliminate complicated words**
+
+<br/>
+
+* **While many people utilize big words to sound more sophisticated, you should use more common synonyms if they exist. **
+    + Dr. C insists on the K.I.S.S principle
+    + the goal is to share ideas, NOT impress
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/faulk.png">
+
+## Active voice vs. passive voice
+<hr>
+<br/>
+
+* **In a sentence written in the active voice, the subject of sentence performs the action:**
+
+<br/>
+
+**The candidate believes that Congress must place a ceiling on the budget.**
+<br/>
+<span  style="color:green">12 words = :) </span> 
+
+<br/>
+
+* **In a sentence written in the passive voice, the subject receives the action:**
+
+<br/>
+
+**It is believed by the candidate that a ceiling must be placed on the budget by Congress.**
+<br/>
+<span  style="color:red">17 words = :( </span> 
+
+## Active voice vs. passive voice
+<hr>
+<br/>
+
+* **Sentences in the passive voice tend to:**
+    + Use more words 
+    + Cause a tangle of prepositional phrases (subject often buried next to ‘by’)
+    + Confuse the reader by making things more complicated than necessary
+    
+<br/>
+
+<span  style="color:red">Passive:</span> **It has been demonstrated by researchers that heart attacks can be caused by high stress.**
+<br/>
+<span  style="color:green">Active:</span> **Researchers have demonstrated that high stress can cause heart attacks.**
+
+<span  style="color:red">Passive:</span> **The man was bitten by the dog.**
+<br/>
+<span  style="color:green">Active:</span> **The dog bit the man.**
+
+
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:50px; WIDTH:1000px; HEIGHT:125px" SRC="images/moral.png">
+
+
+## Converting sentences to active voice
+<hr>
+<br/>
+
+<span style="color:red">Passive:</span> **It has been demonstrated by researchers that heart attacks can be caused by high stress.**
+<br/>
+
+<span style="color:green">Active:</span> **Researchers have demonstrated that high stress can cause heart attacks.**
+
+<br/>
+<br/>
+
+* **Some tips and strategies for converting sentences from the passive to the active voice:**
+    + Look for a “by” phrase (e.g., “by the dog” in the previous slide). If you find one, the sentence may be in the passive voice
+    + Rewrite the sentence so that a subject buried in the “by” clause is closer to the sentence beginning
+    + If the subject of the sentence is not clear, see if you can use a general term, such as “researchers,” or “the study,” or “experts in this field.”
+    + This sentence ‘flipping’ puts the subject first and often removes
+unnecessary words
+
+## More Pro Tips for active voice
+<hr>
+<br/>
+
+* **Swap ‘ing’ for ‘ed’. Words ending in ‘ing’ tend to be more passive than ‘ed’**
+
+<br/>
+
+* **Go easy on the adverbs. Although it may be more descriptive, too many adverbs slow down your writing and interrupts the flow.**
+    + If your verb isn’t strong enough (meaning you need to add adverbs), consider changing it.
+    
+<br/>
+
+* **Don’t be afraid to add the ‘person’ into your writing. Science writing is changing! It is now more accepted to write in the first person (e.g., we found…, our results show…).**
+    + Using the first person humanizes your work and makes it more enjoyable to read for a broader audience. 
+
+## Pro Tips: Write with the reader in mind
+<hr>
+<br/>
+
+* **Readers do not simply read; they interpret. Any piece of writing, no matter how short, may mean different things to different readers. Choose your words carefully and make sure your writing is suitable for a broad audience**
+    + beginner,intermediate and advanced scientist in the field
+ 
+<br/>
+ 
+* **Avoid statements like “obviously” or “as everyone knows” at the beginning of sentences.**
+    + The purpose of science writing is not to establish your intellectual superiority.
+    
+<br/>
+
+* **Never make the reader assume. Be extremely careful with use of pronouns like “it’ or ‘they” in your sentences.**
+    + You are probably referring to something specific from the previous sentence. However, you could be referring to a certain part of the sentence or something else in the paragraph. 
+    + In science writing, we spell it out for reader…every single time.
+    + Never start a sentence with 'It'.
+
+## Workshop assignment
+<hr>
+<br/>
+
+**In this week’s workshop assignment (found on Brightspace), you will identify the subject and verb in passive sentences and rewrite them in the active voice.**
+
+<br/>
+
+* **Work on your own, but verify your answers with your peers**
+
+<br/>
+
+* **Due by Friday @ 5pm BUT turn them in today!**
+
