@@ -50,7 +50,7 @@ output:
 <br />
 <br />
 
-* **Love to teach!!**
+* **New Tri-Beta adviser**
 
 <br />
 
@@ -68,16 +68,15 @@ output:
 ## What the heck is a capstone?  
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:550px; HEIGHT:450px" SRC="images/pyramid2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:165px; WIDTH:775px; HEIGHT:475px" SRC="images/pyramid3.jpg">
 
-## What the heck is a capstone?  
+## Great pyramid of Giza: missing capstone...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:775px; HEIGHT:475px" SRC="images/pyramid3.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/missingcapstone.jpg">
 
 
-
-## Goals of the capstone class
+## Goals of the capstone class for the biology department
 <hr>
 <br/>
 
@@ -103,42 +102,47 @@ output:
 
 * **Build your resume**
 
-<br/><IMG STYLE="position:absolute; TOP:250px; LEFT:580px; WIDTH:550px; HEIGHT:300px" SRC="images/cloud.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:580px; WIDTH:550px; HEIGHT:300px" SRC="images/cloud.jpg">
 
 ## Structure of the class:  Lecture, workshops, and writing sessions
 <hr>
 <br/>
 
-* **Always bring your laptop**
+* **Always bring your laptop, if you can**
 
 <br/>
 
 * **Live lectures Mondays and Wednesdays**
     + My goal is for the class to be as interactive as possible
-    + Each week a checklist containing the schedule will be posted on Brightspace
+    + Schedule will be posted on Brightspace in the syllabus
     + Slides for each lecture will be posted on Sakai
+    
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/caspstone3.png">
+
 
 ## Structure of the class:  Lecture, workshops, and writing sessions
 <hr>
 <br/>
 
-* **Always bring your laptop**
+* **Always bring your laptop, if you can**
 
 <br/>
 
 * **Live lectures Mondays and Wednesdays**
     + My goal is for the class to be as interactive as possible
-    + Checklist with weekly schedule will be posted on Brightspace
+    + Schedule will be posted on Brightspace in the syllabus
     + Slides for each lecture will be posted on Sakai
 
 <br/>
 
 * **Weekly live workshops during laboratory period**
     + Focus on a specific topic in more detail
-    + Attendance with is required
-    + Workshops will vary in length but will typically involve a discussion, working with a partner, and/or activity assignment
+    + Attendance is required
+    + Workshops vary in length but will typically involve a discussion and an activity
     + Assignments due on Brightspace at 5pm on the Friday after the workshop** 
 
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/caspstone3.png">
+  
 ## Structure of the class:  Lecture, workshops, and writing sessions
 <hr>
 <br/>
@@ -151,64 +155,91 @@ output:
 * **Fridays are in-person Writing sessions**
     + Writing is time intensive and requires discussion
     + I will be available as an in-person resource
-    + Significant progress towards project completion will be made
+    + Significant progress towards capstone completion will be made together
     
 <br/>
 
 * **A progress journal will be submitted at the end of each session (for points)**
+    + you are required to attend 10 sessions (20 points total)
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:850px; WIDTH:200px; HEIGHT:300px" SRC="images/shutup.png">
 
 ## Course syllabus has a detailed schedule
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 30%;">
-
-**This class has a lot of deadlines**
+* **This class has a lot of major deadlines**
+    + *Topic Declaration (September 3)*
+    + *Capstone Outline - First draft (September 17)*
+    + *Full Project Outline (October 1)*
+    + *Capstone First Draft for faculty review (October 22)*
+    + Capstone Peer Review (October 29)
+    + *Capstone Poster Draft (November 5)*
+    + *Capstone Poster (November 29)*
+    + *Poster Presentations (December 1)*
+    + *Capstone Paper (December 3)*
+    + 2 Take Home exams
 
 <br/>
 
-**Assignments with asterisks are required to pass the course**
+* **Assignments in *italics* are required to pass the course**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:375px; HEIGHT:400px" SRC="images/question.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:269px; HEIGHT:200px" SRC="images/deadline.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/questions.jpg">
-
-## The capstone project
+## We are now using Brightspace...
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-* **You will choose a biological topic of interest to you and prepare a semester-long research project consisting of:**
-    + A research paper
-    + A scientific poster and presentation
+https://brightspace.shepherd.edu/d2l/home
+
+<br/>
+<br/>
+
+**All class resources are in CONTENT**
 
 <br/>
 
-* **This is not a book report:  An important aspect of the project is its novelty—your goal is to synthesize information around a topic and draw conclusions about a hypothesis or question**
+**Let me know if something seems off!**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:300px; HEIGHT:500px" SRC="images/questions.jpg">
+
+## The Capstone project
+<hr>
+<br/>
+
+* **You will choose a biological topic of interest to you and prepare a semester-long research project**
+    + A research paper
+    + A scientific poster and presentation
+    + A elevator talk to general public (3 minute thesis)
+
+<br/>
+
+* **Your will synthesize information around a topic and draw conclusions about a hypothesis/question**
     + you must address a scientific question
 
 <br/>
 
-* **Your capstone project will be prepared as:**
-    + a data-driven scientific paper using original research, OR 
-    + a literature ‘meta-analysis’ (i.e., use some form of statistical analysis)
+* **We will learn about the different types of Capstone papers next lecture**
 
 <br/>
 
-* **Various aspects of both parts will be evaluated and critiqued by me, other biology faculty members, and your classmates**
+* **Various aspects will be evaluated and critiqued by me, biology faculty members, and your peers**
 
 ## How will the capstone paper be evaluated?
 <hr>
 
 * **You will submit the paper in steps over the semester:**
     + Topic declaration
-    + Rough outline with references
+    + First outline draft with references
     + Expanded outline
-    + Rough draft
+    + First draft
     + Final paper
 
 <br/>
@@ -222,7 +253,7 @@ output:
 <br/>
 
 * **The final draft of your capstone paper will be graded by me**
-    + rubric on Brightspace**
+    + Rubric on Brightspace
 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:200px; HEIGHT:200px" SRC="images/grade.jpg">
@@ -256,7 +287,7 @@ output:
 ## 3-Minute Thesis competition
 <hr>
 
-* **This semester we will run the first annual capstone 3-M Thesis**
+* **This semester we will run the first annual Capstone 3-M Thesis**
 
 <br/>
 
@@ -266,7 +297,7 @@ output:
 <br/>
 
 * **Rules:**
-    + One static PowerPoint slide (no transitions or animations)
+    + one static PowerPoint slide (no transitions or animations)
     + no other media allowed
     + no props
     spoken word only (no poems, raps or songs)
@@ -293,11 +324,11 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Lecture and workshop materials**
-    + Knowledge check #1 ()
-    + Knowledge check #2 ()
-    + Workshop activities (50 points)
+    + <span style="color:red">*Knowledge check #1 (50 points)*</span>
+    + <span style="color:red">*Knowledge check #2 (50 pints)*</span>
+    + Workshop activities (60 points)
     + Presentation evaluations (15 points)
-    + Progress Journal (15 points)
+    + Progress Journal (20 points)
     
 <br/>
 
@@ -307,7 +338,8 @@ output:
 
 <div style="float: right; width: 50%;">
 
-* **Capstone Paper (% of Grade)**
+* **Capstone Paper**
+    + Topic declaration (5 points)
     + Rough outline (10 points)
     + Full project outline (10 points)
     + Student peer review (10 points)
@@ -324,6 +356,7 @@ output:
 
 ## A word about plagiarism…
 <hr>
+<br/>
 
 **We will devote at least one entire class to plagiarism—what it is and how to avoid it**
 
@@ -336,10 +369,6 @@ output:
     + utilize writing sessions to avoid plagiarism
     + utilize the writing center to avoid plagiarism
     + utilize peers to avoid plagiarism
-
-<br/>
-
-* **Findings are tentative since the REAL explanation may not have been considered**
 
 <br/>
 
@@ -370,13 +399,37 @@ output:
 
 <IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:550px; HEIGHT:250px" SRC="images/help.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:350px; HEIGHT:200px" SRC="images/daunt.png">
+<IMG STYLE="position:absolute; TOP:280px; LEFT:675px; WIDTH:350px; HEIGHT:200px" SRC="images/daunt.png">
 
-## 
+## Let's get started...
+<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/questions.jpg">
+* **Take a piece of paper out and answer these questions...**
+    + Let them swirl around in your head, while you consider your project idea
+    + Start to brainstorm ideas that connect your answers
+    + Don't think, write fast
+    
+## Let's get started...
+<hr>
+<br/>
 
+* **Take a piece of paper out and answer these questions...**
+    + Let them swirl around in your head, while you consider your project idea
+    + Start to brainstorm ideas that connect your answers
+    + Don't think, write fast
 
+<br/>
+
+**1. I want to be ____________ when I grow up.**
+
+<br/>
+
+**2. My favorite science topic in all my undergraduate topic was____________.**
+
+<br/>
+
+**3. The one 'sciency' thing that I enjoyed but still don't understand is _____________.**
 
 
 
