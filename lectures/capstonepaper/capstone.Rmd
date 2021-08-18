@@ -101,8 +101,10 @@ output:
 
 * **Based on research you have performed yourself (at Shepherd or elsewhere)**
 <br/>
+
 **or**
 <br/>
+
 * **A question you address using publicly available (non-published) data**
 
 <br/>
@@ -119,7 +121,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:600px; HEIGHT:300px" SRC="images/you.jpg">
 
-## Research paper example
+## Research paper (data from summer/semester research projects)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:5px; WIDTH:700px; HEIGHT:350px" SRC="images/graph.png">
@@ -128,12 +130,40 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:450px; HEIGHT:150px" SRC="images/paper.png">
 
+## Intersted in a research paper BUT you lack data? 
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/opendata.jpg">
+
+<div style="float: right; width: 53%;">
+
+* **I have answers!**
+
+<br />
+
+* **Free to use data are available from many sources**
+    + new movement in science
+    + unpublished and published data,
+    
+<br />
+
+* **We will discuss this in this weeks workshop**
+
+<br />
+
+* **Lots of medical and ecological data**
+    + potential to create a novel Capstone project
+    
+</div>
+
 ## Narrative literature synthesis
 <hr>
 <br/>
 
 * **Based on an extensive review of the primary literature around a given topic or question**
-    + Researcher reviews results of many studies and makes judgments about the connection between the variables
+    + Researcher reviews results of many studies
+    + Research and makes judgments about the connections between variables
     + Evaluate, analyze, compare and contrast these studies focusing on your central question—reveal strengths, biases, weaknesses
     + The goal is to present the primary papers in a new light or tie them together in a new way
 
@@ -150,6 +180,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/covid2.png">
 
+
 ## Literature meta-analysis
 <hr>
 <br/>
@@ -157,7 +188,7 @@ output:
 <div style="float: left; width: 68%;">
 
 * **A systematic review of a focused topic in the literature that provides a quantitative estimate for the effect of an experimental treatment**
-    + Used to examine a specific issue to determine whether a conclusion can be reached regarding the effect of a treatment or exposure
+    + Used to examine a specific issue to determine whether a conclusion can be reached regarding the effect of a treatment or exposure (broad conclusions)
     + Often used to address controversial issues in medicine
     + Used to understand global patterns in ecology
 
@@ -204,26 +235,30 @@ output:
 ## Meta-analyses are important: Cesar Terrer
 <hr>
 
-**Mycorrhizal association as a primary control of the CO 2 fertilization effect (Science 2016)**
+**Mycorrhizal association as a primary control of the CO~2~ fertilization effect (Science 2016)**
 <br/>
 
-**Ecosystem responses to elevated CO2 governed by plant–soil interactions and the cost of nitrogen acquisition (New Phytologist 2018)**
+**Ecosystem responses to elevated CO~2~ governed by plant–soil interactions and the cost of nitrogen acquisition (New Phytologist 2018)**
 <br/>
 
-**Nitrogen and phosphorus constrain the CO 2 fertilization of global plant biomass (Nature Climate Change 2019)**
+**Nitrogen and phosphorus constrain the CO~2~ fertilization of global plant biomass (Nature Climate Change 2019)**
 <br/>
 
-**A trade-off between plant and soil carbon storage under elevated CO2 (Nature 2021)**
+**A trade-off between plant and soil carbon storage under elevated CO~2~ (Nature 2021)**
 
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:30px; WIDTH:500px; HEIGHT:300px" SRC="images/concept.jpg">
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:300px" SRC="images/concept2.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:1050px; HEIGHT:600px" SRC="images/cesar.png">
+
 ## General considerations for capstone paper evaluation
 <hr>
 
-* **Papers will be reviewed as drafts being submitted for peer review at a journal (i.e. not rough drafts).**
+* **Papers will be reviewed as complete drafts being submitted for peer review at a journal**
     + However, the paper is the work of the student and not a professional
 
 <br/>
@@ -232,7 +267,8 @@ output:
 
 <br/>
 
-* **The text will be reviewed for scientific content.  The paper should be written with sufficient detail that a reviewer can understand the project's rationale and conclusions without being an expert in the field.**
+* **The text will be reviewed for scientific content:**
+    + Sufficient detail that a reviewer can understand the project's rationale and conclusions without being an expert.
 
 <br/>
 
@@ -248,7 +284,7 @@ output:
 ## How will the capstone paper be evaluated?
 <hr>
 
-**Rough and final drafts of your capstone paper will be evaluated according to a rubric on Brighspace**
+**Rough and final drafts of your capstone paper will be evaluated according to a rubric on Brightspace**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/grade.png">
 
@@ -256,3 +292,31 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/grade2.png">
+
+## Questions? Now is not the time to be shy....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/questions.jpg">
+
+
+## Finishing Week 1...
+<hr>
+<br/>
+
+* **New workshop based on Open Science**
+    + potential to use open source (unpublished) data to design an original Capstone project
+        + Huge brownie points from Dr. C
+    + potential to utilize open source (published) data as part of a literature synthesis or meta-analysis
+    
+<br/>
+
+* **Friday: First Writing Session. Let's get organized and brainstorm.**
+    + You should walk away with one or several ideas for your capstone
+    
+<br/>
+
+* **Pull out the answers to your questions from lecture 1....anything new to jot down!?!?**
+
+<br/>
+
+* **Some previous Capstone topic titles are on Brightspace**
