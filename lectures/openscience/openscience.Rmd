@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## New age of open science
+## New age of Open Science
 <hr>
 <br/>
 <br/>
@@ -50,7 +50,6 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
 
 * **There is evidence that Open Science gives projects more downstream impact in the scientific community**
     + *question* - how would this concept work with cancer research?
@@ -63,27 +62,27 @@ output:
 <hr>
 <br/>
 
-**Open data: all data used in the project should be made available.**
+**Open data:** all data used in the project should be made available.
 
 <br/>
 
-**Open source: all code written in the project should be publicly available.**
+**Open source:** all code written in the project should be publicly available.
 
 <br/>
 
-**Open methods: the exact procedure of the project is publicly documented.**
+**Open methods:** the exact procedure of the project is publicly documented.
 
 <br/>
 
-**Open review: correspondence between reviewers and authors is public.**
+**Open review:** correspondence between reviewers and authors is public.
 
 <br/>
 
-**Open access: resulting publications are publicly available.**
+**Open access:** resulting publications are publicly available.
 
 <br/>
 
-**Open education: all education materials are publicly available**
+**Open education:** all education materials are publicly available
 
 ## Open data is the core of 'Open Science'
 <hr>
@@ -124,9 +123,9 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/capstone.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:15px; WIDTH:500px; HEIGHT:350px" SRC="images/capstone.jpg">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 53%;">
 
 * **Explore data portals based on your career interest**
     + ecological &rarr; health care
