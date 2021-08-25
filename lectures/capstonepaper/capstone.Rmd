@@ -37,7 +37,8 @@ output:
 <br/>
 
 * **BIOL 425 addresses the learning outcomes of oral communication, written communication, lifelong learning, ethical practices and ethical reasoning, and experiential learning.**
-    +  meets Core Curriculum requirements for Writing in the Major and Integrative Learning        +  prepares students to describe, explain, and communicate about natural phenomena 
+    +  meets Core Curriculum requirements for Writing in the Major and Integrative Learning 
+    +  prepares students to describe, explain, and communicate about natural phenomena 
 
 <br />
 
@@ -77,8 +78,6 @@ output:
 <br />
 <br />
 <br />
-<br />
-<br />
 
 * **Data-driven scientific paper**
     + own scientific research
@@ -92,10 +91,13 @@ output:
 
 * **Literature meta-analysis **
 
+<br />
+
+* *Expectations are based on student authors*
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paper.jpg">
 
-## Original research paper
+## (1) Original research paper
 <hr>
 <br/>
 
@@ -154,17 +156,21 @@ output:
 
 * **Lots of medical and ecological data**
     + potential to create a novel Capstone project
-    
+
+<br />
+
+* **You must include some data-centric figures**
 </div>
 
-## Narrative literature synthesis
+## (2) Narrative literature synthesis
 <hr>
 <br/>
 
 * **Based on an extensive review of the primary literature around a given topic or question**
     + Researcher reviews results of many studies
     + Research and makes judgments about the connections between variables
-    + Evaluate, analyze, compare and contrast these studies focusing on your central question—reveal strengths, biases, weaknesses
+    + Evaluate, analyze, compare and contrast these studies focusing on your central question
+        + reveal strengths, biases, weaknesses
     + The goal is to present the primary papers in a new light or tie them together in a new way
 
 <br/>
@@ -174,14 +180,15 @@ output:
 <br/>
 
 * **Similar to a journal review article with this format:  Abstract, Introduction, Body with subheadings (each section examines a different aspect of your topic/question), Discussion/Conclusion, Literature Cited**
-
+    + your literature cited must be massive
+    
 ## Review paper example
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/covid2.png">
 
 
-## Literature meta-analysis
+## (3) Literature meta-analysis
 <hr>
 <br/>
 

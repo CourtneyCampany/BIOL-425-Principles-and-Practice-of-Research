@@ -102,7 +102,7 @@ output:
 
 * **Build your resume**
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:580px; WIDTH:550px; HEIGHT:300px" SRC="images/cloud.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:530px; WIDTH:550px; HEIGHT:300px" SRC="images/cloud.jpg">
 
 ## Structure of the class:  Lecture, workshops, and writing sessions
 <hr>
@@ -112,7 +112,7 @@ output:
 
 <br/>
 
-* **Live lectures Mondays and Wednesdays**
+* **In person lectures Mondays and Wednesdays**
     + My goal is for the class to be as interactive as possible
     + Schedule will be posted on Brightspace in the syllabus
     + Slides for each lecture will be posted on Sakai
@@ -128,18 +128,18 @@ output:
 
 <br/>
 
-* **Live lectures Mondays and Wednesdays**
+* **In person lectures Mondays and Wednesdays**
     + My goal is for the class to be as interactive as possible
     + Schedule will be posted on Brightspace in the syllabus
     + Slides for each lecture will be posted on Sakai
 
 <br/>
 
-* **Weekly live workshops during laboratory period**
+* **Weekly in person workshops during laboratory period**
     + Focus on a specific topic in more detail
     + Attendance is required
     + Workshops vary in length but will typically involve a discussion and an activity
-    + Assignments due on Brightspace at 5pm on the Friday after the workshop** 
+    + Assignments due on Brightspace at 5pm on the Friday after the workshop 
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/caspstone3.png">
   
@@ -152,7 +152,7 @@ output:
 <br/>
 <br/>
 
-* **Fridays are in-person Writing sessions**
+* **Fridays are in-person writing sessions**
     + Writing is time intensive and requires discussion
     + I will be available as an in-person resource
     + Significant progress towards capstone completion will be made together
@@ -160,7 +160,8 @@ output:
 <br/>
 
 * **A progress journal will be submitted at the end of each session (for points)**
-    + you are required to attend 10 sessions (20 points total)
+    + You are required to attend 10 sessions (20 points total)
+    + First one mandatory
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:850px; WIDTH:200px; HEIGHT:300px" SRC="images/shutup.png">
 
