@@ -123,14 +123,6 @@ output:
 <IMG STYLE="position:absolute; TOP:300px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/reasoning.png">
 
 ## 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
 
 **Generally…**
 
@@ -142,9 +134,16 @@ output:
 
 * **Deductive reasoning is used to prove that piece of information**
 
-</div>
+<IMG STYLE="position:absolute; TOP:300px; LEFT:325px; WIDTH:525px; HEIGHT:300px" SRC="images/deduce.png">
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:550px; WIDTH:500px; HEIGHT:600px" SRC="images/predict.png">
+
+## Inferences applied to Evolution by Natural Selection
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:400px; HEIGHT:500px" SRC="images/predict.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/natselect.jpg">
+
 
 ## Lets practive: Which type of reasoning?
 <hr>
@@ -203,7 +202,7 @@ output:
 
 <br/>
 
-**Ultimate example of inductive reasoning, but there are pitfalls**
+**Ultimate example of *inductive reasoning*, but there are pitfalls**
 
 </div>
 
@@ -317,7 +316,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:350px; HEIGHT:300px" SRC="images/prove.jpg">
 
-## Mendeley also has an online 'Web Library'
+## Science is ongoing
 <hr>
 
 * **The scientific process produces results that can be used in both inductive and deductive reasoning:**
@@ -373,13 +372,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:675px; WIDTH:400px; HEIGHT:450px" SRC="images/applied.jpg">
 
-## Examples of basic research in health
+## Examples of different research types in human health...
 <hr>
 <br/>
 <br/>
 <br/>
 
-**An investigation into the secondary symptoms of the Human Papilloma Virus (HPV). **
+**Examples of basic research: **
 <br/>
 
 1. An investigation into the symptoms of diarrhea. 
@@ -389,7 +388,7 @@ output:
 
 <br/>
 
-**Examples of applied research in health include: **
+**Examples of applied research: **
 <br/>
 
 1. An investigation to determine the healing properties of mushrooms.
