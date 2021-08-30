@@ -91,6 +91,7 @@ output:
     + Examine ideas and explanations
     + Gather information and data
     + Find and eliminate flaws in our thinking
+    + *ALL components of your capstone!*
 
 <br/>
 
@@ -100,8 +101,8 @@ output:
 <br/>
 
 * **Science values empiricism over dogma**
-    + empiricism = 
-    + dogma = 
+    + empiricism = theory that states that knowledge comes only or primarily from sensory experience
+    + dogma = a principle or set of principles laid down by an authority as incontrovertibly true
 
 </div>
 
@@ -114,10 +115,10 @@ output:
 **Two kinds of reasoning (or logic) are used in scientific research:**
 <br/>
 
-1. *Inductive reasoning*: takes a specific example and induces that it can be applied to a much larger group
+1. *Inductive reasoning*: takes a specific example and induces that is can be implied to a much larger group
 <br/>
 
-2. *Deductive reasoning*: starts with a general principle & deduces that it applies to a specific case
+2. *Deductive reasoning*: starts with a general principle and deduces that it applies to a specific case
 
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/reasoning.png">
@@ -132,20 +133,19 @@ output:
 
 <br/>
 
-* **Deductive reasoning is used to prove that piece of information**
+* **Deductive reasoning is used to test that piece of information**
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:325px; WIDTH:525px; HEIGHT:300px" SRC="images/deduce.png">
-
-
-## Inferences applied to Evolution by Natural Selection
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:400px; HEIGHT:500px" SRC="images/predict.png">
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/natselect.jpg">
+<IMG STYLE="position:absolute; TOP:320px; LEFT:300px; WIDTH:525px; HEIGHT:320px" SRC="images/deduce.png">
 
 
-## Lets practive: Which type of reasoning?
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:225px; WIDTH:450px; HEIGHT:625px" SRC="images/predict.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/natselect.jpg">
+
+
+## Lets practice: Which type of reasoning?
 <hr>
 <br/>
 
@@ -202,7 +202,8 @@ output:
 
 <br/>
 
-**Ultimate example of *inductive reasoning*, but there are pitfalls**
+* **Ultimate example of Inductive Reasoning**
+    + but there are pitfalls
 
 </div>
 
@@ -227,6 +228,7 @@ output:
 <br/>
 2. Develop a question and form a logical hypothesis
 * **A hypothesis is a tentative answer to a well-framed scientific question **
+    + based on types of reasoning
 <br/>
 3. Test predictions arising from the hypothesis (with experiment or more observation)
 <br/>
@@ -239,7 +241,7 @@ output:
 
 **The scientific process is ongoing.**
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/method.png">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:550px; WIDTH:250px; HEIGHT:250px" SRC="images/method.png">
 
 
 ## A hypothesis is an explanation for an observation
@@ -253,7 +255,7 @@ output:
 
 <br/>
 
-* **A hypothesis must be both testable and falsifiable**
+* **A hypothesis must be both <span style="color:red">testable and falsifiable</span>**
     + a hypothesis that a ghost cast a spell on a car to make it stop working cannot be tested
 
 <br/>
@@ -267,7 +269,11 @@ output:
     + are there multiple causal factors?
     + Is there a direct or indirect (remote) cause?
 
-    
+##
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/chart.png">
+
+
 ## An experiment is a test of a hypothesis
 <hr>
 <br/>
@@ -311,6 +317,7 @@ output:
 <br/>
 
 **Science is based on the principle that any idea, no matter how widely accepted, can be overturned if evidence warrants it**
+
 </div>
 
 
@@ -346,7 +353,7 @@ output:
     + Resources available
 
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/question2.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:585px; WIDTH:500px; HEIGHT:400px" SRC="images/question2.jpg">
 
 ## Different kinds of research have different goals
 <hr>
@@ -429,6 +436,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:350px; HEIGHT:200px" SRC="images/money.jpg">
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/nih.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/nih.jpg"> -->
