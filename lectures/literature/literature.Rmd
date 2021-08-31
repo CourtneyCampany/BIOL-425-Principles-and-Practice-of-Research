@@ -7,12 +7,12 @@ output:
     smaller: true
 ---
 
-## Once upon a time…
+## Citing in science is difficult but necessary
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/refs.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:900px; HEIGHT:450px" SRC="images/refs.jpg">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/ahh.png">
+<IMG STYLE="position:absolute; TOP:480px; LEFT:830px; WIDTH:200px; HEIGHT:200px" SRC="images/ahh.png">
 
 ## Why do you need references?
 <hr>
@@ -39,7 +39,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/mecite.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:660px; WIDTH:400px; HEIGHT:500px" SRC="images/mecite.png">
 
 ## What information needs a reference?  
 <hr>
@@ -83,8 +83,9 @@ output:
 <br/>
 <br/>
 
-**Different publications have different ways of formatting references in the Reference section at the end of a paper:**
+**Different publications have different ways of formatting references in the Reference section:**
 <br/>
+
 Nature Reviews:  Jones, P. A. & Laird, P. W. Cancer epigenetics comes of age. Nature Genet. 21, 163–167 (1999).
 <br/>
 
@@ -115,19 +116,17 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 
 **Different publications have different ways of formatting in-line references in the text:**
 <br/>
-(Jones and Laird, 2011)
+
+(Jones and Laird, 2011) or (Jones & Laird, 2011)
 <br/>
 
-(Jones & Laird, 2011)
-<br/>
-
-“yadda yadda yadda [1]”
+yadda yadda yadda [1]
 <br/>
 
 (Jones et al., 2012)
 <br/>
 
-"Jones et al. 2000 ..."
+Jones et al. 2000 ...
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:275px" SRC="images/citeshort.png">
 
@@ -149,11 +148,13 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 * **Details:<span style="color:blue">https://apastyle.apa.org/style-grammar-guidelines/references</span>**
 
-
-<IMG STYLE="position:absolute; TOP:295px; LEFT:275px; WIDTH:500px; HEIGHT:250px" SRC="images/apa.png">
+<IMG STYLE="position:absolute; TOP:295px; LEFT:100px; WIDTH:900px; HEIGHT:325px" SRC="images/apa.png">
 
 ## Reference software to the rescue!
 <hr>
@@ -190,7 +191,7 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 
 <div style="float: left; width: 40%;">
 
-**Mendeley consists of two parts:**
+**Mendeley consists of two basic parts:**
 <br/>
 
 1. the reference manager program 
@@ -214,7 +215,8 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 <br/>
 
 * **Add articles to your database using “Add Files” OR drag & drop PDFs into Mendeley**
-
+    + desktop and web versions synced
+    
 <br/>
 
 * **Organize articles by folders (topics, projects, classes)**
@@ -224,6 +226,7 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 <br/>
 
 * **Take notes, highlight, annotate your own PDF (viewable within Mendeley)**
+    + new notebook tool allows you to make notes on multiple PDF's and keeps links to each one!
     
 ## Using Mendeley in Microsoft Word (citation plugin)
 <hr>
@@ -232,7 +235,8 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 
 <br/>
 
-**This is how you insert in-line citations into text and insert a bibliography (reference list) at the end of your paper**
+* **allows insertion of in-line citations into text**
+* **allows insertion of complete formatted bibliography (reference list) at the end of your paper**
 
 <br/>
 
@@ -252,13 +256,36 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 <div style="float: left; width: 40%;">
 
 * **You can sync your desktop library to Mendeley Reference Manager**
-    + moves papers to the cloud for storage
-    + making papers available on other computers
+    + cloud storage of papers
+    + library available on any computer
     + Allows additional features (social/community)
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:400px" SRC="images/webversion.png">
+
+## Consider your capstone timeline....
+<hr>
+<br/>
+<br/>
+
+* **The next few weeks should be spent down the rabbit hole of scientific literature**
+    + is enough information available (or too much) to address your question
+    + organization literature into groups to help solidify your first outline
+    + take specific notes on papers for subsections of your paper
+    + organize those notes/potential cites into your complete outline
+    
+ <br/>
+ 
+* **<span style="color:red">Using Mendeley will keep you on track!</span>**
+
+ <br/>
+ 
+* **In a few weeks we will practice citing in the text a TON**
+    
+<IMG STYLE="position:absolute; TOP:210px; LEFT:760px; WIDTH:300px; HEIGHT:300px" SRC="images/timeline.png">
+
+<IMG STYLE="position:absolute; TOP:470px; LEFT:650px; WIDTH:260px; HEIGHT:200px" SRC="images/rabbit.jpg">
 
 ## Let's get downloading and trouble shooting
 <hr>
@@ -293,7 +320,7 @@ Cancer Research:  Jones P. A., Laird P. W. Cancer epigenetics comes of age. Nat.
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:500px; HEIGHT:275px" SRC="images/batman.jpg">
 
-## Pro Tip: Become ONE with Mendeley
+## Pro Tips: Become ONE with Mendeley
 <hr>
 <br/>
 
