@@ -35,7 +35,10 @@ output:
 <hr>
 **All three capstone types will follow the same general structure**
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:700px; HEIGHT:450px" SRC="images/pyramid.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:5px; WIDTH:675px; HEIGHT:425px" SRC="images/pyramid.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:375px; HEIGHT:450px" SRC="images/pyramid2.png">
+
 
 ## Build your capstone reference database
 <hr>
@@ -43,7 +46,7 @@ output:
 <div style="float: left; width: 59%;">
 
 * **Use PubMed, Google Scholar, and Web of Science to collect references in Mendeley**
-    + even if you don’t have the full text yet
+    + even if you do not have the full text yet
     + Request full texts from inter-library loan
     + Dr. C can also help (a little)
 
@@ -63,11 +66,10 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:425px; HEIGHT:450px" SRC="images/googlescholar.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/googlescholar.png">
 
 ## Getting started…
 <hr>
-<br/>
 <br/>
 
 <div style="float: right; width: 50%;">
@@ -82,7 +84,8 @@ output:
 <br/>
 
 * **Assemble your notes, papers, and ideas together in one place**
-
+    + create a detailed outline
+    
 <br/>
 
 * **Dr. C likes to build one paragraph at time**
@@ -116,7 +119,6 @@ output:
 ## Putting together an outline is key
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -125,7 +127,9 @@ output:
 <br/>
 
 * **Your first outline can be broad—don’t worry about writing complete sentences/paragraphs**
-
+    + group cite-able articles into appropriate sections (First outline)
+    + extract information from those articles (Final outline)
+    
 <br/>
 
 * **Do not try to achieve perfection!**
@@ -158,8 +162,8 @@ output:
 <br/>
 
 * **Each of these groups will form a main point (or perhaps a subsection of the paper)**
-    + organize papers into folders for each point
     + add a section to your outline
+    + develop 'stories' that will be written as paragraphs
 
 </div>
 
@@ -189,6 +193,8 @@ output:
 <br/>
 
 * **Order the subheadings and paragraphs according to the overall structure of your paper**
+    + keep in mind the inverted pyramid
+    + keep in mind a persuasive 'flow' of ideas
 
 </div>
 
@@ -212,8 +218,8 @@ output:
 <br/>
 
 * **Try to write in paragraph chunks**
-    + compare and contrast findings from puclished sources
-    + group 'like' information into single sentences with many citations
+    + compare and contrast findings from published sources
+    + group 'like' information into single statements with multiple citations
     + take your time to synthesize the 'story'
 
 <br/>
@@ -277,7 +283,7 @@ output:
 
 <div style="float: left; width: 55%;
 
-<span style="color:blue">“Get it down. Take chances. It may be bad, but it’s the only way you can do anything really good.” — William Faulkner</span>
+<span style="color:blue">“Get it down. Take chances. It may be bad, but its the only way you can do anything really good.” — William Faulkner</span>
 
 
 <br/>
@@ -300,9 +306,6 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
 
 * **It can’t be overstated how important revision is to writing!**
 
@@ -315,6 +318,9 @@ output:
 * **Revise with a purpose!**
     + check for specific errors each time (grammar, tense, figures)
     + just re-reading will not work
+<br/>
+
+<span style="color:blue">* **What should you evaluate when revising your outline?**</span>
 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/revise.jpg">
+<IMG STYLE="position:absolute; TOP:140px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/revise.jpg">

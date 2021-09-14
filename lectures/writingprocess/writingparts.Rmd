@@ -27,8 +27,8 @@ output:
 <hr>
 <br/>
 
-**Writing a draft of your paper is an important first step, but it is revision that makes your paper great**
-    + each time you revise you add points
+* **Completing drafts of a paper is a big accomplishment, but revision is what papers great**
+    + each time you revise you avoid points being taken away
     
 <br/>
 
@@ -45,7 +45,7 @@ output:
 <hr>
 <br/>
 
-* **Revision is not simply correcting spelling and grammatical errors—this is proofreading (which is also important!)**
+* **Revision is not simply correcting spelling and grammatical errors—this is proofreading**
 
 <br/>
 
@@ -60,28 +60,46 @@ output:
 * **This is not a quick process**
 
 
-<IMG STYLE="position:absolute; TOP:440px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/revise3.png">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:475px; WIDTH:575px; HEIGHT:300px" SRC="images/revise3.png">
+
+## Important questions to ask during revision…
+<hr>
+<br/>
+<br/>
+
+>- **Think about your purpose:**
+    + Does your introduction state clearly what you intend to do or discuss? 
+    + Are your aims clear to your readers?  
+
+<br/>
+
+>- **Examine the balance within your paper:**
+    + Are some parts out of proportion with others? 
+    + Do you spend too much time on one trivial point and neglect a more important point? 
+    + Do you give lots of detail early on and then let your points get thinner by the end?
+
+
 
 ## Important questions to ask during revision…
 <hr>
 
->- **Think about your purpose: Does your introduction state clearly what you intend to do or discuss? Are your aims clear to your readers?**
+>- **Check the organization:**
+    + Does your paper follow a pattern that makes sense?
+    + Do transitions move your readers smoothly from one point to the next?
+    + Do the topic sentences of each paragraph appropriately introduce what that paragraph is about?         + Would your paper work better if you moved some things around?
 
 <br/>
 
->- **Examine the balance within your paper: Are some parts out of proportion with others? Do you spend too much time on one trivial point and neglect a more important point? Do you give lots of detail early on and then let your points get thinner by the end?**
+>- **Check your information:**
+    + Are all your facts accurate? 
+    + Are any of your statements misleading? 
+    + Have you provided enough detail to satisfy readers’ curiosity? 
+    + Have you cited information appropriately?
 
 <br/>
 
->- **Check the organization: Does your paper follow a pattern that makes sense? Do transitions move your readers smoothly from one point to the next? Do the topic sentences of each paragraph appropriately introduce what that paragraph is about? Would your paper work better if you moved some things around?**
-
-<br/>
-
->- **Check your information: Are all your facts accurate? Are any of your statements misleading? Have you provided enough detail to satisfy readers’ curiosity? Have you cited information appropriately?**
-
-<br/>
-
->- **Check your conclusion: Does the last paragraph tie the paper together smoothly and end on a stimulating note?**
+>- **Check your conclusion: **
+    + Does the last paragraph tie the paper together smoothly and end on a stimulating note?
 
 ## Important questions to ask during revision…
 <hr>
@@ -93,7 +111,7 @@ output:
     + Are the tone and formality of the language appropriate for your audience?
 
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/fakenews.png">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/fakenews.png">
 
 ## Pro Tips: Make writing a scheduled part of your semester life
 <hr>
@@ -103,17 +121,17 @@ output:
 <div style="float: left; width: 65%;">
 
 * **The more writing you produce, the easier it is to cut it.**
-    + give yourself enough time
-    + make good use of Shut Up and Write
+    + give yourself enough time to finish before the deadline
+    + schedule revision time before anything is due
 
 <br/>
 
-* **The more you can imagine yourself as a reader looking at this for the first time, the easier it will be to spot potential problems.**
+* **If you can view your finished work as a  reader looking at this for the first time, the easier it will be to spot potential problems.**
 
 <br/>
 
 * **The more you demand of yourself in terms of clarity and elegance, the more clear and elegant your writing will be**
-    + you should be proud of what you turn it
+    
 
 </div>
 
@@ -136,7 +154,7 @@ output:
 
 <br/>
 
-* **Remember all those questions? Don’t try to address all of them in a single revision session**
+* **Remember all those questions? Don’t address them all in a single revision session**
     + proofread with a purpose
 
 <br/>
@@ -171,8 +189,7 @@ output:
 
 <br/>
 
-* **Don’t worry about length. If you have an appropriate amount of ideas and supporting material, your paper will be the correct length.**
-    + the more citations you have, the easier it is to write!
+* **Don’t worry about length. If you have an appropriate amount of ideas and cited evidence, your paper will be the correct length.**
     
 <br/>
 
@@ -191,7 +208,7 @@ output:
 <br/>
 <br/>
 
-**This paper <span style="color:red">provides</span> a review of <span style="color:red">the basic tenets of</span> cancer biology study design, using <span style="color:red">as</span> examples <span style="color:red">studies</span> that illustrate the <span style="color:red">methodologic</span> challenges or <span style="color:red">that demonstrate successful</span> solutions <span style="color:red">to the difficulties inherent in biological research.</span>**
+<font size="6">**This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges or that demonstrate successful solutions to the difficulties inherent in biological research.**</font>
 
 ## Cutting down an overwordy sentence: Let's try
 <hr>
@@ -204,7 +221,7 @@ output:
 <br/>
 <br/>
 
-**This paper <span style="color:red">provides</span> a review of <span style="color:red">the basic tenets of</span> cancer biology study design, using <span style="color:red">as</span> examples <span style="color:red">studies</span> that illustrate the <span style="color:red">methodologic</span> challenges or <span style="color:red">that demonstrate successful</span> solutions <span style="color:red">to the difficulties inherent in biological research.</span>**
+<font size="6">**This paper <span style="color:red">provides</span> a review of <span style="color:red">the basic tenets of</span> cancer biology study design, using <span style="color:red">as</span> examples <span style="color:red">studies</span> that illustrate the <span style="color:red">methodologic</span> challenges or <span style="color:red">that demonstrate successful</span> solutions <span style="color:red">to the difficulties inherent in biological research.</span>**</font>
 
 
 ## Cutting down an overwordy sentence: Let's try
@@ -212,16 +229,15 @@ output:
 <br/>
 <br/>
 
-**This paper <span style="color:red">provides</span> a review of <span style="color:red">the basic tenets of</span> cancer biology study design, using <span style="color:red">as</span> examples <span style="color:red">studies</span> that illustrate the <span style="color:red">methodologic</span> challenges or <span style="color:red">that demonstrate successful</span> solutions <span style="color:red">to the difficulties inherent in biological research.</span>**
+<font size="6">**This paper <span style="color:red">provides</span> a review of <span style="color:red">the basic tenets of</span> cancer biology study design, using <span style="color:red">as</span> examples <span style="color:red">studies</span> that illustrate the <span style="color:red">methodologic</span> challenges or <span style="color:red">that demonstrate successful</span> solutions <span style="color:red">to the difficulties inherent in biological research.</span>**</font>
 
 <br/>
 <br/>
 <br/>
-<br/>
 
-**This paper reviews cancer biology study design, using examples that illustrate the challenges and solutions faced by scientists.**
+<font size="6">**This paper reviews cancer biology study design, using examples that illustrate the challenges and solutions faced by scientists.**</font>
 
-<IMG STYLE="position:absolute; TOP:320px; LEFT:500px; WIDTH:25px; HEIGHT:50px" SRC="images/arrow.png">
+<IMG STYLE="position:absolute; TOP:360px; LEFT:500px; WIDTH:25px; HEIGHT:50px" SRC="images/arrow.png">
 
 ## Strengthen your writing: use a variety of language
 <hr>
@@ -239,8 +255,7 @@ output:
 <br/>
 
 * **Aim for precision in word choice. Don’t settle for the best word you can think of at the moment**
-    + thesaurus (shift-F7 in Word!) 
-    
+
 <br/>
 
 * **Look for sentences that start with “It is” or “There are” and revise with active voice**
@@ -262,7 +277,7 @@ output:
 <br/>
 * **Use useless phrases (note that, be aware, etc.)**
 <br/>
-* **Use excessive hedging (may possibly, might be, suggests, etc.)**
+* **Use excessive hedging (may possibly, might be, etc.)**
 <br/>
 * **Use judgmental adverbs (obviously, clearly, etc.) **
 <br/>
@@ -270,7 +285,7 @@ output:
 <br/>
 * **Use contractions**
 <br/>
-* **Use unfamiliar words (you should be able to define every word in your paper!)**
+* **Use unfamiliar words**
 <br/>
 * **Use unnecessary adjectives and adverbs**
 <br/>
@@ -278,24 +293,27 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/active.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:375px" SRC="images/active.jpg">
+
+## Active vs Passive voice test...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/zombies2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:500px" SRC="images/zombies.jpg">
+
 
 ## More science writing resources
 <hr>
 <br/>
 <br/>
 <br/>
-
-**Mistakes in a museum: https://www.youtube.com/watch?v=9zmy7FIMDWU **
-
 <br/>
-
-**ACS webinar series on writing: https://www.youtube.com/watch?v=91jo4kX7Cq0**
-
 <br/>
 
 **The UNC writing center: https://writingcenter.unc.edu/tips-and-tools/**
 
+<br/><br/>
 <br/>
 
 **Duke scientific writing resource: https://sites.duke.edu/scientificwriting/**

@@ -55,7 +55,7 @@ output:
 
 * **Anytime you:**
     + discuss, summarize, or paraphrase the ideas of an author
-    + use data or statistics
+    + use data or statistics of others
     + use images, videos, or other media
     + provide a direct quotation (which we are **NOT** doing in this class)
 
