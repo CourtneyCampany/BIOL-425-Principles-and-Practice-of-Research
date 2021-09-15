@@ -86,7 +86,8 @@ output:
 >- **Check the organization:**
     + Does your paper follow a pattern that makes sense?
     + Do transitions move your readers smoothly from one point to the next?
-    + Do the topic sentences of each paragraph appropriately introduce what that paragraph is about?         + Would your paper work better if you moved some things around?
+    + Do the topic sentences of each paragraph appropriately introduce what that paragraph is about?
+    + Would your paper work better if you moved some things around?
 
 <br/>
 
@@ -206,13 +207,11 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
 
 <font size="6">**This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges or that demonstrate successful solutions to the difficulties inherent in biological research.**</font>
 
 ## Cutting down an overwordy sentence: Let's try
 <hr>
-<br/>
 <br/>
 <br/>
 <br/>
