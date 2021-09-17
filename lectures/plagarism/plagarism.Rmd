@@ -26,9 +26,9 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
-* **plagiarism:  (pla·​gia·​rism | \ˈplā-jə-ˌri-zəm\)**:
+* **plagiarism:  (pla·gia·rism | \ˈplā-jə-ˌri-zəm\)**:
     + To steal and pass off the words and ideas of another as one’s own
     + Use another’s production without crediting the source
     + To commit literary theft
@@ -42,14 +42,15 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/plagarism4.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/plagarism4.png">
 
 ## What are some common examples of student plagiarism?
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 50%;">
 
 * **Copy pasting from a source**
 
@@ -91,7 +92,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:550px; HEIGHT:300px" SRC="images/cheat.png">
 
-## Unintentional plagiarism = misuse of sources
+## Unintentional plagiarism = Misuse of sources
 <hr>
 <br/>
 
@@ -194,8 +195,9 @@ output:
 ## Avoiding unintentional plagiarism requires effort on your part
 <hr>
 <br/>
+<br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 63%;">
 
 * **Good research involves:**
     + Finding an answer to a question by first looking at what others have written in various sources
@@ -254,7 +256,7 @@ output:
 <br/>
 <br/>
 
-**Source:** “To test whether features of human brain development were recapitulated in cerebral organoids, we examined the distribution of SOX2 progenitors and observed a population displaced from the apical surface (Fig. 5a and Extended Data Fig. 5a), consistent with an oRG identity.”
+<font size="6">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
 
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:175px" SRC="images/readercite.png">
@@ -263,21 +265,13 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<font size="6">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
+
 <br/>
 <br/>
 
-**Source:** “To test whether features of human brain development were recapitulated in cerebral organoids, we examined the distribution of SOX2 progenitors and observed a population displaced from the apical surface (Fig. 5a and Extended Data Fig. 5a), consistent with an oRG identity.”
-
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:175px" SRC="images/readercite.png">
-
-<br/>
-
-**Dr. C:** Two different populations of SOX2-positive progenitor cells have been reported in human-derived cerebral organoids.  Based on its position in the tissue away from the apical surface, one group typifies the human-specific cell type oRG (Lancaster et al., 2013).
+<font size="6">**Dr. C:** In the summer of 2013, the population size of invasive blue catfish in the James River (Virginia) large enough to be caught in commerical fishery nets was >500 fish/ha.</font>
 
 </div>
 
@@ -285,7 +279,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 70%;">
 
 * **Put the article away when writing!!**
     + Use your notes and outline 
@@ -304,7 +298,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/paraphrase.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:795px; WIDTH:250px; HEIGHT:200px" SRC="images/paraphrase.png">
 
 ## Paraphrazing Example
 <hr>
