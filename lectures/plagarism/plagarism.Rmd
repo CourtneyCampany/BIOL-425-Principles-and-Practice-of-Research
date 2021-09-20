@@ -47,8 +47,6 @@ output:
 ## What are some common examples of student plagiarism?
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -68,20 +66,23 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:325px; HEIGHT:200px" SRC="images/copy.jpg">
+<IMG STYLE="position:absolute; TOP:480px; LEFT:150px; WIDTH:325px; HEIGHT:200px" SRC="images/copy.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/copy2.png">
 
 ## Intentional plagiarism
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 48%;">
 
-* **Submitting pre-written papers downloaded or purchased from the Internet as your own work.**
+* **Submitting pre-written papers downloaded or purchased from the Internet.**
 
 <br/>
 
-* **Cutting and pasting from more than one source to create a paper without quoting or citing the sources.**
+* **Cutting and pasting from more than one source without quoting or citing the sources.**
 
 <br/>
 
@@ -98,7 +99,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Unintentional plagiarism is the accidental appropriation of the ideas and materials of others due to a lack of understanding of the conventions of citation and documentation**
+* **Accidental appropriation of the ideas and materials of others due to a lack of understanding of the conventions of citation and documentation**
     + More common than intentional plagiarism
     + Is NOT a defense! 
 
@@ -120,7 +121,6 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 63%;">
 
 * **A survey of over 63,700 US undergraduate students over the course of three years (2002-2005) revealed: (McCabe, 2005)**
     + 36% admit to “paraphrasing/copying few sentences from Internet source without citing it.”
@@ -130,18 +130,18 @@ output:
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 * **These trends have increased with growth of the internet!**
 
- </div>
  
-<IMG STYLE="position:absolute; TOP:250px; LEFT:670px; WIDTH:400px; HEIGHT:350px" SRC="images/cheat2.png">
+<IMG STYLE="position:absolute; TOP:385px; LEFT:675px; WIDTH:350px; HEIGHT:300px" SRC="images/cheat2.png">
 
 ## What are the consequences of plagiarism?
 <hr>
 <br/>
 
-<div style="float: left; width: 71%;">
 
 * **At Shepherd, plagiarism is handled at the discretion of the professor**
     + The penalty can be anything up to and including assigning the student a failing grade for the class 
@@ -159,9 +159,8 @@ output:
     + Loss of employment
     + Destruction of reputation
 
-</div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:780px; WIDTH:300px; HEIGHT:300px" SRC="images/similarity.png">
+<IMG STYLE="position:absolute; TOP:375px; LEFT:780px; WIDTH:300px; HEIGHT:300px" SRC="images/similarity.png">
 
 ## Intentional plagiarism is easy to catch
 <hr>
@@ -214,7 +213,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:350px; HEIGHT:300px" SRC="images/effort.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/effort.jpg">
 
 
 ## Key Skills: Citing appropriately
@@ -255,8 +254,9 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
-<font size="6">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
+<font size="5">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
 
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:175px" SRC="images/readercite.png">
@@ -266,12 +266,12 @@ output:
 <br/>
 <br/>
 
-<font size="6">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
+<font size="5">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
 
 <br/>
 <br/>
 
-<font size="6">**Dr. C:** In the summer of 2013, the population size of invasive blue catfish in the James River (Virginia) large enough to be caught in commerical fishery nets was >500 fish/ha.</font>
+<font size="5">**Dr. C:** In the summer of 2013, the population size of invasive blue catfish in the James River (Virginia) large enough to be caught in commercial fishery nets was >500 fish/ha.</font>
 
 </div>
 
@@ -294,7 +294,7 @@ output:
 <br/>
 4. Check your rendition with the original to make sure that your version accurately expresses all the essential information in a new form.
 <br/>
-5. Cite the reference at the end of your sentence or thought.
+5. Cite the reference at the end of your sentence.
 
 </div>
 
@@ -343,7 +343,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:250px; HEIGHT:400px" SRC="images/commonknow.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:35px; WIDTH:250px; HEIGHT:400px" SRC="images/commonknow.jpg">
     
 ## Examples: What is not common knowledge?
 <hr>
