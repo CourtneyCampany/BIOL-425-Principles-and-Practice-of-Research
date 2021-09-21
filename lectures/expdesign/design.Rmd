@@ -11,9 +11,9 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
-* **Your capstone paper should mirror the scientific process, so you need to think critically about the sources and kinds of information you include in it**
+* **Your capstone paper should mirror the scientific process, so you need to think critically about the sources and information you use**
 
 <br/>
 
@@ -29,7 +29,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/scientmethod.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/scientmethod.png">
 
 ## Evaluating experimental results
 <hr>
@@ -73,29 +73,8 @@ output:
 
 ## Statistics to the rescue!
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-**Both are potentially useful for your capstone project**
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/stats2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/stats2.png">
 
 ## Expectations for a scientific paper
 <hr>
@@ -247,8 +226,9 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;"
+<div style="float: left; width: 50%;">
 
 **1. Set up the null and alternative hypotheses**
 
@@ -282,21 +262,10 @@ output:
 
 <br/>
 
-* **p-values range between 0 and 1 and indicate the probability that the null hypothesis is true**       
-    + results are due to chance alone
+* **Scientific papers will always report p-values if results have been statistically analyzed**
 
-<br/>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 50%;">
-
-**Scientific papers will always report p-values if results have been statistically analyzed**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:330px; LEFT:550px; WIDTH:550px; HEIGHT:350px" SRC="images/normaldist.png">
+<IMG STYLE="position:absolute; TOP:330px; LEFT:250px; WIDTH:550px; HEIGHT:350px" SRC="images/normaldist.png">
 
 ## Setting the bar for statistical significance 
 <hr>
@@ -305,7 +274,7 @@ output:
 <div style="float: left; width: 65%;">
 
 * **p-values range between 0 and 1 and indicate the probability that the null hypothesis is true**
-    + results are due to chance alone)
+    + results are due to chance alone
 
 <br/>
 
@@ -322,10 +291,11 @@ output:
 
 ## Important considerations for statistics
 <hr>
+<br/>
+
+**Both descriptive and inferential statistics whittle down large data sets down to a few conclusions**
 
 <div style="float: left; width: 50%;">
-
-* **Both descriptive and inferential statistics whittle down large data sets down to a few conclusions**
 
 <br/>
 
@@ -339,7 +309,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/typeerrors.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/typeerrors.jpg">
 
 ## How to talk about statistics in a paper
 <hr>
@@ -354,10 +324,10 @@ output:
     
 <br/>
 
-<span style="color:green">**The basis for downregulation may be related to CO2-inducedexcess photosynthate accumulation in leaves, if sinks forthe additional carbon are not available (Stitt 1991, Mooreet al. 1999, Haouari et al. 2013, Campany et al. 2017).**</span>
+<span style="color:green">**The basis for downregulation may be related to CO~2~-induced excess photosynthate accumulation in leaves, if sinks for the additional carbon are not available (Stitt 1991, Mooreet al. 1999, Haouari et al. 2013, Campany et al. 2017).**</span>
 
 <br/>
 
-<span style="color:blue">**It was reported that gm increased with increasing light intensity in chickpea and several Eucalyptus species (Campany et al., 2016; Xiong et al., 2018; Shrestha et al., 2019).**</span>
+<span style="color:blue">**It was reported that g~m~ increased with increasing light intensity in chickpea and several Eucalyptus species (Campany et al., 2016; Xiong et al., 2018; Shrestha et al., 2019).**</span>
 
 
