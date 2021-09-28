@@ -13,27 +13,15 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Tables are more complete and less visual**
-    + Primarily interact with verbal / language system
+    + Usually summary data
     + Precise values are important
     + Need to compare individual values
 
-<br/>
 
-* **Graphs visually represent an entire data set**
-    + Used to show relationships between two sets of data
-    + Can show overall trends in data
-
-<br/>
-
-* **How to decide?**
-    + Are the variables qualitative or quantitative?
-    + How many data points are there?
-    + How many variables are there?
-    + Is it important to show trends in the data?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/exampletable.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/exampletable.png">
 
 ## Review: Should I make a figure or a table?
 <hr>
@@ -41,14 +29,14 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Tables are more complete and less visual**
-    + Primarily interact with verbal / language system
+    + Usually summary data
     + Precise values are important
     + Need to compare individual values
 
 <br/>
 
 * **Graphs visually represent an entire data set**
-    + Used to show relationships between two sets of data
+    + Show relationships between sets of data
     + Can show overall trends in data
 
 <br/>
@@ -63,7 +51,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/examplefigure.png">
 
-## Creating tables (Excel is easiest option)
+## Creating tables (Excel/Word is easiest option)
 <hr>
 <br/>
 <br/>
@@ -72,21 +60,31 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Some practical tips:**
-    + show data relevant to your main point
-    + divide the data into appropriate categories
-    + accurately label categories and columns
-    + raw data is rarely presented
-    + use summary data (means & SD)
+    + Show data relevant to your main point
+    + Divide the data into appropriate categories
+    + Accurately label categories and columns
+    + Raw data is rarely presented
+    + Use summary data (means & SD)
     + Declutter your table! 
     + Include a concise caption *above* the table
 
+</div>
+
 <br/>
+<br/>
+
+<div style="float: left; width: 75%;">
 
 * **Use only horizontal line borders and double line spacing**
 
+<br/>
+
+* **You can compile different results from different papers**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:3000px; LEFT:575px; WIDTH:500px; HEIGHT:200px" SRC="images/cleantable.png">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:500px; HEIGHT:200px" SRC="images/cleantable.png">
 
 ## Pro Tips: Avoid styling tables in excel
 <hr>
@@ -119,7 +117,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/piechart2.jpg">
 
-## Scatter plots show the relationship between 2 varibles
+## Scatter plots show the relationship between 2 variables
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/scattertrends.png">
@@ -158,21 +156,21 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Microsoft Excel is the easiest choice**
-    + there are much better programs available
+    + There are much better programs available
 
 <br/>
 
-* **You must customize your Excel graph for the best results**
-    + tip: start with a blank figure
+* **You must customize your Excel graph/s**
+    + Tip: start with a blank figure
 
 <br/>
 
 * **Clarity is once again the name of the game:**
-    + label all elements of the graph: axes, curves, labels, bars
-    + include a key to explain different colors, groups, etc.
-    + declutter your graph
-    + avoid large areas of white space on the plot
-    + modify xis ranges to emphasize what you are showing
+    + Label all elements of the graph
+    + Use a key to explain different colors, groups, etc.
+    + Declutter your graph
+    + Avoid large areas of white space on the plot
+    + Modify axis ranges to emphasize patterns
 
 </div>
 
@@ -182,9 +180,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:750px; HEIGHT:600px" SRC="images/histrogram.png">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg"> -->
 
 ## Considerations for figures
 <hr>
@@ -207,7 +205,7 @@ output:
 <div style="float: left; width: 48%;">
 
 * **Computer type and software version matter**
-    + practice and know your system
+    + Practice and know your system
     + Excel and Powerpoint may both be necessary for capstone
 
 <br/>
@@ -229,13 +227,44 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:575px; HEIGHT:450px" SRC="images/excelfigure.jpg">
 
+## Pro Tip: Creating publication quality figures
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Maximize the space given to the presentation of data**
+    e.g. make points and lines easy to see
+
+<br/>
+
+* **Be smart with color. Do you really need it?**
+    + use color-blind friendly palettes
+    + use white backgrounds
+
+<br/>
+
+* **Minimum resolution of 300 dpi**
+    + options are available for different formats (jpg, pdf, tif, png)
+
+<br/>
+
+* **Use vector graphics**
+
+<br/>
+
+* **Avoid 3D graphs**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/vector.png">
+
 ## Don’t neglect figure legends
 <hr>
 
 <div style="float: left; width: 55%;">
 
-* **A legend gives the reader information to understand a figure**
-    + reader understand the results presented in your figure without reading the main text
+* **Gives the reader information to understand a figure**
+    + readers should NOT have to refer to main text
     
 <br/>
  
@@ -245,7 +274,8 @@ output:
 
 * **Explain everything depicted in the figure**
     + panels, variables, abbreviations, genotypes, p values
-    + any methodological information necessary to understand the data**
+    + any methodological information necessary to understand the data
+    + do not repeat items that are on the figure
 
 <br/>
 
@@ -303,15 +333,12 @@ Table 1 shows the summary results for male and female heights at Shepherd Univer
 See the table below for a summary of the relevant literature on tumors. 
 
 ##
-<br/>
-<br/>
-<br/>
-
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:15px; WIDTH:600px; HEIGHT:600px" SRC="images/fern.png">
 
 <div style="float: right; width: 42%;">
 
-Minimal differences in leaf pressure–volume parameters were detected among the three life forms (Figure 5a). The turgor loss point (Ψtlp) marginally varied by life form (p = 0.051) and post hoc comparisons did not detect differences in Ψtlp across terrestrial, hemi-epiphytic, or epiphytic ferns. Broadly, terrestrial and hemi-epiphytic fern species had trended towards slightly lower Ψtlp than epiphytic species (Figure 5b). The osmotic potential at saturation (Ψo) was also lower in terrestrial compared to epiphytic species (p = 0.009, Figure 5c), while the modulus of elasticity (ε) was similar across all life forms. The relative water content at turgor loss point did not vary between fern life forms. The tissue capacitance between saturation and turgor loss (Cft) was not different between life forms, however; the tissue capacitance after turgor loss (CTLP) was 54% lower in epiphytic compared to terrestrial species (p = 0.009, Figure 5d insert). Additionally, Cft declined quickly with increasing ε for all species (Figure 5d)
+**Minimal differences in leaf pressure–volume parameters were detected among the three life forms (Figure 5a).** The turgor loss point (Ψtlp) marginally varied by life form (p = 0.051) and post hoc comparisons did not detect differences in Ψtlp across terrestrial, hemi-epiphytic, or epiphytic ferns. **Broadly, terrestrial and hemi-epiphytic fern species had trended towards slightly lower Ψtlp than epiphytic species (Figure 5b). The osmotic potential at saturation (Ψo) was also lower in terrestrial compared to epiphytic species (p = 0.009, Figure 5c)**, while the modulus of elasticity (ε) was similar across all life forms. The relative water content at turgor loss point did not vary between fern life forms. The tissue capacitance between saturation and turgor loss (Cft) was not different between life forms, however; **the tissue capacitance after turgor loss (CTLP) was 54% lower in epiphytic compared to terrestrial species (p = 0.009, Figure 5d insert). Additionally, Cft declined quickly with increasing ε for all species (Figure 5d)**
 
 </div>
+

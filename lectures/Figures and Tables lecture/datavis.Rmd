@@ -24,7 +24,7 @@ output:
 
 <br/>
 
-* **data visualization is a graphical representation of any data or information**
+* **Data visualization is a graphical representation of any data or information**
     + books dedicated to it
 
 </div>
@@ -34,9 +34,9 @@ output:
 ## A picture is worth a thousand words
 <hr>
 
-<div style="float: left; width: 50%;">
+ **Figures or tables can convey key information that is less suited to a text description**
 
-* **Figures or tables can convey key information that is less suited to a text description**
+<div style="float: left; width: 50%;">
 
 <br/>
 
@@ -46,18 +46,18 @@ output:
 <br/>
 
 * **Adding figures to your capstone paper has several uses:**
-  + Organize or summarize a large amounts of data
+  + Summarize a large amounts of data
   + Graphically compare results easily
   + Visualize trends in data clearly
   + Enhance reader interest
 
 <br/>
 
-**Poorly executed figures can confuse readers and detract from a paper**
+* **Poorly executed figures can confuse readers and detract from a paper**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/badvis.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/badvis.png">
 
 
 ## Rules for choosing a figure
@@ -109,7 +109,7 @@ output:
     + To show the presence or absence of specific characteristics
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400x; HEIGHT:425px" SRC="images/table.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:420x; HEIGHT:440px" SRC="images/table.png">
 
 ## Humans are inherently visual 
 <hr>
@@ -185,8 +185,7 @@ output:
 
 ## How to use figures and tables in a narrative review?
 <hr>
-
-<div style="float: left; width: 53%;">
+<br/>
 
 * **All of your capstone papers should have tables/figures**
     + you will also convert your paper to a (mostly) visual format:  the poster
@@ -194,15 +193,19 @@ output:
 <br/>
 
 * **How can figures be used in a review paper?**
-    + To introduce your topic or provide important background
-    + For example:  organism, cell type, disease, molecular pathway, etc.
-    + To show a key piece of data from a primary paper (graph or image)
-    + To summarize data from multiple experiments
-    + Conceptual diagram that summarizes the results of multiple experiments
-    + To present a proposed model or experimental approach
-</div>
+    + **Introduction:**
+        + To introduce your topic or provide important background
+        + For example:  organism, cell type, disease, molecular pathway, etc.
+    + **Body:**
+        + To show a key piece of data from a primary paper (graph or image)
+        + To summarize data from multiple experiments (table)
+        + Conceptual diagram that summarizes the results of multiple experiments
+    + **Conclusion:**
+        + To present a proposed model or experimental approach
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:420px" SRC="images/concept.png">
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:650px; HEIGHT:600px" SRC="images/concept.png">
 
 ## 
 
@@ -218,7 +221,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/stomataltable.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/stomataltable.png">
 
 ##
 
@@ -237,7 +240,7 @@ output:
 <br/>
 
 * **Ensure that visual elements are self-contained.**
-    + readers should understand a figure or table based solely on the visuals and legend.**
+    + readers should understand a figure or table based solely on the visuals and legend
 
 <br/>
 
@@ -281,33 +284,3 @@ output:
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/adaptedfrom.jpg">
 
-## Pro Tip: Creating publication quality figures
-<hr>
-
-<div style="float: left; width: 55%;">
-
-* **Maximize the space given to the presentation of data**
-    e.g. make points and lines easy to see
-
-<br/>
-
-* **Be smart with color. Do you really need it?**
-    + use color-blind friendly palettes
-    + use white backgrounds
-
-<br/>
-
-* **Minimum resolution of 300 dpi**
-    + options are available for different formats (jpg, pdf, tif, png)
-
-<br/>
-
-* **Use vector graphics**
-
-<br/>
-
-* **Avoid 3D graphs**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/vector.png">

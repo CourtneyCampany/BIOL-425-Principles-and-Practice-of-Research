@@ -208,7 +208,7 @@ output:
 ## The null hypothesis proposes no relationship
 <hr>
 
-* **A null hypothesis is a type of hypothesis used in statistics that proposes that there no relationship or significance between two parameters (e.g. two experimental groups, an independent variable and a dependent variable)—in other words, the results are due to chance alone**
+* **A null hypothesis is a type of hypothesis used in statistics that proposes that there no relationship or difference between two parameters (e.g. two experimental groups, an independent variable and a dependent variable)—in other words, the results are due to chance alone**
     + For any experiment, there is a null hypothesis
 
 <br/>
@@ -274,7 +274,7 @@ output:
 <div style="float: left; width: 65%;">
 
 * **p-values range between 0 and 1 and indicate the probability that the null hypothesis is true**
-    + results are due to chance alone
+    + how likely are results are due to chance alone
 
 <br/>
 
