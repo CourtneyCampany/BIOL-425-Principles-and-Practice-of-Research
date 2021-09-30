@@ -1,5 +1,5 @@
 ---
-title: "Creating data visualizations"
+title: "Creating Data Visualizations"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -124,7 +124,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/photoscatter.png">
 
-## Histograms show frequence distributions
+## Histograms show frequency distributions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/masshist.jpg">
@@ -178,7 +178,7 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:750px; HEIGHT:600px" SRC="images/histrogram.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:650px; HEIGHT:650px" SRC="images/histrogram.png">
 
 <!-- ##  -->
 
