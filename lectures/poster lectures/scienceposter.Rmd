@@ -83,8 +83,8 @@ output:
 <br/>
 <br/>
 
-* **Poster organization and design is less rigid than a paper.**
-    + chance to inject some creativity and personality into scientific communication**
+* **Poster organization and design is less rigid than a paper**
+    + chance to inject some creativity and personality into scientific communication
 
 
 <IMG STYLE="position:absolute; TOP:345px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="images/ccc.jpg">
@@ -143,6 +143,7 @@ output:
     + title, authors, & affiliations on the strip
     + abstract in the upper left-hand corner (if required)
     + include a contact email address
+    + head shot now common (you are not always present)
 
 </div>
 
@@ -190,8 +191,8 @@ output:
 <br/>
 
 * **Optional elements:**
-    + Brief References section
-    + Acknowledgements
+    + Brief references section
+    + Acknowledgments
     + Abstract: conferences require you to submit an abstract ahead of time
 
 </div>
@@ -224,41 +225,57 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/attention.jpg">
 
-## 
+## Classic poster template
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/postertips.png">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:600px" SRC="images/bingo.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/badbad.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster2.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster3.gif">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/clasic.png">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster4.jpg">
 
-##
+## #betterposter Trend (Mike Morrison)
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:450px; HEIGHT:600px" SRC="images/poster5.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:525px" SRC="images/betterposter2.png">
 
-##
+## #betterposter Example
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster7.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/betterposter.jpg">
 
-##
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster8.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:500px; HEIGHT:600px" SRC="images/bingo.jpg"> -->
+
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:300px" SRC="images/colors.png"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/badbad.jpg"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster2.jpg"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster3.gif"> -->
+
+
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:450px; HEIGHT:600px" SRC="images/poster5.jpg"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster7.jpg"> -->
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/poster8.png"> -->
 
 ## How do you actually make a poster?
 <hr>
@@ -285,7 +302,7 @@ output:
     + A rough draft of your poster
     + Written review and workshop discussion of a classmate’s poster
     + A final draft of the poster
-    + The poster presentation via Zoom near the last week of class (exact date TBD)
+    + The poster presentation near the end of the semester
 
 <br/>
 
