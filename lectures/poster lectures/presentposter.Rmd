@@ -111,7 +111,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200x; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/adventure.jpg">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/adventure.jpg">
 
 ## Pro Tips: Nailing your poster presentation
 <hr>
@@ -148,7 +148,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 60%;">
 
 * **Presenting a poster is a performance, and just like any performance, practice is a major factor in success**
 
@@ -161,7 +161,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:10px; WIDTH:450px; HEIGHT:400px" SRC="images/practive.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:450px; HEIGHT:400px" SRC="images/practive.jpg">
 
 ## Before your presentation…
 <hr>
@@ -182,7 +182,6 @@ output:
 
 * **Be ready to answer likely questions with confidence**
     + think about what questions ahead of time
-    + take note of what people ask when you rehearse
     
 <br/>
 
@@ -194,27 +193,63 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/tough.jpg">
 
+## 3 Minute Thessis: Your elevator pitch
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+
+* **International competition to explain your research in a language appropriate to a non-specialist office**
+    + Someone else's grandma in the elevator
+
+<br/>
+
+* **Goal is to increase your capacity to effectively communicate science**
+    + used at >900 universities across 85 countries  
+    
+<br/>
+
+* **Recent winners:**
+    + https://threeminutethesis.uq.edu.au/watch-3mt
+  
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/3MT_simple_logo.png">
+
+## 3 Minute Thessis: The Rules
+<hr>
+
+* **A single static PowerPoint slide is permitted**
+
+<br/>
+
+* **No slide transitions, animations or 'movement' of any description are allowed.**
+    + no additional electronic media or props**
+
+<br/>
+
+* **Presentations are limited to 3 minutes maximum**
+    + competitors exceeding 3 minutes are disqualified.
+
+<br/>
+
+* **Presentations are to be spoken word (e.g. no poems, raps or songs)**
+
+<br/>
+
+* **Dr. C will provide prizes!!!**
+    + grade based mostly on participation 
+
+
 ## Dr. C in the HOT SEAT!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/hotseat.jpg">
 
-## Let's critique Dr. C
-<hr>
-<br/>
-<br/>
-<br/>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:500px; HEIGHT:300px" SRC="images/hotseat2.png">
 
+##
 
-**What did I do well?**
-
-<br/>
-
-**What did I do not so well?**
-
-<br/>
-
-**What could be improved on my poster or presentation?**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:250px; HEIGHT:300px" SRC="images/roast.jpg">
-
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/3mt.png">
