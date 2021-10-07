@@ -79,7 +79,7 @@ output:
 <br/>
 
 * **Beginning:  set the scene and introduce the main characters**
-    + Provide the necessary background information that your audience must know
+    + Provide the necessary background information for your audience
     + How did this lead to your research question?
     + What were you hoping to find out and why?
     + Who are the main characters? (e.g. drug, disease, gene, cell type, technique, etc.)
@@ -186,14 +186,15 @@ output:
 <br/>
 
 * **Know how to deal with difficult questions that you might not be able to answer fully**
-    + it is 'OK' to say you do not know
     + expect someone will ask that ? you can't answer
+    + it is 'OK' to say you do not know
+
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/tough.jpg">
 
-## 3 Minute Thessis: Your elevator pitch
+## 3 Minute Thesis: Your elevator pitch
 <hr>
 <br/>
 <br/>
@@ -218,7 +219,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/3MT_simple_logo.png">
 
-## 3 Minute Thessis: The Rules
+## 3 Minute Thesis: The Rules
 <hr>
 
 * **A single static PowerPoint slide is permitted**
@@ -226,7 +227,7 @@ output:
 <br/>
 
 * **No slide transitions, animations or 'movement' of any description are allowed.**
-    + no additional electronic media or props**
+    + no additional electronic media or props
 
 <br/>
 
@@ -243,13 +244,13 @@ output:
     + grade based mostly on participation 
 
 
-## Dr. C in the HOT SEAT!
-<hr>
+<!-- ## Dr. C in the HOT SEAT! -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/hotseat.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:350px" SRC="images/hotseat.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:500px; HEIGHT:300px" SRC="images/hotseat2.png">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:500px; HEIGHT:300px" SRC="images/hotseat2.png"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/3mt.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/3mt.png"> -->
