@@ -95,12 +95,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/brain.jpg">
 
-## Professional Science Communication
+## **Why do scientists communicate with each other?**
 <hr>
-<br/>
-
-**Why do scientists communicate with each other?**
-
 <br/>
 
 **Because science is social**
@@ -130,11 +126,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/scicom2.png">
 
-## Popular Science Communication
+## Why do scientists engage in popularization?
 <hr>
-
-**Why do scientists engage in popularization?**
-
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -158,6 +153,15 @@ output:
 **To satisfy the requirements of grant-givers**
 
 </div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/popular.jpg">
+
+## Why do scientists engage in popularization?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/scicom2.png">
 
 <div style="float: right; width: 50%;">
 
@@ -183,8 +187,10 @@ output:
 
 </div>
 
-## Why scientists should communnicate science...
+## Why scientists should communicate science...
 <hr>
+<br/>
+
 <div style="float: left; width: 60%;">
 * **Communicating science effectively needs more than facts**
 
@@ -245,7 +251,7 @@ output:
 
 <br/>
 
-* **Some complementary treatments (meditation/acupunture) to produce clinical benefits**
+* **Some complementary treatments (meditation/acupunture) do produce clinical benefits**
     + should anyone ever reject proven treatments?
 
 <br/>
@@ -258,7 +264,7 @@ output:
 * **Who do you think is most vulnerable to alternative science facts?**
     + Why?
 
-## The role of education and media in altertive science facts
+## The role of education and media in alternative science facts
 <hr>
 <br/>
 
@@ -310,7 +316,7 @@ output:
 
 <br/>
 
-* **In the modern age of communication, scientist mush understand where people are coming from**
+* **In the modern age of communication, scientist must  understand where people are coming from**
     + enthusiastic about wonder cures
     + scared for their children
     + anxious about the future
@@ -470,5 +476,7 @@ output:
 
 * **Prepare a 2-minute oral presentation, for a smart but uninformed, non-specialist audience**
     + no notes allowed
-    
+
+<br/>
+
 * **Try not to stress, this is just practice**
