@@ -234,7 +234,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/cancer.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/cancer.png">
 
 <div style="float: right; width: 50%;">
 
@@ -388,7 +388,6 @@ output:
 * **Pipeline Argument:** continued health of science depends on each generation of scientists enthusing the best and brightest of the next generation to become scientists
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/nextgen.gif">
-
 
 ## Major arguments for promoting popular Sci Comm
 <hr>
