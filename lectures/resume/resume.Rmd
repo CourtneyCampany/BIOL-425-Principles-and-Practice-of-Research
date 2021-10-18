@@ -16,7 +16,7 @@ output:
 
 * **The resume and CV are different documents used in different situations**
 
-<br/><IMG STYLE="position:absolute; TOP:280px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/cvresume.png">
+<br/><IMG STYLE="position:absolute; TOP:285px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/cvresume.png">
 
 ## Preparing your job materials: The Resume
 <hr>
@@ -97,12 +97,12 @@ output:
 <br/>
 
 * **A traditional format that is flexible and can be used by applicants with any level of experience:**
-    + Contact Information – contact details must be outlined near the top.
-    + Career Objective – This type of resume introduction can be used by anyone, and allows job-seekers to tailor their resume to their employer.
-    + Education – Your degrees and certifications (if relevant) should be highlighted.
-    + Work Experience – highlight previous work related to the position
-    + Additional Skills – Your skills section can be used to highlight skills or personal attributes relevant to the position.
-    + Awards & Honors – mention your most impressive
+    + **Contact Information** – contact details must be outlined near the top.
+    + **Career Objective** – This type of resume introduction can be used by anyone, and allows job-seekers to tailor their resume to their employer.
+    + **Education** – Your degrees and certifications (if relevant) should be highlighted.
+    + **Work Experience** – highlight previous work related to the position
+    + **Additional Skills** – Your skills section can be used to highlight skills or personal attributes relevant to the position.
+    + **Awards & Honors** – mention your most impressive
 
 
 ## Contact Information and Career Objectives

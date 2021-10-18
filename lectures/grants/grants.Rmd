@@ -27,15 +27,14 @@ output:
 
 <br/>
 
-* s**Not an issue at private companies**
+* **Not an issue at private companies**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/grant.png">
 
-## Where is the grant money going?
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/trends.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/trends.jpg">
 
 ## Writing Proposals is an Essential Activity of Scientists
 <hr>
@@ -156,24 +155,24 @@ The Robert Wood Johnson Foundation
 <br/>
 <br/>
 
-Moore Foundation
+**Moore Foundation**
 <br/>
-Simons
+**Simons**
 <br/>
-Gates
+**Gates**
 <br/>
-Ellison
+**Ellison**
 <br/>
-Brin
+**Brin**
 <br/>
-Koch
+**Koch**
 <br/>
-Bezos
+**Bezos**
 <br/>
 
-<IMG STYLE="position:absolute; TOP:390px; LEFT:220px; WIDTH:450px; HEIGHT:225px" SRC="images/gates.png">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:240px; WIDTH:450px; HEIGHT:225px" SRC="images/gates.png">
 
-<IMG STYLE="position:absolute; TOP:390px; LEFT:680px; WIDTH:225px; HEIGHT:225px" SRC="images/bezos.jpg">
+<IMG STYLE="position:absolute; TOP:390px; LEFT:700px; WIDTH:225px; HEIGHT:225px" SRC="images/bezos.jpg">
 
 ## Searching for grants for your research...
 <hr>
@@ -194,7 +193,7 @@ existing program
 
 You should have some idea of the typical funding range offered by
 the program, because your proposal can be dismissed outright if your
-budget requests are too extravagant
+budget requests are too large 
 
 <br/>
 
@@ -281,7 +280,7 @@ agency and the specific program!
 
 <br/>
 
-<div style="float: left; width: 61%;">
+<div style="float: left; width: 58%;">
 
 * **High rejections squander a valuable opportunity for professional learning and development**
     + success is binary (y/n) unlike scientific learning
@@ -363,7 +362,7 @@ agency and the specific program!
 <hr>
 
 * **Intellectual Merit**
-    + potential for the proposed activity to advance knowledge and understanding within field or across  fields?
+    + potential to advance knowledge and understanding within field or across  fields?
     + are proposed activities creative, original, or potentially transformative concepts?
     + is the plan for carrying out the proposed activities well-reasoned, well-organized, and based
 on a sound rationale?
@@ -386,7 +385,7 @@ on a sound rationale?
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:5px; WIDTH:350px; HEIGHT:500px" SRC="images/society.png"> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/opinion.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/opinion.png">
 
 ## Whats constitutes a typical grant?
 <hr>
