@@ -180,10 +180,11 @@ COVID-19 vaccines for some
 
 ## Paper retractions as a measure of scientific misconduct
 <hr>
+<br/>
 
-* **The proportion of retractions involving plagiarism of text—stealing someone else’s or duplicating one’s own—has risen**
-    + introduction in 2004 of iThenticate, an inter-net-based plagiarism detection service
-    + fake peer reviews occur when authors give journals email addresses that they control, allowing them to review their own manuscripts.      + Flawed images include instances of intentional manipulation and of error
+* **Retractions involving plagiarism: text—stealing or duplicating one’s own work has risen**
+    + fake peer reviews occur when authors give journals email addresses that they control, allowing them to review their own manuscripts.      
+    + flawed images include instances of intentional manipulation and of error
 
 <IMG STYLE="position:absolute; TOP:330px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/retraction2.png">
 
@@ -284,5 +285,5 @@ COVID-19 vaccines for some
 ## Modern push to publish data and code
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:425px; HEIGHT:400px" SRC="images/journaldata.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/journaldata.png">
 

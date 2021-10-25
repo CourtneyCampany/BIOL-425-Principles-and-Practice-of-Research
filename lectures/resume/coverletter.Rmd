@@ -11,6 +11,11 @@ output:
 <hr>
 <br/>
 
+* **Document sent alongside your CV when applying for jobs.**
+    + It acts as a personal introduction and helps to sell your application.
+
+<br/>
+
 * **"It should show what sets this individual apart from all others," advises Jeffrey Stansbury,  University of Colorado School of Dental Medicine.**
 
 <br/>
@@ -56,7 +61,7 @@ output:
 
 <br/>
 
-* **There will be many applicants qualified for the job, thus your cover letter should answers: How will this person fit in here?**
+* **There will be many applicants qualified for the job, thus your cover letter should answer: How will would this person fit in here?**
 
 ## Planning
 <hr>
