@@ -111,15 +111,19 @@ output:
 
 <div style="float: left; width: 68%;">
 
-* **Many people are tired after four years of college and don’t want to go to more school…**
-
+* **Many people are tired after four years of college and don’t want more school…**
+    + current economic trends do play a role
+    
 <br/>
 
 * **Consider whether you might want:**
-    + To do advanced work in a subject (guide your own research/activities)
-    + A profession that requires specialization (skill set requires more advanced classes)
-    + A job that requires an advanced degree (e.g. some government positions)
-
+    + To do advanced work in a subject
+        + guide your own research/activities
+    + A profession that requires specialization
+        + skill set requires more advanced classes
+    + A job that requires an advanced degree
+        + e.g. some government positions
+        
 <br/>
 
 * **Graduate school directories:**
@@ -188,7 +192,7 @@ output:
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/bigdata.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:610px; WIDTH:500px; HEIGHT:400px" SRC="images/bigdata.jpg">
 
 ## Disciplines of biology-related research
 <hr>
@@ -218,8 +222,6 @@ output:
 
 <br/>
 
-<div style="float: left; width: 65%;">
-
 * **Each setting has advantages and disadvantages**
     + Academic – small primarily undergrad institution (Shepherd)
         - Great freedom, undergrad students
@@ -233,8 +235,6 @@ output:
     + Government (Department of Defense)
         - Some degree of freedom
         - Red tape, scramble for money
-
-</div>
 
 ##
 
