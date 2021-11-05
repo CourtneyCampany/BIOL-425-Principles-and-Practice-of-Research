@@ -109,8 +109,8 @@ output:
 
 <br/>
 
-* **Application form:  CV, personal details, academic transcripts, test results, and names of references.**
-    + Academic transcripts:  Official versus unofficial.
+* **Application form: CV, personal details, academic transcripts, test results, and names of references**
+    + Academic transcripts:  Official versus unofficial
     + Application fees: ~50-85$
 
 <br/>
@@ -335,7 +335,7 @@ output:
 
 <br/>
 
-* **Be Resourceful, these programs rarely recruit**
+* **Be resourceful, these programs rarely recruit**
 
 <br/>
 
