@@ -19,12 +19,12 @@ output:
 
 <br/>
 
-* **Many tutorials around topics related to applying for jobs are available at:*
+* **Many tutorials around topics related to applying for jobs are available at:**
     + http://www.shepherd.edu/career-center/tutorials
 
-<br/>
+<!-- <br/> -->
 
-* **Shepherd's fall career fair: **
+<!-- * **Shepherd's fall career fair: ** -->
 
 </div>
 
@@ -94,7 +94,7 @@ output:
 
 <br/>
 
-* **Cover letters can be recycled but need to be tailored to each position**
+* **Cover letters can be recycled but should be tailored to each position**
     + easy to forget (Dr. C forgot many times)
 
 <br/>
@@ -111,13 +111,14 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Large internet job boards:**
-    + www.indeed.com
+    + https://www.indeed.com
     + https://www.sciencejobs.org/
     + https://jobs.sciencecareers.org/
+    + https://jobs.avma.org/jobs (by career)
     
 <br/>
 
-* **Federal government:  www.usajobs.gov**
+* **Federal government:  https:/www.usajobs.gov**
 
 <br/>
 
@@ -129,18 +130,38 @@ output:
 <br/>
 
 * **Many large companies also maintain employment sites**
-    + usually cross-posted on large internet job boards
-
-<br/>
-
-* **Create an account and get updates!**
 
 </div>
 
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/jobboard.jpg">
 
-## Lets get started! Go find a damn job!
+## Check the Human Resources sites for places you want to work
 <hr>
+<br/>
+<br/>
+
+* **National Institute of Health**
+    + https://hr.nih.gov/jobs
+
+<br/>
+
+* **National Cancer Institute - Frederick**
+    + https://frederick.cancer.gov/careers
+
+<br/>
+
+* **Universities in a specific location**
+    + https://careers.wvu.edu/career-opportunities
+
+<br/>
+
+* **Meritus Health - Hagerstown**
+    + https://www.meritushealth.com/careers/
+
+## Lets get started! Go find a job! 
+<hr>
+**Sign up for updates**
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/rabbithole.png">
 

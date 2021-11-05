@@ -51,9 +51,9 @@ output:
 
 * **You pay for these!!**
 
-<br/>
+<!-- <br/> -->
 
-<span style="color:orange">Shepherd’s fall career fair: </span>
+<!-- <span style="color:orange">Shepherd’s fall career fair: </span> -->
 
 </div>
 
@@ -388,11 +388,8 @@ output:
 <br/>
 <br/>
 
-* **Come up with a list of 3 or 4 jobs or positions that interest you**
+* **Come up with a list of of jobs types that interest you**
 
-<br/>
-
-* **We’re going to use these in the next several classes to prepare job application materials**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/vision.jpg">
