@@ -104,7 +104,7 @@ output:
 ## Graduate school application requirements
 <hr>
 
-* **Applications typically open in the fall (Sept. 1) with December deadlines**
+* **Applications typically open in the fall (Sept. 1) with deadlines starting in December**
     + often new grants create positions at other times
 
 <br/>
@@ -373,7 +373,7 @@ output:
 ## Dr. C's final thoughts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/global.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/globalscience.jpg">
 
 ## 
 

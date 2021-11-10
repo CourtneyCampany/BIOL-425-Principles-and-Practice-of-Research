@@ -29,38 +29,33 @@ output:
 
 ## Comparison of professional school degrees
 <hr>
+<br/>
+<br/>
 
 * **Physician (MD, DO)**
-
 <br/>
 
 * **Physician’s Assistant (PA)**
-
 <br/>
 
 * **Physical Therapist (PT)**
-
 <br/>
 
 * **Pharmacist**
-
 <br/>
 
 * **Dentist**
-
 <br/>
 
 * **Veterinarian**
-
 <br/>
 
 * **Chiropractor**
-
 <br/>
 
 * **Optometrist**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/careers.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:450px; HEIGHT:450px" SRC="images/careers.png">
 
 ## Why choose professional school? 
 <hr>
@@ -89,7 +84,8 @@ output:
 
 * **However:**
     + Training process is long and demanding
-    + High debt (MD:  ~$250K tuition, DDS: ~$165K, vet: ~$125K)
+    + High debt
+        + MD:  ~$250K tuition, DDS: ~$165K, vet: ~$125K
     + Stressful professions
 
 
@@ -103,7 +99,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **A competitive test score on a standardized admissions tests**
+* **A competitive test score on a standardized admissions test**
 
 <br/>
 
@@ -163,7 +159,7 @@ output:
 
 <br/>
 
-* **Admission test: MCAT (Medical College Admissions Test)** 
+* **Requires MCAT (Medical College Admissions Test)** 
 
 </div>
 
@@ -175,14 +171,14 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Evidence of academic success**
-    + GPA >3.5 in BCPM (biology, chemistry, physics, math)
+    + GPA >3.5 in biology, chemistry, physics, math
     + MCAT of >500 (125 per section)
 
 <br/>
 
-* **Course requirements (minimum grade):**
+* **Course requirements:**
     + Biology, chemistry, biochemistry, physics, labs, behavioral sciences, medical terminology
-    + There are grade minimums (usually C)
+    + Grade minimums exist (usually C)
 
 <br/>
 
@@ -195,10 +191,10 @@ output:
 
 </div>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 45%;">
 
 * **Evidence of other activities**
-    + Shadowing at a hospital/physician’s office
+    + Shadowing at a hospital/physicians office
     + Hospital volunteering or work
     + Leadership and service in community
     + Undergraduate research
@@ -282,7 +278,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:350px; HEIGHT:500px" SRC="images/pastats2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:375px; HEIGHT:500px" SRC="images/pastats2.jpg">
 
 ## Dentist
 <hr>
@@ -332,7 +328,7 @@ output:
 <br/>
 
 * **212 programs in the U.S.**
-    + WVU, Marshall, Shenandoah University)
+    + WVU, Marshall, Shenandoah University
     + Requires national and state licensure 
 
 <br/>
@@ -351,7 +347,7 @@ output:
 
 <div style="float: left; width: 65%;">
 
-* **Pharmacists dispense prescription medication along with key information, such as side effects, contraindications with other medicines, and a range of other concerns.**
+* **Pharmacists dispense prescription medication along with key information, such as side effects, contradications with other medicines, and a range of other concerns.**
     + See:  http://www.aacp.org
     + PharmD (Doctor of Pharmacy)
 
@@ -399,7 +395,6 @@ output:
 <br/>
 
 * **Admissions test: moving away from tests (some GRE)**
-
 <br/>
 
 * **Vet school admission is extremely competitive**
@@ -498,7 +493,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/medschool.jpg">
 
-## Practive admissions tests!
+## Practice admissions tests!
 <hr>
 <br/>
 <br/>
