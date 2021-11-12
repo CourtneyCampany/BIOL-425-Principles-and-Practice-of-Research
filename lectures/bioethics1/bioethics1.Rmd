@@ -35,7 +35,7 @@ output:
 <br/>
 * **Reproductive decisions**
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:800px; HEIGHT:400px" SRC="images/shouldI.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:800px; HEIGHT:400px" SRC="images/shouldI.jpg">
 
 ## Ethics: The basics
 <hr>
@@ -98,33 +98,28 @@ output:
 
 ## Ethical, legal, scientific, or personal preference?  
 <hr>
+<br/>
+<br/>
 
 **Which sport is the most exciting?**
-
 <br/>
 
 **Whom should you marry?**
-
 <br/>
 
 **How are embryonic stem cells different from adult stem cells?**
-
 <br/>
 
 **Should embryonic stem cells be used in biomedical research?**
-
 <br/>
 
 **Can scientists patent genes?**
-
 <br/>
 
 **Should people be allowed to patent genes?**
-
 <br/>
 
 **Should you lie to protect the safety of your family?**
-
 <br/>
 
 **Do you need to credit another scientist who worked with you on your paper?**
@@ -142,7 +137,7 @@ output:
 
 **A. Do nothing and allow the trolley to kill the five people on the main track.**
 <br/>
-**B. Pull the lever, diverting the trolley onto the side track where it will kill one **person.**
+**B. Pull the lever, diverting the trolley onto the side track where it will kill one  person.**
 
 **Lets have a secret vote.....**
 
@@ -162,6 +157,10 @@ output:
 * **Ethics is not a matter of opinion. An important part of ethical thought is to provide a justification for a course of action—successful arguments are well-reasoned**
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:375px; WIDTH:400px; HEIGHT:250px" SRC="images/trolley2.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yg16u_bzjPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ethical decisions: Key questions to ask yourself
 <hr>
@@ -187,7 +186,6 @@ output:
 ## Ethical decisions: Key questions to ask yourself
 <hr>
 <br/>
-<br/>
 
 
 * **What is an ethical question?**
@@ -206,7 +204,6 @@ output:
 
 ## Ethical decisions: Key questions to ask yourself
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -227,7 +224,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/model.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/model.jpg">
 
 ## Core ethical considerations
 <hr>
@@ -256,8 +253,8 @@ output:
 
 <br/>
 
-*Focuses on trying to promote positive consequences by balancing harms and benefits 
-Harms and benefits come in a variety of types: physical, emotional, economic, social
+*Focuses on trying to promote positive consequences by balancing harms and benefits. 
+Harms and benefits come in a variety of types: physical, emotional, economic and social.
 Central tenet of modern medicine*
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:225px" SRC="images/risks.gif">
@@ -313,7 +310,5 @@ There are many ways of determining what is fair:  giving equal amounts, giving a
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:350px; HEIGHT:235px" SRC="images/equity.png">
 
-##
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yg16u_bzjPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
