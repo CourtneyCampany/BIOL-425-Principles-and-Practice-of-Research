@@ -52,7 +52,7 @@ output:
     + Food, farming and the environment
     + Crime and security
     + Research ethics
-
+    + Vaccine distribution
 <br/>
 
 <span style="color:red">**Just because humans CAN do something, SHOULD we?**</span>
@@ -64,7 +64,7 @@ output:
 <IMG STYLE="position:absolute; TOP:440px; LEFT:45px; WIDTH:250px; HEIGHT:250px" SRC="images/cell.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/modernbio.jpg">
+<IMG STYLE="position:absolute; TOP:00px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/modernbio.jpg">
 
 ## Genetic testing and genomics
 <hr>
@@ -72,7 +72,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 70%;">
+<div style="float: left; width: 60%;">
 
 * **The ability to perform sophisticated genetic tests or sequence an entire genome is revolutionizing diagnosis of disease**
     + increasing tests are non-invasive
@@ -88,7 +88,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/prenatal.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:425px; HEIGHT:400px" SRC="images/prenatal.jpg">
 
 
 ## Genetic testing and genomics
@@ -107,7 +107,7 @@ output:
 <br/>
 
 * **Should a fetus with a fatal disease be terminated**
-    + Down-syndromw vs autism vs IQ
+    + Down-syndrome vs autism vs IQ
     + What about false-positives?
 
 <br/>
@@ -123,7 +123,6 @@ output:
 ## Gene editing and genetically modified organisms
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
@@ -133,7 +132,8 @@ output:
 <br/>
 
 * **Some diseases can be corrected (e.g. sickle cell)**
-
+    + https://www.youtube.com/watch?v=mQ8Ola_C5po&t=7s
+    
 <br/>
 
 * **Chinese scientist used CRISPR on human embryos to edit the receptor that HIV uses to gain entry**
@@ -141,10 +141,12 @@ output:
 <br/>
 
 * **Crops are being modified to withstand various ecological challenges**
+    + genetically engineering C4 photosynthesis
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:450px" SRC="images/hiv.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:450px; HEIGHT:250px" SRC="images/sickle.jpg">
+<IMG STYLE="position:absolute; TOP:420px; LEFT:750px; WIDTH:275px; HEIGHT:250px" SRC="images/hiv.jpg">
 
 ## Gene editing and genetically modified organisms
 <hr>
@@ -174,10 +176,13 @@ output:
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/cropscrispr.jpg">
 
 
-## Reflection: How do you feel about gene editting?
+## Reflection: How do you feel about gene editing?
 <hr>
+https://www.theatlantic.com/science/archive/2018/02/biohacking-stunts-crispr/553511/
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/crispr.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/crispr.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:450px; HEIGHT:300px" SRC="images/geneedit.jpg">
 
 ## Stem cell research and therapy
 <hr>
@@ -374,7 +379,7 @@ output:
 <br/>
 
 * **Goes beyond a health issue**
-    + Affects security and economics**
+    + Affects security and economics
 </div>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/health2.png">
